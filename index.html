@@ -73,7 +73,25 @@
   details.legend dt { font-weight: 600; color: var(--fg); }
   details.legend dd { margin: 0; color: var(--muted); }
 
-  .chart-wrap { padding: 18px 32px 16px; background: var(--panel); border-bottom: 1px solid #232838; }
+  .chart-wrap { padding: 18px 32px 16px; background: var(--panel); border-bottom: 1px solid #232838; position: relative; }
+  .chart-tooltip {
+    position: absolute; pointer-events: none; opacity: 0; transition: opacity 0.08s;
+    background: #1a1f2c; border: 1px solid #2a3142; border-radius: 8px;
+    padding: 10px 12px; min-width: 180px; font-size: 12px; line-height: 1.4;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.45); z-index: 50;
+    transform: translate(-50%, -100%); margin-top: -10px;
+  }
+  .chart-tooltip.show { opacity: 1; }
+  .chart-tooltip .date { font-weight: 700; color: var(--fg); margin-bottom: 6px; font-size: 13px; }
+  .chart-tooltip .row { display: flex; justify-content: space-between; gap: 14px; }
+  .chart-tooltip .row .k { color: var(--muted); }
+  .chart-tooltip .row .v { color: var(--fg); font-weight: 600; }
+  .chart-tooltip .row .v.spend { color: var(--accent); }
+  .chart-tooltip .row .v.roas-good { color: var(--green); }
+  .chart-tooltip .row .v.roas-mid  { color: var(--amber); }
+  .chart-tooltip .row .v.roas-bad  { color: var(--red); }
+  .chart .hover-zone { fill: transparent; cursor: pointer; }
+  .chart .hover-zone:hover ~ * .bar { opacity: 0.5; }
   .chart-wrap h3 { margin: 0 0 4px; font-size: 14px; font-weight: 600; }
   .chart-wrap .sub { color: var(--muted); font-size: 12px; margin-bottom: 12px; }
   .chart { width: 100%; height: auto; max-height: 280px; aspect-ratio: 1400 / 260; display: block; }
@@ -106,6 +124,7 @@
   <h3>Daily YT Demand Gen — spend vs ROAS (last 30 days, currently enabled ads)</h3>
   <div class="sub">Aggregated across every enabled video responsive ad in the two active YouTube Demand Gen campaigns. Bars = spend (left axis), green line = ROAS (right axis).</div>
   <svg class="chart" id="daily-chart" viewBox="0 0 1400 260" preserveAspectRatio="xMidYMid meet"></svg>
+  <div class="chart-tooltip" id="chart-tooltip"></div>
   <div class="chart-legend">
     <span class="l-spend">Daily spend ($)</span>
     <span class="l-roas">Daily ROAS (conv value / spend)</span>
@@ -213,13 +232,13 @@ const DAILY = [{"date": "2026-04-14", "spend": 24.52, "imps": 73292, "clicks": 3
     const bx = x(i);
     const by = ySpend(d.spend);
     const bh = pad.t + innerH - by;
-    svgInner += `<rect class="bar" x="${bx}" y="${by}" width="${barW}" height="${bh}"><title>${d.date}: $${d.spend.toFixed(2)} spend · $${d.value.toFixed(2)} value · ${d.roas.toFixed(2)}x ROAS · ${d.imps.toLocaleString()} imp</title></rect>`;
+    svgInner += `<rect class="bar" x="${bx}" y="${by}" width="${barW}" height="${bh}"></rect>`;
   });
   // ROAS line
   const linePts = DAILY.map((d,i) => `${x(i) + barW/2},${yRoas(d.roas)}`).join(" ");
   svgInner += `<polyline class="roas-line" points="${linePts}"/>`;
   DAILY.forEach((d,i) => {
-    svgInner += `<circle class="roas-dot" cx="${x(i) + barW/2}" cy="${yRoas(d.roas)}" r="2.5"><title>${d.date}: ${d.roas.toFixed(2)}x ROAS</title></circle>`;
+    svgInner += `<circle class="roas-dot" cx="${x(i) + barW/2}" cy="${yRoas(d.roas)}" r="3"></circle>`;
   });
   // X-axis labels — show every 5th
   DAILY.forEach((d,i) => {
@@ -227,7 +246,48 @@ const DAILY = [{"date": "2026-04-14", "spend": 24.52, "imps": 73292, "clicks": 3
     const label = d.date.slice(5); // MM-DD
     svgInner += `<text class="axis-label" x="${x(i) + barW/2}" y="${H - pad.b + 14}" text-anchor="middle">${label}</text>`;
   });
+  // Full-height invisible hover zones (one per day) for tooltip activation
+  DAILY.forEach((d, i) => {
+    const zoneW = innerW / n;
+    const zx = pad.l + i * zoneW;
+    svgInner += `<rect class="hover-zone" data-i="${i}" x="${zx}" y="${pad.t}" width="${zoneW}" height="${innerH}"></rect>`;
+  });
   svg.innerHTML = svgInner;
+
+  // Tooltip handlers
+  const tooltip = document.getElementById("chart-tooltip");
+  const fmtUSD = n => "$" + n.toLocaleString(undefined, { maximumFractionDigits: 2 });
+  const zones = svg.querySelectorAll(".hover-zone");
+  zones.forEach(z => {
+    z.addEventListener("mouseenter", e => {
+      const i = parseInt(z.dataset.i, 10);
+      const d = DAILY[i];
+      const roasClass = d.roas >= 5 ? "roas-good" : d.roas >= 1 ? "roas-mid" : "roas-bad";
+      const cpc = d.clicks > 0 ? d.spend / d.clicks : 0;
+      tooltip.innerHTML = `
+        <div class="date">${d.date}</div>
+        <div class="row"><span class="k">Spend</span><span class="v spend">${fmtUSD(d.spend)}</span></div>
+        <div class="row"><span class="k">Impressions</span><span class="v">${d.imps.toLocaleString()}</span></div>
+        <div class="row"><span class="k">Clicks</span><span class="v">${d.clicks.toLocaleString()}</span></div>
+        ${cpc ? `<div class="row"><span class="k">Avg CPC</span><span class="v">${fmtUSD(cpc)}</span></div>` : ""}
+        <div class="row"><span class="k">Conversions</span><span class="v">${d.conv.toFixed(2)}</span></div>
+        <div class="row"><span class="k">Conv value</span><span class="v">${fmtUSD(d.value)}</span></div>
+        <div class="row"><span class="k">ROAS</span><span class="v ${roasClass}">${d.roas.toFixed(2)}x</span></div>
+      `;
+      // Position based on actual SVG-rendered coords
+      const wrap = document.querySelector(".chart-wrap");
+      const wrapRect = wrap.getBoundingClientRect();
+      const zRect = z.getBoundingClientRect();
+      const cx = (zRect.left + zRect.right) / 2 - wrapRect.left;
+      const cy = zRect.top - wrapRect.top;
+      tooltip.style.left = cx + "px";
+      tooltip.style.top = cy + "px";
+      tooltip.classList.add("show");
+    });
+    z.addEventListener("mouseleave", () => {
+      tooltip.classList.remove("show");
+    });
+  });
 })();
 
 // Stats header

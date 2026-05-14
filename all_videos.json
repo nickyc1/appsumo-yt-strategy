@@ -34589,7 +34589,50 @@
     "yt_url": "https://youtube.com/watch?v=X-Rx7OnhGio",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      },
+      "d7": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      },
+      "d30": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      }
+    }
   },
   {
     "asset_id": 315746824991,
@@ -34849,7 +34892,56 @@
     "yt_url": "https://youtube.com/watch?v=mGz-jP8jsR0",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 323239354584,
@@ -34861,7 +34953,56 @@
     "yt_url": "https://youtube.com/watch?v=qk5UlV3FRQc",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 324847938683,
@@ -34921,7 +35062,56 @@
     "yt_url": "https://youtube.com/watch?v=t63rKjBHQCA",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 328434885295,
@@ -34940,12 +35130,14 @@
         "clicks": 3,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 3,
         "roas": 0.0,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
@@ -34954,12 +35146,14 @@
         "clicks": 10,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 3,
         "roas": 0.0,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
@@ -34968,12 +35162,14 @@
         "clicks": 14,
         "conv": 1.43,
         "value": 245.83,
-        "n_ads": 3,
         "roas": 29.63,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -34988,7 +35184,56 @@
     "yt_url": "https://youtube.com/watch?v=0yC7sAaYB18",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.02,
+        "imps": 9,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 4.85,
+        "imps": 1526,
+        "clicks": 7,
+        "conv": 1.62,
+        "value": 131.89,
+        "roas": 27.19,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 330166236700,
@@ -35000,7 +35245,56 @@
     "yt_url": "https://youtube.com/watch?v=Rziw9MOMaWA",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.11,
+        "imps": 7,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 2.12,
+        "imps": 427,
+        "clicks": 2,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 330166236703,
@@ -35012,7 +35306,56 @@
     "yt_url": "https://youtube.com/watch?v=jp5Z7s9n0mw",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.03,
+        "imps": 3,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 41.79,
+        "imps": 14508,
+        "clicks": 48,
+        "conv": 0.49,
+        "value": 83.99,
+        "roas": 2.01,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 330166236706,
@@ -35026,7 +35369,56 @@
     "yt_url": "https://youtube.com/watch?v=QNXyxEhY-00",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.06,
+        "imps": 11,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 67.09,
+        "imps": 39390,
+        "clicks": 105,
+        "conv": 1.05,
+        "value": 140.61,
+        "roas": 2.1,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 330166236709,
@@ -35038,7 +35430,56 @@
     "yt_url": "https://youtube.com/watch?v=B02wKzU6iIk",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 330166236712,
@@ -35050,7 +35491,56 @@
     "yt_url": "https://youtube.com/watch?v=NRtwYa6v44M",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 330166236715,
@@ -35062,7 +35552,56 @@
     "yt_url": "https://youtube.com/watch?v=Eiiei1j9SCc",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.14,
+        "imps": 22,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 10.77,
+        "imps": 29992,
+        "clicks": 114,
+        "conv": 0.17,
+        "value": 8.96,
+        "roas": 0.83,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 330166236718,
@@ -35074,7 +35613,56 @@
     "yt_url": "https://youtube.com/watch?v=IrcFZGCtnO0",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.19,
+        "imps": 20,
+        "clicks": 1,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 18.76,
+        "imps": 7399,
+        "clicks": 21,
+        "conv": 0.02,
+        "value": 0.11,
+        "roas": 0.01,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 330166236721,
@@ -35086,7 +35674,56 @@
     "yt_url": "https://youtube.com/watch?v=ZMm6TGoAsvY",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.15,
+        "imps": 13,
+        "clicks": 1,
+        "conv": 0.99,
+        "value": 70.3,
+        "roas": 473.3,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 2.87,
+        "imps": 404,
+        "clicks": 4,
+        "conv": 0.99,
+        "value": 70.3,
+        "roas": 24.46,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 330166236724,
@@ -35098,7 +35735,56 @@
     "yt_url": "https://youtube.com/watch?v=oOAonQVja-s",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.23,
+        "imps": 15,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 1.55,
+        "imps": 301,
+        "clicks": 7,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 330204985428,
@@ -35110,7 +35796,56 @@
     "yt_url": "https://youtube.com/watch?v=EuvXs-HfQYM",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 330204985431,
@@ -35122,7 +35857,56 @@
     "yt_url": "https://youtube.com/watch?v=R3SaTZRiR_c",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 331049599630,
@@ -35136,7 +35920,56 @@
     "yt_url": "https://youtube.com/watch?v=uwbK6rUDMDA",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.06,
+        "imps": 26,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 3.25,
+        "imps": 2496,
+        "clicks": 17,
+        "conv": 1.86,
+        "value": 174.29,
+        "roas": 53.61,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 331049599633,
@@ -35150,7 +35983,56 @@
     "yt_url": "https://youtube.com/watch?v=pz2r0pidYOc",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.02,
+        "imps": 7,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 3.94,
+        "imps": 1437,
+        "clicks": 4,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 332790058676,
@@ -35225,30 +36107,34 @@
     "perf": {
       "d1": {
         "spend": 2.79,
-        "imps": 3997,
+        "imps": 3996,
         "clicks": 28,
         "conv": 0.28,
         "value": 16.24,
-        "n_ads": 2,
         "roas": 5.83,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
         "spend": 9.88,
-        "imps": 17836,
+        "imps": 17835,
         "clicks": 90,
         "conv": 0.42,
         "value": 36.63,
-        "n_ads": 2,
         "roas": 3.71,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
@@ -35257,12 +36143,14 @@
         "clicks": 110,
         "conv": 3.37,
         "value": 152.9,
-        "n_ads": 2,
         "roas": 10.82,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -35277,7 +36165,56 @@
     "yt_url": "https://youtube.com/watch?v=LMHb6Xdgfwk",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 334805998713,
@@ -35291,7 +36228,56 @@
     "yt_url": "https://youtube.com/watch?v=YWDZLGEPOZI",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 1.15,
+        "imps": 117,
+        "clicks": 2,
+        "conv": 1.08,
+        "value": 149.35,
+        "roas": 130.43,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 34.07,
+        "imps": 4485,
+        "clicks": 43,
+        "conv": 6.88,
+        "value": 618.65,
+        "roas": 18.16,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 335172395967,
@@ -35303,7 +36289,56 @@
     "yt_url": "https://youtube.com/watch?v=2BLteFga49I",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 335172395970,
@@ -35315,7 +36350,56 @@
     "yt_url": "https://youtube.com/watch?v=uWvKnX0760Y",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 335172395973,
@@ -35327,7 +36411,56 @@
     "yt_url": "https://youtube.com/watch?v=F8_9mdf9vgU",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 335677491654,
@@ -35339,7 +36472,56 @@
     "yt_url": "https://youtube.com/watch?v=lQcf53_HKMs",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.33,
+        "imps": 40,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 5.67,
+        "imps": 1133,
+        "clicks": 8,
+        "conv": 0.64,
+        "value": 97.6,
+        "roas": 17.21,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 336368110343,
@@ -35358,11 +36540,12 @@
         "clicks": 12,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 1,
         "roas": 0.0,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
         ]
       },
       "d7": {
@@ -35371,11 +36554,12 @@
         "clicks": 86,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 1,
         "roas": 0.0,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
         ]
       },
       "d30": {
@@ -35384,11 +36568,12 @@
         "clicks": 88,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 1,
         "roas": 0.0,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
         ]
       }
     }
@@ -35442,7 +36627,56 @@
     "yt_url": "https://youtube.com/watch?v=j1bFwsiX8R4",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.08,
+        "imps": 16,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 1.28,
+        "imps": 306,
+        "clicks": 4,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 336396955871,
@@ -35454,7 +36688,56 @@
     "yt_url": "https://youtube.com/watch?v=7dW7ExrEl2g",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.08,
+        "imps": 14,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 4.55,
+        "imps": 906,
+        "clicks": 4,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 336396955874,
@@ -35466,7 +36749,56 @@
     "yt_url": "https://youtube.com/watch?v=8VB6UUGsQdM",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.14,
+        "imps": 18,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 3.41,
+        "imps": 5624,
+        "clicks": 24,
+        "conv": 0.15,
+        "value": 50.23,
+        "roas": 14.71,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 336396955877,
@@ -35478,7 +36810,56 @@
     "yt_url": "https://youtube.com/watch?v=QkY1o4qwRS4",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.04,
+        "imps": 9,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 2.87,
+        "imps": 883,
+        "clicks": 5,
+        "conv": 0.91,
+        "value": 162.04,
+        "roas": 56.41,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 336614005851,
@@ -35495,45 +36876,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 59.16,
-        "imps": 43212,
-        "clicks": 228,
+        "spend": 3.35,
+        "imps": 2577,
+        "clicks": 9,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 248.46,
-        "imps": 502514,
-        "clicks": 2704,
-        "conv": 1.08,
-        "value": 58.34,
-        "n_ads": 2,
-        "roas": 0.23,
-        "max_variants": 2,
+        "spend": 11.11,
+        "imps": 8989,
+        "clicks": 26,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 344.23,
-        "imps": 709908,
-        "clicks": 3840,
-        "conv": 2.87,
-        "value": 323.63,
-        "n_ads": 2,
-        "roas": 0.94,
-        "max_variants": 2,
+        "spend": 14.51,
+        "imps": 9863,
+        "clicks": 31,
+        "conv": 0.49,
+        "value": 24.41,
+        "roas": 1.68,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -35553,45 +36940,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 59.16,
-        "imps": 43212,
-        "clicks": 228,
+        "spend": 114.98,
+        "imps": 83847,
+        "clicks": 448,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 248.46,
-        "imps": 502514,
-        "clicks": 2704,
-        "conv": 1.08,
-        "value": 58.34,
-        "n_ads": 2,
-        "roas": 0.23,
-        "max_variants": 2,
+        "spend": 485.82,
+        "imps": 996039,
+        "clicks": 5381,
+        "conv": 2.15,
+        "value": 116.68,
+        "roas": 0.24,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 344.23,
-        "imps": 709908,
-        "clicks": 3840,
-        "conv": 2.87,
-        "value": 323.63,
-        "n_ads": 2,
-        "roas": 0.94,
-        "max_variants": 2,
+        "spend": 673.95,
+        "imps": 1409953,
+        "clicks": 7649,
+        "conv": 5.25,
+        "value": 622.84,
+        "roas": 0.92,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -35606,7 +36999,56 @@
     "yt_url": "https://youtube.com/watch?v=3VyoA1qiEls",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 4.39,
+        "imps": 2341,
+        "clicks": 14,
+        "conv": 0.48,
+        "value": 51.51,
+        "roas": 11.73,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 20.91,
+        "imps": 4059,
+        "clicks": 27,
+        "conv": 2.87,
+        "value": 325.46,
+        "roas": 15.57,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 337000503272,
@@ -35618,7 +37060,56 @@
     "yt_url": "https://youtube.com/watch?v=EREiRavpyaA",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 19.31,
+        "imps": 31351,
+        "clicks": 159,
+        "conv": 0.8,
+        "value": 121.82,
+        "roas": 6.31,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 38.53,
+        "imps": 34854,
+        "clicks": 178,
+        "conv": 1.43,
+        "value": 226.19,
+        "roas": 5.87,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 337000503275,
@@ -35632,7 +37123,56 @@
     "yt_url": "https://youtube.com/watch?v=gJoRv6GaLJk",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 2.61,
+        "imps": 2703,
+        "clicks": 8,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 4.09,
+        "imps": 3389,
+        "clicks": 12,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 337000503278,
@@ -35646,7 +37186,56 @@
     "yt_url": "https://youtube.com/watch?v=iB9eVpCr26Q",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 2.72,
+        "imps": 2974,
+        "clicks": 7,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 3.39,
+        "imps": 3157,
+        "clicks": 8,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 337177140327,
@@ -35658,7 +37247,56 @@
     "yt_url": "https://youtube.com/watch?v=H6gr8R38NKc",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 1.84,
+        "imps": 203,
+        "clicks": 3,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 61.87,
+        "imps": 7261,
+        "clicks": 79,
+        "conv": 9.26,
+        "value": 1642.7,
+        "roas": 26.55,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 337285033862,
@@ -35672,7 +37310,56 @@
     "yt_url": "https://youtube.com/watch?v=G-rEjl1tsVw",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 1.04,
+        "imps": 571,
+        "clicks": 6,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 2.43,
+        "imps": 741,
+        "clicks": 6,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 337537037731,
@@ -35691,12 +37378,14 @@
         "clicks": 17,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
@@ -35705,12 +37394,14 @@
         "clicks": 45,
         "conv": 1.12,
         "value": 11.8,
-        "n_ads": 2,
         "roas": 1.33,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
@@ -35719,12 +37410,14 @@
         "clicks": 64,
         "conv": 5.3,
         "value": 227.0,
-        "n_ads": 2,
         "roas": 14.35,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -35741,45 +37434,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 1.08,
-        "imps": 592,
-        "clicks": 2,
+        "spend": 1.88,
+        "imps": 897,
+        "clicks": 3,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 3.64,
-        "imps": 3061,
-        "clicks": 9,
-        "conv": 0.28,
-        "value": 30.23,
-        "n_ads": 2,
-        "roas": 8.3,
-        "max_variants": 2,
+        "spend": 5.81,
+        "imps": 4435,
+        "clicks": 14,
+        "conv": 0.57,
+        "value": 60.46,
+        "roas": 10.41,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 5.14,
-        "imps": 3299,
-        "clicks": 10,
-        "conv": 0.32,
-        "value": 31.71,
-        "n_ads": 2,
-        "roas": 6.16,
-        "max_variants": 2,
+        "spend": 8.35,
+        "imps": 4808,
+        "clicks": 16,
+        "conv": 0.65,
+        "value": 63.43,
+        "roas": 7.6,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -35796,45 +37495,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 1.08,
-        "imps": 592,
-        "clicks": 2,
+        "spend": 0.27,
+        "imps": 287,
+        "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 3.64,
-        "imps": 3061,
-        "clicks": 9,
-        "conv": 0.28,
-        "value": 30.23,
-        "n_ads": 2,
-        "roas": 8.3,
-        "max_variants": 2,
+        "spend": 1.47,
+        "imps": 1687,
+        "clicks": 4,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 5.14,
-        "imps": 3299,
-        "clicks": 10,
-        "conv": 0.32,
-        "value": 31.71,
-        "n_ads": 2,
-        "roas": 6.16,
-        "max_variants": 2,
+        "spend": 1.94,
+        "imps": 1790,
+        "clicks": 4,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -35851,7 +37556,56 @@
     "yt_url": "https://youtube.com/watch?v=Ir61kvK9zjQ",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.07,
+        "imps": 13,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 2.48,
+        "imps": 509,
+        "clicks": 4,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 337564727887,
@@ -35865,7 +37619,56 @@
     "yt_url": "https://youtube.com/watch?v=eEImISfpPBU",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.08,
+        "imps": 17,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 2.34,
+        "imps": 849,
+        "clicks": 5,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 337564727890,
@@ -35879,7 +37682,56 @@
     "yt_url": "https://youtube.com/watch?v=HgLLKA4gddw",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.03,
+        "imps": 2,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 1.41,
+        "imps": 305,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 337564727893,
@@ -35893,7 +37745,56 @@
     "yt_url": "https://youtube.com/watch?v=BIzQmXcirPE",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.14,
+        "imps": 24,
+        "clicks": 1,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 2.05,
+        "imps": 679,
+        "clicks": 6,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 338594232056,
@@ -35905,7 +37806,56 @@
     "yt_url": "https://youtube.com/watch?v=cHupNHKB-Q0",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.15,
+        "imps": 21,
+        "clicks": 2,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 3.45,
+        "imps": 559,
+        "clicks": 9,
+        "conv": 0.45,
+        "value": 11.25,
+        "roas": 3.26,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 339668430485,
@@ -35936,12 +37886,14 @@
         "clicks": 9,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
@@ -35950,12 +37902,14 @@
         "clicks": 41,
         "conv": 1.7,
         "value": 229.62,
-        "n_ads": 2,
         "roas": 19.81,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
@@ -35964,12 +37918,14 @@
         "clicks": 45,
         "conv": 1.88,
         "value": 273.21,
-        "n_ads": 2,
         "roas": 17.92,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -35984,7 +37940,56 @@
     "yt_url": "https://youtube.com/watch?v=Ey_nzbzVbDw",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 1.73,
+        "imps": 3746,
+        "clicks": 24,
+        "conv": 1.37,
+        "value": 80.71,
+        "roas": 46.6,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 3.66,
+        "imps": 4385,
+        "clicks": 30,
+        "conv": 1.73,
+        "value": 151.92,
+        "roas": 41.48,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 341012399199,
@@ -35996,7 +38001,56 @@
     "yt_url": "https://youtube.com/watch?v=MSmxsJkzPm4",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 2.28,
+        "imps": 3731,
+        "clicks": 19,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 3.21,
+        "imps": 4043,
+        "clicks": 19,
+        "conv": 0.02,
+        "value": 1.29,
+        "roas": 0.4,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 341012399202,
@@ -36008,7 +38062,56 @@
     "yt_url": "https://youtube.com/watch?v=nlJ3ig_Lb_c",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 3.33,
+        "imps": 2164,
+        "clicks": 9,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 6.02,
+        "imps": 2641,
+        "clicks": 13,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 341012399205,
@@ -36020,7 +38123,56 @@
     "yt_url": "https://youtube.com/watch?v=xtzXI5jAkmA",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 2.11,
+        "imps": 176,
+        "clicks": 0,
+        "conv": 0.12,
+        "value": 12.01,
+        "roas": 5.7,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 48.49,
+        "imps": 4355,
+        "clicks": 28,
+        "conv": 9.7,
+        "value": 670.9,
+        "roas": 13.84,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 341012399208,
@@ -36032,7 +38184,56 @@
     "yt_url": "https://youtube.com/watch?v=RND1kS7PKrU",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.26,
+        "imps": 37,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 4.01,
+        "imps": 1249,
+        "clicks": 5,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 342146644083,
@@ -36058,7 +38259,56 @@
     "yt_url": "https://youtube.com/watch?v=tL8XAAeZb14",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.46,
+        "imps": 33,
+        "clicks": 1,
+        "conv": 0.75,
+        "value": 70.2,
+        "roas": 151.41,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 6.32,
+        "imps": 1004,
+        "clicks": 5,
+        "conv": 4.92,
+        "value": 413.52,
+        "roas": 65.39,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 343028706806,
@@ -36074,45 +38324,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 8.55,
-        "imps": 7509,
-        "clicks": 34,
+        "spend": 0.36,
+        "imps": 556,
+        "clicks": 4,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 17.41,
-        "imps": 18862,
-        "clicks": 95,
-        "conv": 0.96,
-        "value": 164.92,
-        "n_ads": 2,
-        "roas": 9.47,
-        "max_variants": 4,
+        "spend": 1.73,
+        "imps": 2762,
+        "clicks": 22,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 28.43,
-        "imps": 27382,
-        "clicks": 123,
-        "conv": 2.98,
-        "value": 335.07,
-        "n_ads": 2,
-        "roas": 11.79,
-        "max_variants": 4,
+        "spend": 2.9,
+        "imps": 2995,
+        "clicks": 27,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -36131,45 +38387,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 8.55,
-        "imps": 7509,
-        "clicks": 34,
+        "spend": 9.22,
+        "imps": 6656,
+        "clicks": 22,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 17.41,
-        "imps": 18862,
-        "clicks": 95,
-        "conv": 0.96,
-        "value": 164.92,
-        "n_ads": 2,
-        "roas": 9.47,
-        "max_variants": 4,
+        "spend": 23.32,
+        "imps": 22568,
+        "clicks": 112,
+        "conv": 0.32,
+        "value": 37.5,
+        "roas": 1.61,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 28.43,
-        "imps": 27382,
-        "clicks": 123,
-        "conv": 2.98,
-        "value": 335.07,
-        "n_ads": 2,
-        "roas": 11.79,
-        "max_variants": 4,
+        "spend": 41.11,
+        "imps": 36708,
+        "clicks": 155,
+        "conv": 4.34,
+        "value": 396.17,
+        "roas": 9.64,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -36188,45 +38450,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 8.55,
-        "imps": 7509,
-        "clicks": 34,
+        "spend": 23.3,
+        "imps": 20543,
+        "clicks": 100,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 17.41,
-        "imps": 18862,
-        "clicks": 95,
-        "conv": 0.96,
-        "value": 164.92,
-        "n_ads": 2,
-        "roas": 9.47,
-        "max_variants": 4,
+        "spend": 40.55,
+        "imps": 39983,
+        "clicks": 200,
+        "conv": 3.52,
+        "value": 622.17,
+        "roas": 15.34,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 28.43,
-        "imps": 27382,
-        "clicks": 123,
-        "conv": 2.98,
-        "value": 335.07,
-        "n_ads": 2,
-        "roas": 11.79,
-        "max_variants": 4,
+        "spend": 64.85,
+        "imps": 59253,
+        "clicks": 263,
+        "conv": 7.56,
+        "value": 944.12,
+        "roas": 14.56,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -36245,45 +38513,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 8.55,
-        "imps": 7509,
-        "clicks": 34,
+        "spend": 1.3,
+        "imps": 2280,
+        "clicks": 9,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 17.41,
-        "imps": 18862,
-        "clicks": 95,
-        "conv": 0.96,
-        "value": 164.92,
-        "n_ads": 2,
-        "roas": 9.47,
-        "max_variants": 4,
+        "spend": 4.03,
+        "imps": 10133,
+        "clicks": 46,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 28.43,
-        "imps": 27382,
-        "clicks": 123,
-        "conv": 2.98,
-        "value": 335.07,
-        "n_ads": 2,
-        "roas": 11.79,
-        "max_variants": 4,
+        "spend": 4.83,
+        "imps": 10571,
+        "clicks": 48,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -36300,45 +38574,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 4.94,
-        "imps": 4382,
-        "clicks": 12,
+        "spend": 3.34,
+        "imps": 2867,
+        "clicks": 9,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 17.1,
-        "imps": 18024,
-        "clicks": 59,
+        "spend": 10.72,
+        "imps": 10746,
+        "clicks": 35,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 20.43,
-        "imps": 19602,
-        "clicks": 64,
-        "conv": 0.45,
-        "value": 51.09,
-        "n_ads": 2,
-        "roas": 2.5,
-        "max_variants": 2,
+        "spend": 13.01,
+        "imps": 11657,
+        "clicks": 38,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -36355,45 +38635,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 4.94,
-        "imps": 4382,
-        "clicks": 12,
+        "spend": 6.55,
+        "imps": 5896,
+        "clicks": 15,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 17.1,
-        "imps": 18024,
-        "clicks": 59,
+        "spend": 23.47,
+        "imps": 25302,
+        "clicks": 83,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 20.43,
-        "imps": 19602,
-        "clicks": 64,
-        "conv": 0.45,
-        "value": 51.09,
-        "n_ads": 2,
-        "roas": 2.5,
-        "max_variants": 2,
+        "spend": 27.85,
+        "imps": 27548,
+        "clicks": 91,
+        "conv": 0.89,
+        "value": 102.19,
+        "roas": 3.67,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -36412,45 +38698,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 5.34,
-        "imps": 4718,
-        "clicks": 20,
-        "conv": 0.21,
-        "value": 11.25,
-        "n_ads": 2,
-        "roas": 2.11,
-        "max_variants": 4,
+        "spend": 7.63,
+        "imps": 10542,
+        "clicks": 45,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 10.18,
-        "imps": 10554,
-        "clicks": 51,
-        "conv": 0.79,
-        "value": 77.35,
-        "n_ads": 2,
-        "roas": 7.6,
-        "max_variants": 4,
+        "spend": 13.27,
+        "imps": 23208,
+        "clicks": 115,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 20.1,
-        "imps": 12708,
-        "clicks": 63,
-        "conv": 1.27,
-        "value": 119.83,
-        "n_ads": 2,
-        "roas": 5.96,
-        "max_variants": 4,
+        "spend": 16.13,
+        "imps": 25344,
+        "clicks": 121,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -36469,45 +38761,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 5.34,
-        "imps": 4718,
-        "clicks": 20,
-        "conv": 0.21,
-        "value": 11.25,
-        "n_ads": 2,
-        "roas": 2.11,
-        "max_variants": 4,
+        "spend": 4.97,
+        "imps": 1273,
+        "clicks": 5,
+        "conv": 0.85,
+        "value": 44.99,
+        "roas": 9.05,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 10.18,
-        "imps": 10554,
-        "clicks": 51,
-        "conv": 0.79,
-        "value": 77.35,
-        "n_ads": 2,
-        "roas": 7.6,
-        "max_variants": 4,
+        "spend": 10.12,
+        "imps": 3983,
+        "clicks": 20,
+        "conv": 2.85,
+        "value": 276.94,
+        "roas": 27.36,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 20.1,
-        "imps": 12708,
-        "clicks": 63,
-        "conv": 1.27,
-        "value": 119.83,
-        "n_ads": 2,
-        "roas": 5.96,
-        "max_variants": 4,
+        "spend": 28.52,
+        "imps": 6180,
+        "clicks": 41,
+        "conv": 2.93,
+        "value": 284.03,
+        "roas": 9.96,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -36526,45 +38824,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 5.34,
-        "imps": 4718,
-        "clicks": 20,
-        "conv": 0.21,
-        "value": 11.25,
-        "n_ads": 2,
-        "roas": 2.11,
-        "max_variants": 4,
+        "spend": 1.68,
+        "imps": 2407,
+        "clicks": 18,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 10.18,
-        "imps": 10554,
-        "clicks": 51,
-        "conv": 0.79,
-        "value": 77.35,
-        "n_ads": 2,
-        "roas": 7.6,
-        "max_variants": 4,
+        "spend": 3.2,
+        "imps": 5591,
+        "clicks": 30,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 20.1,
-        "imps": 12708,
-        "clicks": 63,
-        "conv": 1.27,
-        "value": 119.83,
-        "n_ads": 2,
-        "roas": 5.96,
-        "max_variants": 4,
+        "spend": 4.33,
+        "imps": 6147,
+        "clicks": 32,
+        "conv": 1.04,
+        "value": 72.09,
+        "roas": 16.66,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -36583,45 +38887,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 5.34,
-        "imps": 4718,
-        "clicks": 20,
-        "conv": 0.21,
-        "value": 11.25,
-        "n_ads": 2,
-        "roas": 2.11,
-        "max_variants": 4,
+        "spend": 7.06,
+        "imps": 4650,
+        "clicks": 10,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 10.18,
-        "imps": 10554,
-        "clicks": 51,
-        "conv": 0.79,
-        "value": 77.35,
-        "n_ads": 2,
-        "roas": 7.6,
-        "max_variants": 4,
+        "spend": 14.12,
+        "imps": 9435,
+        "clicks": 39,
+        "conv": 0.33,
+        "value": 32.46,
+        "roas": 2.3,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 20.1,
-        "imps": 12708,
-        "clicks": 63,
-        "conv": 1.27,
-        "value": 119.83,
-        "n_ads": 2,
-        "roas": 5.96,
-        "max_variants": 4,
+        "spend": 31.43,
+        "imps": 13161,
+        "clicks": 59,
+        "conv": 1.12,
+        "value": 123.21,
+        "roas": 3.92,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -36640,45 +38950,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 25.26,
-        "imps": 15210,
-        "clicks": 72,
+        "spend": 45.76,
+        "imps": 26216,
+        "clicks": 134,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 5,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 42.75,
-        "imps": 29054,
-        "clicks": 149,
-        "conv": 1.83,
-        "value": 218.83,
-        "n_ads": 2,
-        "roas": 5.12,
-        "max_variants": 5,
+        "spend": 62.17,
+        "imps": 53382,
+        "clicks": 299,
+        "conv": 5.95,
+        "value": 909.78,
+        "roas": 14.63,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 52.4,
-        "imps": 38298,
-        "clicks": 177,
-        "conv": 3.41,
-        "value": 427.23,
-        "n_ads": 2,
-        "roas": 8.15,
-        "max_variants": 5,
+        "spend": 82.73,
+        "imps": 70563,
+        "clicks": 362,
+        "conv": 11.0,
+        "value": 1456.49,
+        "roas": 17.61,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -36697,45 +39013,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 25.26,
-        "imps": 15210,
-        "clicks": 72,
+        "spend": 4.49,
+        "imps": 4021,
+        "clicks": 8,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 5,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 42.75,
-        "imps": 29054,
-        "clicks": 149,
-        "conv": 1.83,
-        "value": 218.83,
-        "n_ads": 2,
-        "roas": 5.12,
-        "max_variants": 5,
+        "spend": 10.54,
+        "imps": 7552,
+        "clicks": 26,
+        "conv": 0.04,
+        "value": 4.32,
+        "roas": 0.41,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 52.4,
-        "imps": 38298,
-        "clicks": 177,
-        "conv": 3.41,
-        "value": 427.23,
-        "n_ads": 2,
-        "roas": 8.15,
-        "max_variants": 5,
+        "spend": 11.97,
+        "imps": 7952,
+        "clicks": 28,
+        "conv": 0.2,
+        "value": 18.08,
+        "roas": 1.51,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -36754,45 +39076,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 25.26,
-        "imps": 15210,
-        "clicks": 72,
+        "spend": 1.28,
+        "imps": 1150,
+        "clicks": 5,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 5,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 42.75,
-        "imps": 29054,
-        "clicks": 149,
-        "conv": 1.83,
-        "value": 218.83,
-        "n_ads": 2,
-        "roas": 5.12,
-        "max_variants": 5,
+        "spend": 3.12,
+        "imps": 3363,
+        "clicks": 18,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 52.4,
-        "imps": 38298,
-        "clicks": 177,
-        "conv": 3.41,
-        "value": 427.23,
-        "n_ads": 2,
-        "roas": 8.15,
-        "max_variants": 5,
+        "spend": 4.86,
+        "imps": 3725,
+        "clicks": 21,
+        "conv": 0.08,
+        "value": 24.44,
+        "roas": 5.03,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -36811,45 +39139,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 25.26,
-        "imps": 15210,
-        "clicks": 72,
+        "spend": 1.38,
+        "imps": 1148,
+        "clicks": 2,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 5,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 42.75,
-        "imps": 29054,
-        "clicks": 149,
-        "conv": 1.83,
-        "value": 218.83,
-        "n_ads": 2,
-        "roas": 5.12,
-        "max_variants": 5,
+        "spend": 4.09,
+        "imps": 5161,
+        "clicks": 26,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 52.4,
-        "imps": 38298,
-        "clicks": 177,
-        "conv": 3.41,
-        "value": 427.23,
-        "n_ads": 2,
-        "roas": 8.15,
-        "max_variants": 5,
+        "spend": 5.16,
+        "imps": 5931,
+        "clicks": 28,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -36868,45 +39202,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 25.26,
-        "imps": 15210,
-        "clicks": 72,
+        "spend": 73.42,
+        "imps": 43515,
+        "clicks": 209,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 5,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 42.75,
-        "imps": 29054,
-        "clicks": 149,
-        "conv": 1.83,
-        "value": 218.83,
-        "n_ads": 2,
-        "roas": 5.12,
-        "max_variants": 5,
+        "spend": 133.83,
+        "imps": 75812,
+        "clicks": 375,
+        "conv": 3.16,
+        "value": 180.04,
+        "roas": 1.35,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 52.4,
-        "imps": 38298,
-        "clicks": 177,
-        "conv": 3.41,
-        "value": 427.23,
-        "n_ads": 2,
-        "roas": 8.15,
-        "max_variants": 5,
+        "spend": 157.28,
+        "imps": 103319,
+        "clicks": 448,
+        "conv": 5.78,
+        "value": 637.12,
+        "roas": 4.05,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -36923,7 +39263,56 @@
     "yt_url": "https://youtube.com/watch?v=lqjlD7nnxtY",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 348097963885,
@@ -36937,7 +39326,56 @@
     "yt_url": "https://youtube.com/watch?v=KJ6E2UuWd5k",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 348097963888,
@@ -36951,7 +39389,56 @@
     "yt_url": "https://youtube.com/watch?v=04MUl4W3JYc",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 348097963891,
@@ -36965,7 +39452,56 @@
     "yt_url": "https://youtube.com/watch?v=8BcBddLAXrI",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 349918244522,
@@ -37159,7 +39695,50 @@
     "yt_url": "https://youtube.com/watch?v=11NdlS9DspE",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      },
+      "d7": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      },
+      "d30": {
+        "spend": 1.16,
+        "imps": 170,
+        "clicks": 1,
+        "conv": 1.12,
+        "value": 88.44,
+        "roas": 76.01,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      }
+    }
   },
   {
     "asset_id": 352376549964,
@@ -37172,18 +39751,52 @@
     "in_pmax_active": false,
     "in_dg_active": true,
     "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
       "d30": {
         "spend": 0.0,
         "imps": 0,
         "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -37202,45 +39815,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.55,
-        "imps": 377,
-        "clicks": 3,
+        "spend": 0.71,
+        "imps": 95,
+        "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 1.88,
-        "imps": 2560,
-        "clicks": 15,
+        "spend": 0.95,
+        "imps": 306,
+        "clicks": 2,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
         "spend": 2.62,
-        "imps": 2635,
-        "clicks": 16,
-        "conv": 0.5,
-        "value": 248.21,
-        "n_ads": 2,
-        "roas": 94.65,
-        "max_variants": 4,
+        "imps": 446,
+        "clicks": 3,
+        "conv": 1.0,
+        "value": 899.1,
+        "roas": 343.44,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -37259,45 +39878,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.55,
-        "imps": 377,
-        "clicks": 3,
+        "spend": 0.31,
+        "imps": 641,
+        "clicks": 7,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 1.88,
-        "imps": 2560,
-        "clicks": 15,
+        "spend": 0.94,
+        "imps": 2746,
+        "clicks": 16,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 2.62,
-        "imps": 2635,
-        "clicks": 16,
-        "conv": 0.5,
-        "value": 248.21,
-        "n_ads": 2,
-        "roas": 94.65,
-        "max_variants": 4,
+        "spend": 1.31,
+        "imps": 2776,
+        "clicks": 18,
+        "conv": 0.15,
+        "value": 13.63,
+        "roas": 10.38,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -37314,7 +39939,50 @@
     "yt_url": "https://youtube.com/watch?v=embnMw8oqd4",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      },
+      "d7": {
+        "spend": 0.24,
+        "imps": 751,
+        "clicks": 2,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      },
+      "d30": {
+        "spend": 0.34,
+        "imps": 765,
+        "clicks": 2,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      }
+    }
   },
   {
     "asset_id": 352397453615,
@@ -37328,7 +39996,50 @@
     "yt_url": "https://youtube.com/watch?v=fULaE8V2ugM",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      },
+      "d7": {
+        "spend": 0.25,
+        "imps": 1244,
+        "clicks": 5,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      },
+      "d30": {
+        "spend": 0.33,
+        "imps": 1252,
+        "clicks": 5,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      }
+    }
   },
   {
     "asset_id": 352430551961,
@@ -37342,7 +40053,50 @@
     "yt_url": "https://youtube.com/watch?v=0hyE--Je6ag",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      },
+      "d7": {
+        "spend": 0.33,
+        "imps": 1357,
+        "clicks": 3,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      },
+      "d30": {
+        "spend": 0.51,
+        "imps": 1382,
+        "clicks": 3,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      }
+    }
   },
   {
     "asset_id": 352432757882,
@@ -37358,45 +40112,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.63,
-        "imps": 607,
+        "spend": 0.77,
+        "imps": 304,
         "clicks": 4,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 1.91,
-        "imps": 3602,
-        "clicks": 20,
+        "spend": 1.26,
+        "imps": 1587,
+        "clicks": 12,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 2.49,
-        "imps": 3668,
-        "clicks": 21,
+        "spend": 1.77,
+        "imps": 1649,
+        "clicks": 12,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -37413,45 +40173,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.16,
-        "imps": 222,
+        "spend": 0.13,
+        "imps": 166,
         "clicks": 1,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 0.69,
-        "imps": 1088,
-        "clicks": 6,
+        "spend": 0.55,
+        "imps": 676,
+        "clicks": 2,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 0.86,
-        "imps": 1108,
-        "clicks": 6,
+        "spend": 0.75,
+        "imps": 688,
+        "clicks": 2,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -37468,7 +40234,50 @@
     "yt_url": "https://youtube.com/watch?v=cOFcb9xX9ik",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      },
+      "d7": {
+        "spend": 1.4,
+        "imps": 907,
+        "clicks": 1,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      },
+      "d30": {
+        "spend": 2.96,
+        "imps": 1012,
+        "clicks": 3,
+        "conv": 2.28,
+        "value": 226.16,
+        "roas": 76.51,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      }
+    }
   },
   {
     "asset_id": 352477773598,
@@ -37482,7 +40291,50 @@
     "yt_url": "https://youtube.com/watch?v=k6FMNv-dlSg",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      },
+      "d7": {
+        "spend": 0.54,
+        "imps": 1742,
+        "clicks": 7,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      },
+      "d30": {
+        "spend": 0.87,
+        "imps": 1771,
+        "clicks": 7,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      }
+    }
   },
   {
     "asset_id": 352510455898,
@@ -37496,7 +40348,50 @@
     "yt_url": "https://youtube.com/watch?v=ZVnERrU77Lg",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      },
+      "d7": {
+        "spend": 1.69,
+        "imps": 3730,
+        "clicks": 25,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      },
+      "d30": {
+        "spend": 2.85,
+        "imps": 3788,
+        "clicks": 25,
+        "conv": 1.0,
+        "value": 69.0,
+        "roas": 24.23,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      }
+    }
   },
   {
     "asset_id": 352512825250,
@@ -37512,45 +40407,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.63,
-        "imps": 607,
-        "clicks": 4,
+        "spend": 0.81,
+        "imps": 349,
+        "clicks": 1,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 1.91,
-        "imps": 3602,
-        "clicks": 20,
+        "spend": 2.6,
+        "imps": 1790,
+        "clicks": 9,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 2.49,
-        "imps": 3668,
-        "clicks": 21,
+        "spend": 3.78,
+        "imps": 1908,
+        "clicks": 9,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -37569,45 +40470,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.63,
-        "imps": 607,
-        "clicks": 4,
+        "spend": 0.06,
+        "imps": 154,
+        "clicks": 2,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 1.91,
-        "imps": 3602,
-        "clicks": 20,
+        "spend": 0.5,
+        "imps": 1816,
+        "clicks": 16,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 2.49,
-        "imps": 3668,
-        "clicks": 21,
+        "spend": 0.9,
+        "imps": 1858,
+        "clicks": 17,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -37636,45 +40543,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.16,
-        "imps": 222,
+        "spend": 0.19,
+        "imps": 277,
         "clicks": 1,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 0.69,
-        "imps": 1088,
-        "clicks": 6,
+        "spend": 0.83,
+        "imps": 1499,
+        "clicks": 10,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 0.86,
-        "imps": 1108,
-        "clicks": 6,
+        "spend": 0.97,
+        "imps": 1527,
+        "clicks": 11,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -37693,45 +40606,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.55,
-        "imps": 377,
+        "spend": 0.68,
+        "imps": 345,
         "clicks": 3,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 1.88,
-        "imps": 2560,
-        "clicks": 15,
+        "spend": 2.67,
+        "imps": 2829,
+        "clicks": 12,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 2.62,
-        "imps": 2635,
-        "clicks": 16,
-        "conv": 0.5,
-        "value": 248.21,
-        "n_ads": 2,
-        "roas": 94.65,
-        "max_variants": 4,
+        "spend": 3.55,
+        "imps": 2946,
+        "clicks": 13,
+        "conv": 0.03,
+        "value": 6.94,
+        "roas": 1.95,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -37750,45 +40669,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.55,
-        "imps": 377,
-        "clicks": 3,
+        "spend": 0.49,
+        "imps": 427,
+        "clicks": 2,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 1.88,
-        "imps": 2560,
-        "clicks": 15,
+        "spend": 2.95,
+        "imps": 4358,
+        "clicks": 31,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 2.62,
-        "imps": 2635,
-        "clicks": 16,
-        "conv": 0.5,
-        "value": 248.21,
-        "n_ads": 2,
-        "roas": 94.65,
-        "max_variants": 4,
+        "spend": 3.01,
+        "imps": 4373,
+        "clicks": 31,
+        "conv": 0.82,
+        "value": 73.17,
+        "roas": 24.33,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -37805,7 +40730,50 @@
     "yt_url": "https://youtube.com/watch?v=4IVfeNtkSL8",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      },
+      "d7": {
+        "spend": 0.31,
+        "imps": 459,
+        "clicks": 3,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      },
+      "d30": {
+        "spend": 1.85,
+        "imps": 529,
+        "clicks": 3,
+        "conv": 0.84,
+        "value": 44.82,
+        "roas": 24.29,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      }
+    }
   },
   {
     "asset_id": 352584342036,
@@ -37819,7 +40787,50 @@
     "yt_url": "https://youtube.com/watch?v=HTsvCRcRTTU",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      },
+      "d7": {
+        "spend": 0.21,
+        "imps": 510,
+        "clicks": 3,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      },
+      "d30": {
+        "spend": 0.31,
+        "imps": 532,
+        "clicks": 3,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      }
+    }
   },
   {
     "asset_id": 352584366480,
@@ -37833,7 +40844,50 @@
     "yt_url": "https://youtube.com/watch?v=2PPiNF4eRuM",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      },
+      "d7": {
+        "spend": 0.42,
+        "imps": 153,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      },
+      "d30": {
+        "spend": 1.64,
+        "imps": 233,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      }
+    }
   },
   {
     "asset_id": 352586794509,
@@ -37849,45 +40903,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.63,
-        "imps": 607,
-        "clicks": 4,
+        "spend": 0.83,
+        "imps": 1589,
+        "clicks": 10,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 1.91,
-        "imps": 3602,
-        "clicks": 20,
+        "spend": 2.74,
+        "imps": 8803,
+        "clicks": 43,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 2.49,
-        "imps": 3668,
-        "clicks": 21,
+        "spend": 2.99,
+        "imps": 8840,
+        "clicks": 43,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -37905,7 +40965,50 @@
     "yt_url": "https://youtube.com/watch?v=pMupv7O5deU",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      },
+      "d7": {
+        "spend": 0.12,
+        "imps": 21,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      },
+      "d30": {
+        "spend": 0.19,
+        "imps": 26,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC"
+        ]
+      }
+    }
   },
   {
     "asset_id": 354480354449,
@@ -37920,7 +41023,56 @@
     "yt_url": "https://youtube.com/watch?v=Qt9Vdq58ioQ",
     "in_pmax_active": false,
     "in_dg_active": false,
-    "perf": null
+    "perf": {
+      "d1": {
+        "spend": 0.05,
+        "imps": 31,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.54,
+        "imps": 412,
+        "clicks": 2,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d30": {
+        "spend": 0.54,
+        "imps": 415,
+        "clicks": 2,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      }
+    }
   },
   {
     "asset_id": 354698923688,
@@ -37936,45 +41088,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 3.04,
-        "imps": 1054,
-        "clicks": 5,
+        "spend": 3.67,
+        "imps": 1440,
+        "clicks": 4,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 3,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 6.37,
-        "imps": 2039,
-        "clicks": 12,
-        "conv": 1.35,
-        "value": 113.09,
-        "n_ads": 2,
-        "roas": 17.75,
-        "max_variants": 3,
+        "spend": 7.37,
+        "imps": 2313,
+        "clicks": 9,
+        "conv": 3.28,
+        "value": 275.99,
+        "roas": 37.47,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 11.78,
-        "imps": 2750,
-        "clicks": 19,
-        "conv": 1.81,
-        "value": 158.26,
-        "n_ads": 2,
-        "roas": 13.43,
-        "max_variants": 3,
+        "spend": 14.77,
+        "imps": 3270,
+        "clicks": 22,
+        "conv": 3.79,
+        "value": 278.55,
+        "roas": 18.86,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -38009,45 +41167,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 2.55,
-        "imps": 1122,
-        "clicks": 7,
-        "conv": 0.01,
-        "value": 0.12,
-        "n_ads": 2,
-        "roas": 0.05,
-        "max_variants": 4,
+        "spend": 0.43,
+        "imps": 466,
+        "clicks": 5,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 5.66,
-        "imps": 2382,
-        "clicks": 18,
-        "conv": 0.37,
-        "value": 27.2,
-        "n_ads": 2,
-        "roas": 4.81,
-        "max_variants": 4,
+        "spend": 0.79,
+        "imps": 899,
+        "clicks": 6,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 12.72,
-        "imps": 3106,
-        "clicks": 24,
-        "conv": 1.69,
-        "value": 116.85,
-        "n_ads": 2,
-        "roas": 9.19,
-        "max_variants": 4,
+        "spend": 1.02,
+        "imps": 940,
+        "clicks": 6,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -38066,45 +41230,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 3.04,
-        "imps": 1054,
-        "clicks": 5,
+        "spend": 4.56,
+        "imps": 1133,
+        "clicks": 7,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 3,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 6.37,
-        "imps": 2039,
-        "clicks": 12,
-        "conv": 1.35,
-        "value": 113.09,
-        "n_ads": 2,
-        "roas": 17.75,
-        "max_variants": 3,
+        "spend": 9.84,
+        "imps": 2760,
+        "clicks": 19,
+        "conv": 0.78,
+        "value": 63.29,
+        "roas": 6.43,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 11.78,
-        "imps": 2750,
-        "clicks": 19,
-        "conv": 1.81,
-        "value": 158.26,
-        "n_ads": 2,
-        "roas": 13.43,
-        "max_variants": 3,
+        "spend": 17.76,
+        "imps": 3808,
+        "clicks": 28,
+        "conv": 1.64,
+        "value": 196.24,
+        "roas": 11.05,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -38123,45 +41293,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 3.04,
-        "imps": 1054,
-        "clicks": 5,
+        "spend": 0.87,
+        "imps": 590,
+        "clicks": 3,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 3,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 6.37,
-        "imps": 2039,
-        "clicks": 12,
-        "conv": 1.35,
-        "value": 113.09,
-        "n_ads": 2,
-        "roas": 17.75,
-        "max_variants": 3,
+        "spend": 1.9,
+        "imps": 1044,
+        "clicks": 7,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 11.78,
-        "imps": 2750,
-        "clicks": 19,
-        "conv": 1.81,
-        "value": 158.26,
-        "n_ads": 2,
-        "roas": 13.43,
-        "max_variants": 3,
+        "spend": 2.82,
+        "imps": 1172,
+        "clicks": 8,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -38195,45 +41371,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 2.55,
-        "imps": 1122,
-        "clicks": 7,
-        "conv": 0.01,
-        "value": 0.12,
-        "n_ads": 2,
-        "roas": 0.05,
-        "max_variants": 4,
+        "spend": 3.83,
+        "imps": 790,
+        "clicks": 4,
+        "conv": 0.03,
+        "value": 0.48,
+        "roas": 0.12,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 5.66,
-        "imps": 2382,
-        "clicks": 18,
-        "conv": 0.37,
-        "value": 27.2,
-        "n_ads": 2,
-        "roas": 4.81,
-        "max_variants": 4,
+        "spend": 7.73,
+        "imps": 1678,
+        "clicks": 12,
+        "conv": 0.07,
+        "value": 1.32,
+        "roas": 0.17,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 12.72,
-        "imps": 3106,
-        "clicks": 24,
-        "conv": 1.69,
-        "value": 116.85,
-        "n_ads": 2,
-        "roas": 9.19,
-        "max_variants": 4,
+        "spend": 20.16,
+        "imps": 2872,
+        "clicks": 25,
+        "conv": 3.38,
+        "value": 302.88,
+        "roas": 15.02,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -38253,45 +41435,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 2.55,
-        "imps": 1122,
-        "clicks": 7,
-        "conv": 0.01,
-        "value": 0.12,
-        "n_ads": 2,
-        "roas": 0.05,
-        "max_variants": 4,
+        "spend": 0.45,
+        "imps": 664,
+        "clicks": 4,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 5.66,
-        "imps": 2382,
-        "clicks": 18,
-        "conv": 0.37,
-        "value": 27.2,
-        "n_ads": 2,
-        "roas": 4.81,
-        "max_variants": 4,
+        "spend": 1.28,
+        "imps": 1374,
+        "clicks": 6,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 12.72,
-        "imps": 3106,
-        "clicks": 24,
-        "conv": 1.69,
-        "value": 116.85,
-        "n_ads": 2,
-        "roas": 9.19,
-        "max_variants": 4,
+        "spend": 1.95,
+        "imps": 1452,
+        "clicks": 6,
+        "conv": 1.12,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -38311,45 +41499,51 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 2.55,
-        "imps": 1122,
-        "clicks": 7,
-        "conv": 0.01,
-        "value": 0.12,
-        "n_ads": 2,
-        "roas": 0.05,
-        "max_variants": 4,
+        "spend": 5.47,
+        "imps": 2569,
+        "clicks": 14,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
-        "spend": 5.66,
-        "imps": 2382,
-        "clicks": 18,
-        "conv": 0.37,
-        "value": 27.2,
-        "n_ads": 2,
-        "roas": 4.81,
-        "max_variants": 4,
+        "spend": 12.83,
+        "imps": 5576,
+        "clicks": 46,
+        "conv": 1.4,
+        "value": 107.47,
+        "roas": 8.37,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
-        "spend": 12.72,
-        "imps": 3106,
-        "clicks": 24,
-        "conv": 1.69,
-        "value": 116.85,
-        "n_ads": 2,
-        "roas": 9.19,
-        "max_variants": 4,
+        "spend": 27.74,
+        "imps": 7159,
+        "clicks": 61,
+        "conv": 2.26,
+        "value": 164.52,
+        "roas": 5.93,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -38386,12 +41580,14 @@
         "clicks": 50,
         "conv": 0.03,
         "value": 0.53,
-        "n_ads": 2,
         "roas": 0.03,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
@@ -38400,12 +41596,14 @@
         "clicks": 147,
         "conv": 1.92,
         "value": 76.4,
-        "n_ads": 2,
         "roas": 2.22,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
@@ -38414,12 +41612,14 @@
         "clicks": 147,
         "conv": 1.92,
         "value": 76.4,
-        "n_ads": 2,
         "roas": 2.2,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -38435,18 +41635,52 @@
     "in_pmax_active": false,
     "in_dg_active": true,
     "perf": {
+      "d1": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
+      "d7": {
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
+        "campaigns": [
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
+        ]
+      },
       "d30": {
         "spend": 0.0,
         "imps": 0,
         "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -38465,45 +41699,48 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.43,
-        "imps": 1142,
-        "clicks": 12,
+        "spend": 0.21,
+        "imps": 212,
+        "clicks": 2,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 4,
         "roas": 0.0,
-        "max_variants": 2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "AG | Monster May | First Purchase ACQ"
         ]
       },
       "d7": {
-        "spend": 1.15,
-        "imps": 4406,
-        "clicks": 32,
+        "spend": 0.8,
+        "imps": 2570,
+        "clicks": 23,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 4,
         "roas": 0.0,
-        "max_variants": 2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "AG | Monster May | First Purchase ACQ"
         ]
       },
       "d30": {
-        "spend": 1.15,
-        "imps": 4406,
-        "clicks": 32,
+        "spend": 0.8,
+        "imps": 2570,
+        "clicks": 23,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 4,
         "roas": 0.0,
-        "max_variants": 2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "AG | Monster May | First Purchase ACQ"
         ]
       }
     }
@@ -38522,45 +41759,48 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.43,
-        "imps": 1142,
-        "clicks": 12,
+        "spend": 0.65,
+        "imps": 2073,
+        "clicks": 21,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 4,
         "roas": 0.0,
-        "max_variants": 2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "AG | Monster May | First Purchase ACQ"
         ]
       },
       "d7": {
-        "spend": 1.15,
-        "imps": 4406,
-        "clicks": 32,
+        "spend": 1.5,
+        "imps": 6242,
+        "clicks": 42,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 4,
         "roas": 0.0,
-        "max_variants": 2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "AG | Monster May | First Purchase ACQ"
         ]
       },
       "d30": {
-        "spend": 1.15,
-        "imps": 4406,
-        "clicks": 32,
+        "spend": 1.5,
+        "imps": 6242,
+        "clicks": 42,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 4,
         "roas": 0.0,
-        "max_variants": 2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "AG | Monster May | First Purchase ACQ"
         ]
       }
     }
@@ -38580,45 +41820,48 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 4.07,
-        "imps": 4792,
-        "clicks": 15,
+        "spend": 7.58,
+        "imps": 8255,
+        "clicks": 20,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "AG | Monster May | First Purchase ACQ"
         ]
       },
       "d7": {
-        "spend": 17.46,
-        "imps": 34554,
-        "clicks": 130,
+        "spend": 33.78,
+        "imps": 66560,
+        "clicks": 247,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "AG | Monster May | First Purchase ACQ"
         ]
       },
       "d30": {
-        "spend": 17.46,
-        "imps": 34554,
-        "clicks": 130,
+        "spend": 33.78,
+        "imps": 66560,
+        "clicks": 247,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "AG | Monster May | First Purchase ACQ"
         ]
       }
     }
@@ -38638,45 +41881,48 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 4.07,
-        "imps": 4792,
-        "clicks": 15,
+        "spend": 0.56,
+        "imps": 1331,
+        "clicks": 10,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "AG | Monster May | First Purchase ACQ"
         ]
       },
       "d7": {
-        "spend": 17.46,
-        "imps": 34554,
-        "clicks": 130,
+        "spend": 1.13,
+        "imps": 2548,
+        "clicks": 14,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "AG | Monster May | First Purchase ACQ"
         ]
       },
       "d30": {
-        "spend": 17.46,
-        "imps": 34554,
-        "clicks": 130,
+        "spend": 1.13,
+        "imps": 2548,
+        "clicks": 14,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "AG | Monster May | First Purchase ACQ"
         ]
       }
     }
@@ -38701,12 +41947,13 @@
         "clicks": 27,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "AG | Monster May | First Purchase ACQ"
         ]
       },
       "d7": {
@@ -38715,26 +41962,28 @@
         "clicks": 47,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "AG | Monster May | First Purchase ACQ"
         ]
       },
       "d30": {
         "spend": 2.26,
-        "imps": 7014,
+        "imps": 7013,
         "clicks": 47,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "AG | Monster May | First Purchase ACQ"
         ]
       }
     }
@@ -38759,12 +42008,13 @@
         "clicks": 301,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "AG | Monster May | First Purchase ACQ"
         ]
       },
       "d7": {
@@ -38773,12 +42023,13 @@
         "clicks": 3318,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "AG | Monster May | First Purchase ACQ"
         ]
       },
       "d30": {
@@ -38787,12 +42038,13 @@
         "clicks": 3318,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "AG | Monster May | First Purchase ACQ"
         ]
       }
     }
@@ -38817,12 +42069,13 @@
         "clicks": 46,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "AG | Monster May | First Purchase ACQ"
         ]
       },
       "d7": {
@@ -38831,26 +42084,28 @@
         "clicks": 66,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "AG | Monster May | First Purchase ACQ"
         ]
       },
       "d30": {
         "spend": 5.1,
-        "imps": 10637,
+        "imps": 10636,
         "clicks": 66,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "AG | Monster May | First Purchase ACQ"
         ]
       }
     }
@@ -38872,11 +42127,14 @@
         "clicks": 3,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 1,
         "roas": 0.0,
-        "max_variants": 1,
         "campaigns": [
-          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
@@ -38885,11 +42143,14 @@
         "clicks": 3,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 1,
         "roas": 0.0,
-        "max_variants": 1,
         "campaigns": [
-          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
@@ -38898,12 +42159,14 @@
         "clicks": 3,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }
@@ -38925,11 +42188,14 @@
         "clicks": 3,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 1,
         "roas": 0.0,
-        "max_variants": 1,
         "campaigns": [
-          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d7": {
@@ -38938,11 +42204,14 @@
         "clicks": 3,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 1,
         "roas": 0.0,
-        "max_variants": 1,
         "campaigns": [
-          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined"
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
+          "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       },
       "d30": {
@@ -38951,12 +42220,14 @@
         "clicks": 3,
         "conv": 0.0,
         "value": 0.0,
-        "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
+        ],
+        "ad_groups": [
+          "Combined UGC",
+          "JR UCG Video"
         ]
       }
     }

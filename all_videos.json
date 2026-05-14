@@ -34941,7 +34941,8 @@
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 3,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 1
       },
       "d7": {
         "spend": 4.21,
@@ -34950,7 +34951,8 @@
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 3,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 1
       },
       "d30": {
         "spend": 8.3,
@@ -34959,7 +34961,8 @@
         "conv": 1.43,
         "value": 245.83,
         "n_ads": 3,
-        "roas": 29.63
+        "roas": 29.63,
+        "max_variants": 1
       }
     }
   },
@@ -35215,7 +35218,8 @@
         "conv": 0.28,
         "value": 16.24,
         "n_ads": 2,
-        "roas": 5.83
+        "roas": 5.83,
+        "max_variants": 1
       },
       "d7": {
         "spend": 9.88,
@@ -35224,7 +35228,8 @@
         "conv": 0.42,
         "value": 36.63,
         "n_ads": 2,
-        "roas": 3.71
+        "roas": 3.71,
+        "max_variants": 1
       },
       "d30": {
         "spend": 14.13,
@@ -35233,7 +35238,8 @@
         "conv": 3.37,
         "value": 152.9,
         "n_ads": 2,
-        "roas": 10.82
+        "roas": 10.82,
+        "max_variants": 1
       }
     }
   },
@@ -35329,7 +35335,8 @@
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 1,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 1
       },
       "d7": {
         "spend": 5.21,
@@ -35338,7 +35345,8 @@
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 1,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 1
       },
       "d30": {
         "spend": 5.94,
@@ -35347,7 +35355,8 @@
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 1,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 1
       }
     }
   },
@@ -35453,31 +35462,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 118.33,
-        "imps": 86424,
-        "clicks": 457,
+        "spend": 59.16,
+        "imps": 43212,
+        "clicks": 228,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 2
       },
       "d7": {
-        "spend": 496.93,
-        "imps": 1005028,
-        "clicks": 5407,
-        "conv": 2.15,
-        "value": 116.68,
+        "spend": 248.46,
+        "imps": 502514,
+        "clicks": 2704,
+        "conv": 1.08,
+        "value": 58.34,
         "n_ads": 2,
-        "roas": 0.23
+        "roas": 0.23,
+        "max_variants": 2
       },
       "d30": {
-        "spend": 688.46,
-        "imps": 1419816,
-        "clicks": 7680,
-        "conv": 5.75,
-        "value": 647.25,
+        "spend": 344.23,
+        "imps": 709908,
+        "clicks": 3840,
+        "conv": 2.87,
+        "value": 323.63,
         "n_ads": 2,
-        "roas": 0.94
+        "roas": 0.94,
+        "max_variants": 2
       }
     }
   },
@@ -35496,31 +35508,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 118.33,
-        "imps": 86424,
-        "clicks": 457,
+        "spend": 59.16,
+        "imps": 43212,
+        "clicks": 228,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 2
       },
       "d7": {
-        "spend": 496.93,
-        "imps": 1005028,
-        "clicks": 5407,
-        "conv": 2.15,
-        "value": 116.68,
+        "spend": 248.46,
+        "imps": 502514,
+        "clicks": 2704,
+        "conv": 1.08,
+        "value": 58.34,
         "n_ads": 2,
-        "roas": 0.23
+        "roas": 0.23,
+        "max_variants": 2
       },
       "d30": {
-        "spend": 688.46,
-        "imps": 1419816,
-        "clicks": 7680,
-        "conv": 5.75,
-        "value": 647.25,
+        "spend": 344.23,
+        "imps": 709908,
+        "clicks": 3840,
+        "conv": 2.87,
+        "value": 323.63,
         "n_ads": 2,
-        "roas": 0.94
+        "roas": 0.94,
+        "max_variants": 2
       }
     }
   },
@@ -35620,7 +35635,8 @@
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 1
       },
       "d7": {
         "spend": 8.84,
@@ -35629,7 +35645,8 @@
         "conv": 1.12,
         "value": 11.8,
         "n_ads": 2,
-        "roas": 1.33
+        "roas": 1.33,
+        "max_variants": 1
       },
       "d30": {
         "spend": 15.81,
@@ -35638,7 +35655,8 @@
         "conv": 5.3,
         "value": 227.0,
         "n_ads": 2,
-        "roas": 14.35
+        "roas": 14.35,
+        "max_variants": 1
       }
     }
   },
@@ -35654,31 +35672,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 2.15,
-        "imps": 1184,
-        "clicks": 3,
+        "spend": 1.08,
+        "imps": 592,
+        "clicks": 2,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 2
       },
       "d7": {
-        "spend": 7.28,
-        "imps": 6122,
-        "clicks": 18,
-        "conv": 0.57,
-        "value": 60.46,
+        "spend": 3.64,
+        "imps": 3061,
+        "clicks": 9,
+        "conv": 0.28,
+        "value": 30.23,
         "n_ads": 2,
-        "roas": 8.3
+        "roas": 8.3,
+        "max_variants": 2
       },
       "d30": {
-        "spend": 10.29,
-        "imps": 6598,
-        "clicks": 20,
-        "conv": 0.65,
-        "value": 63.43,
+        "spend": 5.14,
+        "imps": 3299,
+        "clicks": 10,
+        "conv": 0.32,
+        "value": 31.71,
         "n_ads": 2,
-        "roas": 6.16
+        "roas": 6.16,
+        "max_variants": 2
       }
     }
   },
@@ -35694,31 +35715,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 2.15,
-        "imps": 1184,
-        "clicks": 3,
+        "spend": 1.08,
+        "imps": 592,
+        "clicks": 2,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 2
       },
       "d7": {
-        "spend": 7.28,
-        "imps": 6122,
-        "clicks": 18,
-        "conv": 0.57,
-        "value": 60.46,
+        "spend": 3.64,
+        "imps": 3061,
+        "clicks": 9,
+        "conv": 0.28,
+        "value": 30.23,
         "n_ads": 2,
-        "roas": 8.3
+        "roas": 8.3,
+        "max_variants": 2
       },
       "d30": {
-        "spend": 10.29,
-        "imps": 6598,
-        "clicks": 20,
-        "conv": 0.65,
-        "value": 63.43,
+        "spend": 5.14,
+        "imps": 3299,
+        "clicks": 10,
+        "conv": 0.32,
+        "value": 31.71,
         "n_ads": 2,
-        "roas": 6.16
+        "roas": 6.16,
+        "max_variants": 2
       }
     }
   },
@@ -35820,7 +35844,8 @@
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 1
       },
       "d7": {
         "spend": 11.59,
@@ -35829,7 +35854,8 @@
         "conv": 1.7,
         "value": 229.62,
         "n_ads": 2,
-        "roas": 19.81
+        "roas": 19.81,
+        "max_variants": 1
       },
       "d30": {
         "spend": 15.25,
@@ -35838,7 +35864,8 @@
         "conv": 1.88,
         "value": 273.21,
         "n_ads": 2,
-        "roas": 17.92
+        "roas": 17.92,
+        "max_variants": 1
       }
     }
   },
@@ -35942,31 +35969,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 34.18,
-        "imps": 30035,
-        "clicks": 135,
+        "spend": 8.55,
+        "imps": 7509,
+        "clicks": 34,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 4
       },
       "d7": {
-        "spend": 69.63,
-        "imps": 75446,
-        "clicks": 380,
-        "conv": 3.84,
-        "value": 659.67,
+        "spend": 17.41,
+        "imps": 18862,
+        "clicks": 95,
+        "conv": 0.96,
+        "value": 164.92,
         "n_ads": 2,
-        "roas": 9.47
+        "roas": 9.47,
+        "max_variants": 4
       },
       "d30": {
-        "spend": 113.7,
-        "imps": 109527,
-        "clicks": 493,
-        "conv": 11.9,
-        "value": 1340.29,
+        "spend": 28.43,
+        "imps": 27382,
+        "clicks": 123,
+        "conv": 2.98,
+        "value": 335.07,
         "n_ads": 2,
-        "roas": 11.79
+        "roas": 11.79,
+        "max_variants": 4
       }
     }
   },
@@ -35984,31 +36014,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 34.18,
-        "imps": 30035,
-        "clicks": 135,
+        "spend": 8.55,
+        "imps": 7509,
+        "clicks": 34,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 4
       },
       "d7": {
-        "spend": 69.63,
-        "imps": 75446,
-        "clicks": 380,
-        "conv": 3.84,
-        "value": 659.67,
+        "spend": 17.41,
+        "imps": 18862,
+        "clicks": 95,
+        "conv": 0.96,
+        "value": 164.92,
         "n_ads": 2,
-        "roas": 9.47
+        "roas": 9.47,
+        "max_variants": 4
       },
       "d30": {
-        "spend": 113.7,
-        "imps": 109527,
-        "clicks": 493,
-        "conv": 11.9,
-        "value": 1340.29,
+        "spend": 28.43,
+        "imps": 27382,
+        "clicks": 123,
+        "conv": 2.98,
+        "value": 335.07,
         "n_ads": 2,
-        "roas": 11.79
+        "roas": 11.79,
+        "max_variants": 4
       }
     }
   },
@@ -36026,31 +36059,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 34.18,
-        "imps": 30035,
-        "clicks": 135,
+        "spend": 8.55,
+        "imps": 7509,
+        "clicks": 34,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 4
       },
       "d7": {
-        "spend": 69.63,
-        "imps": 75446,
-        "clicks": 380,
-        "conv": 3.84,
-        "value": 659.67,
+        "spend": 17.41,
+        "imps": 18862,
+        "clicks": 95,
+        "conv": 0.96,
+        "value": 164.92,
         "n_ads": 2,
-        "roas": 9.47
+        "roas": 9.47,
+        "max_variants": 4
       },
       "d30": {
-        "spend": 113.7,
-        "imps": 109527,
-        "clicks": 493,
-        "conv": 11.9,
-        "value": 1340.29,
+        "spend": 28.43,
+        "imps": 27382,
+        "clicks": 123,
+        "conv": 2.98,
+        "value": 335.07,
         "n_ads": 2,
-        "roas": 11.79
+        "roas": 11.79,
+        "max_variants": 4
       }
     }
   },
@@ -36068,31 +36104,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 34.18,
-        "imps": 30035,
-        "clicks": 135,
+        "spend": 8.55,
+        "imps": 7509,
+        "clicks": 34,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 4
       },
       "d7": {
-        "spend": 69.63,
-        "imps": 75446,
-        "clicks": 380,
-        "conv": 3.84,
-        "value": 659.67,
+        "spend": 17.41,
+        "imps": 18862,
+        "clicks": 95,
+        "conv": 0.96,
+        "value": 164.92,
         "n_ads": 2,
-        "roas": 9.47
+        "roas": 9.47,
+        "max_variants": 4
       },
       "d30": {
-        "spend": 113.7,
-        "imps": 109527,
-        "clicks": 493,
-        "conv": 11.9,
-        "value": 1340.29,
+        "spend": 28.43,
+        "imps": 27382,
+        "clicks": 123,
+        "conv": 2.98,
+        "value": 335.07,
         "n_ads": 2,
-        "roas": 11.79
+        "roas": 11.79,
+        "max_variants": 4
       }
     }
   },
@@ -36108,31 +36147,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 9.88,
-        "imps": 8763,
-        "clicks": 24,
+        "spend": 4.94,
+        "imps": 4382,
+        "clicks": 12,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 2
       },
       "d7": {
-        "spend": 34.19,
-        "imps": 36048,
-        "clicks": 118,
+        "spend": 17.1,
+        "imps": 18024,
+        "clicks": 59,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 2
       },
       "d30": {
-        "spend": 40.86,
-        "imps": 39205,
-        "clicks": 129,
-        "conv": 0.89,
-        "value": 102.19,
+        "spend": 20.43,
+        "imps": 19602,
+        "clicks": 64,
+        "conv": 0.45,
+        "value": 51.09,
         "n_ads": 2,
-        "roas": 2.5
+        "roas": 2.5,
+        "max_variants": 2
       }
     }
   },
@@ -36148,31 +36190,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 9.88,
-        "imps": 8763,
-        "clicks": 24,
+        "spend": 4.94,
+        "imps": 4382,
+        "clicks": 12,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 2
       },
       "d7": {
-        "spend": 34.19,
-        "imps": 36048,
-        "clicks": 118,
+        "spend": 17.1,
+        "imps": 18024,
+        "clicks": 59,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 2
       },
       "d30": {
-        "spend": 40.86,
-        "imps": 39205,
-        "clicks": 129,
-        "conv": 0.89,
-        "value": 102.19,
+        "spend": 20.43,
+        "imps": 19602,
+        "clicks": 64,
+        "conv": 0.45,
+        "value": 51.09,
         "n_ads": 2,
-        "roas": 2.5
+        "roas": 2.5,
+        "max_variants": 2
       }
     }
   },
@@ -36190,31 +36235,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 21.34,
-        "imps": 18872,
-        "clicks": 78,
-        "conv": 0.85,
-        "value": 44.99,
+        "spend": 5.34,
+        "imps": 4718,
+        "clicks": 20,
+        "conv": 0.21,
+        "value": 11.25,
         "n_ads": 2,
-        "roas": 2.11
+        "roas": 2.11,
+        "max_variants": 4
       },
       "d7": {
-        "spend": 40.72,
-        "imps": 42217,
-        "clicks": 204,
-        "conv": 3.18,
-        "value": 309.4,
+        "spend": 10.18,
+        "imps": 10554,
+        "clicks": 51,
+        "conv": 0.79,
+        "value": 77.35,
         "n_ads": 2,
-        "roas": 7.6
+        "roas": 7.6,
+        "max_variants": 4
       },
       "d30": {
-        "spend": 80.4,
-        "imps": 50832,
-        "clicks": 253,
-        "conv": 5.1,
-        "value": 479.32,
+        "spend": 20.1,
+        "imps": 12708,
+        "clicks": 63,
+        "conv": 1.27,
+        "value": 119.83,
         "n_ads": 2,
-        "roas": 5.96
+        "roas": 5.96,
+        "max_variants": 4
       }
     }
   },
@@ -36232,31 +36280,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 21.34,
-        "imps": 18872,
-        "clicks": 78,
-        "conv": 0.85,
-        "value": 44.99,
+        "spend": 5.34,
+        "imps": 4718,
+        "clicks": 20,
+        "conv": 0.21,
+        "value": 11.25,
         "n_ads": 2,
-        "roas": 2.11
+        "roas": 2.11,
+        "max_variants": 4
       },
       "d7": {
-        "spend": 40.72,
-        "imps": 42217,
-        "clicks": 204,
-        "conv": 3.18,
-        "value": 309.4,
+        "spend": 10.18,
+        "imps": 10554,
+        "clicks": 51,
+        "conv": 0.79,
+        "value": 77.35,
         "n_ads": 2,
-        "roas": 7.6
+        "roas": 7.6,
+        "max_variants": 4
       },
       "d30": {
-        "spend": 80.4,
-        "imps": 50832,
-        "clicks": 253,
-        "conv": 5.1,
-        "value": 479.32,
+        "spend": 20.1,
+        "imps": 12708,
+        "clicks": 63,
+        "conv": 1.27,
+        "value": 119.83,
         "n_ads": 2,
-        "roas": 5.96
+        "roas": 5.96,
+        "max_variants": 4
       }
     }
   },
@@ -36274,31 +36325,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 21.34,
-        "imps": 18872,
-        "clicks": 78,
-        "conv": 0.85,
-        "value": 44.99,
+        "spend": 5.34,
+        "imps": 4718,
+        "clicks": 20,
+        "conv": 0.21,
+        "value": 11.25,
         "n_ads": 2,
-        "roas": 2.11
+        "roas": 2.11,
+        "max_variants": 4
       },
       "d7": {
-        "spend": 40.72,
-        "imps": 42217,
-        "clicks": 204,
-        "conv": 3.18,
-        "value": 309.4,
+        "spend": 10.18,
+        "imps": 10554,
+        "clicks": 51,
+        "conv": 0.79,
+        "value": 77.35,
         "n_ads": 2,
-        "roas": 7.6
+        "roas": 7.6,
+        "max_variants": 4
       },
       "d30": {
-        "spend": 80.4,
-        "imps": 50832,
-        "clicks": 253,
-        "conv": 5.1,
-        "value": 479.32,
+        "spend": 20.1,
+        "imps": 12708,
+        "clicks": 63,
+        "conv": 1.27,
+        "value": 119.83,
         "n_ads": 2,
-        "roas": 5.96
+        "roas": 5.96,
+        "max_variants": 4
       }
     }
   },
@@ -36316,31 +36370,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 21.34,
-        "imps": 18872,
-        "clicks": 78,
-        "conv": 0.85,
-        "value": 44.99,
+        "spend": 5.34,
+        "imps": 4718,
+        "clicks": 20,
+        "conv": 0.21,
+        "value": 11.25,
         "n_ads": 2,
-        "roas": 2.11
+        "roas": 2.11,
+        "max_variants": 4
       },
       "d7": {
-        "spend": 40.72,
-        "imps": 42217,
-        "clicks": 204,
-        "conv": 3.18,
-        "value": 309.4,
+        "spend": 10.18,
+        "imps": 10554,
+        "clicks": 51,
+        "conv": 0.79,
+        "value": 77.35,
         "n_ads": 2,
-        "roas": 7.6
+        "roas": 7.6,
+        "max_variants": 4
       },
       "d30": {
-        "spend": 80.4,
-        "imps": 50832,
-        "clicks": 253,
-        "conv": 5.1,
-        "value": 479.32,
+        "spend": 20.1,
+        "imps": 12708,
+        "clicks": 63,
+        "conv": 1.27,
+        "value": 119.83,
         "n_ads": 2,
-        "roas": 5.96
+        "roas": 5.96,
+        "max_variants": 4
       }
     }
   },
@@ -36358,31 +36415,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 126.32,
-        "imps": 76050,
-        "clicks": 358,
+        "spend": 25.26,
+        "imps": 15210,
+        "clicks": 72,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 5
       },
       "d7": {
-        "spend": 213.75,
-        "imps": 145270,
-        "clicks": 744,
-        "conv": 9.15,
-        "value": 1094.15,
+        "spend": 42.75,
+        "imps": 29054,
+        "clicks": 149,
+        "conv": 1.83,
+        "value": 218.83,
         "n_ads": 2,
-        "roas": 5.12
+        "roas": 5.12,
+        "max_variants": 5
       },
       "d30": {
-        "spend": 262.0,
-        "imps": 191490,
-        "clicks": 887,
-        "conv": 17.06,
-        "value": 2136.13,
+        "spend": 52.4,
+        "imps": 38298,
+        "clicks": 177,
+        "conv": 3.41,
+        "value": 427.23,
         "n_ads": 2,
-        "roas": 8.15
+        "roas": 8.15,
+        "max_variants": 5
       }
     }
   },
@@ -36400,31 +36460,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 126.32,
-        "imps": 76050,
-        "clicks": 358,
+        "spend": 25.26,
+        "imps": 15210,
+        "clicks": 72,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 5
       },
       "d7": {
-        "spend": 213.75,
-        "imps": 145270,
-        "clicks": 744,
-        "conv": 9.15,
-        "value": 1094.15,
+        "spend": 42.75,
+        "imps": 29054,
+        "clicks": 149,
+        "conv": 1.83,
+        "value": 218.83,
         "n_ads": 2,
-        "roas": 5.12
+        "roas": 5.12,
+        "max_variants": 5
       },
       "d30": {
-        "spend": 262.0,
-        "imps": 191490,
-        "clicks": 887,
-        "conv": 17.06,
-        "value": 2136.13,
+        "spend": 52.4,
+        "imps": 38298,
+        "clicks": 177,
+        "conv": 3.41,
+        "value": 427.23,
         "n_ads": 2,
-        "roas": 8.15
+        "roas": 8.15,
+        "max_variants": 5
       }
     }
   },
@@ -36442,31 +36505,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 126.32,
-        "imps": 76050,
-        "clicks": 358,
+        "spend": 25.26,
+        "imps": 15210,
+        "clicks": 72,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 5
       },
       "d7": {
-        "spend": 213.75,
-        "imps": 145270,
-        "clicks": 744,
-        "conv": 9.15,
-        "value": 1094.15,
+        "spend": 42.75,
+        "imps": 29054,
+        "clicks": 149,
+        "conv": 1.83,
+        "value": 218.83,
         "n_ads": 2,
-        "roas": 5.12
+        "roas": 5.12,
+        "max_variants": 5
       },
       "d30": {
-        "spend": 262.0,
-        "imps": 191490,
-        "clicks": 887,
-        "conv": 17.06,
-        "value": 2136.13,
+        "spend": 52.4,
+        "imps": 38298,
+        "clicks": 177,
+        "conv": 3.41,
+        "value": 427.23,
         "n_ads": 2,
-        "roas": 8.15
+        "roas": 8.15,
+        "max_variants": 5
       }
     }
   },
@@ -36484,31 +36550,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 126.32,
-        "imps": 76050,
-        "clicks": 358,
+        "spend": 25.26,
+        "imps": 15210,
+        "clicks": 72,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 5
       },
       "d7": {
-        "spend": 213.75,
-        "imps": 145270,
-        "clicks": 744,
-        "conv": 9.15,
-        "value": 1094.15,
+        "spend": 42.75,
+        "imps": 29054,
+        "clicks": 149,
+        "conv": 1.83,
+        "value": 218.83,
         "n_ads": 2,
-        "roas": 5.12
+        "roas": 5.12,
+        "max_variants": 5
       },
       "d30": {
-        "spend": 262.0,
-        "imps": 191490,
-        "clicks": 887,
-        "conv": 17.06,
-        "value": 2136.13,
+        "spend": 52.4,
+        "imps": 38298,
+        "clicks": 177,
+        "conv": 3.41,
+        "value": 427.23,
         "n_ads": 2,
-        "roas": 8.15
+        "roas": 8.15,
+        "max_variants": 5
       }
     }
   },
@@ -36526,31 +36595,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 126.32,
-        "imps": 76050,
-        "clicks": 358,
+        "spend": 25.26,
+        "imps": 15210,
+        "clicks": 72,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 5
       },
       "d7": {
-        "spend": 213.75,
-        "imps": 145270,
-        "clicks": 744,
-        "conv": 9.15,
-        "value": 1094.15,
+        "spend": 42.75,
+        "imps": 29054,
+        "clicks": 149,
+        "conv": 1.83,
+        "value": 218.83,
         "n_ads": 2,
-        "roas": 5.12
+        "roas": 5.12,
+        "max_variants": 5
       },
       "d30": {
-        "spend": 262.0,
-        "imps": 191490,
-        "clicks": 887,
-        "conv": 17.06,
-        "value": 2136.13,
+        "spend": 52.4,
+        "imps": 38298,
+        "clicks": 177,
+        "conv": 3.41,
+        "value": 427.23,
         "n_ads": 2,
-        "roas": 8.15
+        "roas": 8.15,
+        "max_variants": 5
       }
     }
   },
@@ -36822,7 +36894,8 @@
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0
+        "roas": 0,
+        "max_variants": 1
       }
     }
   },
@@ -36840,31 +36913,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 2.2,
-        "imps": 1507,
-        "clicks": 12,
+        "spend": 0.55,
+        "imps": 377,
+        "clicks": 3,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 4
       },
       "d7": {
-        "spend": 7.5,
-        "imps": 10238,
-        "clicks": 61,
+        "spend": 1.88,
+        "imps": 2560,
+        "clicks": 15,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 4
       },
       "d30": {
-        "spend": 10.49,
-        "imps": 10540,
-        "clicks": 65,
-        "conv": 2.0,
-        "value": 992.84,
+        "spend": 2.62,
+        "imps": 2635,
+        "clicks": 16,
+        "conv": 0.5,
+        "value": 248.21,
         "n_ads": 2,
-        "roas": 94.65
+        "roas": 94.65,
+        "max_variants": 4
       }
     }
   },
@@ -36882,31 +36958,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 2.2,
-        "imps": 1507,
-        "clicks": 12,
+        "spend": 0.55,
+        "imps": 377,
+        "clicks": 3,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 4
       },
       "d7": {
-        "spend": 7.5,
-        "imps": 10238,
-        "clicks": 61,
+        "spend": 1.88,
+        "imps": 2560,
+        "clicks": 15,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 4
       },
       "d30": {
-        "spend": 10.49,
-        "imps": 10540,
-        "clicks": 65,
-        "conv": 2.0,
-        "value": 992.84,
+        "spend": 2.62,
+        "imps": 2635,
+        "clicks": 16,
+        "conv": 0.5,
+        "value": 248.21,
         "n_ads": 2,
-        "roas": 94.65
+        "roas": 94.65,
+        "max_variants": 4
       }
     }
   },
@@ -36966,31 +37045,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 2.51,
-        "imps": 2427,
-        "clicks": 17,
+        "spend": 0.63,
+        "imps": 607,
+        "clicks": 4,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 4
       },
       "d7": {
-        "spend": 7.64,
-        "imps": 14408,
-        "clicks": 82,
+        "spend": 1.91,
+        "imps": 3602,
+        "clicks": 20,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 4
       },
       "d30": {
-        "spend": 9.98,
-        "imps": 14670,
-        "clicks": 83,
+        "spend": 2.49,
+        "imps": 3668,
+        "clicks": 21,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 4
       }
     }
   },
@@ -37006,31 +37088,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.33,
-        "imps": 443,
-        "clicks": 2,
+        "spend": 0.16,
+        "imps": 222,
+        "clicks": 1,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 2
       },
       "d7": {
-        "spend": 1.38,
-        "imps": 2175,
-        "clicks": 12,
+        "spend": 0.69,
+        "imps": 1088,
+        "clicks": 6,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 2
       },
       "d30": {
-        "spend": 1.72,
-        "imps": 2215,
-        "clicks": 13,
+        "spend": 0.86,
+        "imps": 1108,
+        "clicks": 6,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 2
       }
     }
   },
@@ -37090,31 +37175,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 2.51,
-        "imps": 2427,
-        "clicks": 17,
+        "spend": 0.63,
+        "imps": 607,
+        "clicks": 4,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 4
       },
       "d7": {
-        "spend": 7.64,
-        "imps": 14408,
-        "clicks": 82,
+        "spend": 1.91,
+        "imps": 3602,
+        "clicks": 20,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 4
       },
       "d30": {
-        "spend": 9.98,
-        "imps": 14670,
-        "clicks": 83,
+        "spend": 2.49,
+        "imps": 3668,
+        "clicks": 21,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 4
       }
     }
   },
@@ -37132,31 +37220,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 2.51,
-        "imps": 2427,
-        "clicks": 17,
+        "spend": 0.63,
+        "imps": 607,
+        "clicks": 4,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 4
       },
       "d7": {
-        "spend": 7.64,
-        "imps": 14408,
-        "clicks": 82,
+        "spend": 1.91,
+        "imps": 3602,
+        "clicks": 20,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 4
       },
       "d30": {
-        "spend": 9.98,
-        "imps": 14670,
-        "clicks": 83,
+        "spend": 2.49,
+        "imps": 3668,
+        "clicks": 21,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 4
       }
     }
   },
@@ -37184,31 +37275,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.33,
-        "imps": 443,
-        "clicks": 2,
+        "spend": 0.16,
+        "imps": 222,
+        "clicks": 1,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 2
       },
       "d7": {
-        "spend": 1.38,
-        "imps": 2175,
-        "clicks": 12,
+        "spend": 0.69,
+        "imps": 1088,
+        "clicks": 6,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 2
       },
       "d30": {
-        "spend": 1.72,
-        "imps": 2215,
-        "clicks": 13,
+        "spend": 0.86,
+        "imps": 1108,
+        "clicks": 6,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 2
       }
     }
   },
@@ -37226,31 +37320,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 2.2,
-        "imps": 1507,
-        "clicks": 12,
+        "spend": 0.55,
+        "imps": 377,
+        "clicks": 3,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 4
       },
       "d7": {
-        "spend": 7.5,
-        "imps": 10238,
-        "clicks": 61,
+        "spend": 1.88,
+        "imps": 2560,
+        "clicks": 15,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 4
       },
       "d30": {
-        "spend": 10.49,
-        "imps": 10540,
-        "clicks": 65,
-        "conv": 2.0,
-        "value": 992.84,
+        "spend": 2.62,
+        "imps": 2635,
+        "clicks": 16,
+        "conv": 0.5,
+        "value": 248.21,
         "n_ads": 2,
-        "roas": 94.65
+        "roas": 94.65,
+        "max_variants": 4
       }
     }
   },
@@ -37268,31 +37365,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 2.2,
-        "imps": 1507,
-        "clicks": 12,
+        "spend": 0.55,
+        "imps": 377,
+        "clicks": 3,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 4
       },
       "d7": {
-        "spend": 7.5,
-        "imps": 10238,
-        "clicks": 61,
+        "spend": 1.88,
+        "imps": 2560,
+        "clicks": 15,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 4
       },
       "d30": {
-        "spend": 10.49,
-        "imps": 10540,
-        "clicks": 65,
-        "conv": 2.0,
-        "value": 992.84,
+        "spend": 2.62,
+        "imps": 2635,
+        "clicks": 16,
+        "conv": 0.5,
+        "value": 248.21,
         "n_ads": 2,
-        "roas": 94.65
+        "roas": 94.65,
+        "max_variants": 4
       }
     }
   },
@@ -37352,31 +37452,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 2.51,
-        "imps": 2427,
-        "clicks": 17,
+        "spend": 0.63,
+        "imps": 607,
+        "clicks": 4,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 4
       },
       "d7": {
-        "spend": 7.64,
-        "imps": 14408,
-        "clicks": 82,
+        "spend": 1.91,
+        "imps": 3602,
+        "clicks": 20,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 4
       },
       "d30": {
-        "spend": 9.98,
-        "imps": 14670,
-        "clicks": 83,
+        "spend": 2.49,
+        "imps": 3668,
+        "clicks": 21,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 4
       }
     }
   },
@@ -37424,31 +37527,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 9.11,
-        "imps": 3163,
-        "clicks": 14,
+        "spend": 3.04,
+        "imps": 1054,
+        "clicks": 5,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 3
       },
       "d7": {
-        "spend": 19.11,
-        "imps": 6117,
-        "clicks": 35,
-        "conv": 4.06,
-        "value": 339.28,
+        "spend": 6.37,
+        "imps": 2039,
+        "clicks": 12,
+        "conv": 1.35,
+        "value": 113.09,
         "n_ads": 2,
-        "roas": 17.75
+        "roas": 17.75,
+        "max_variants": 3
       },
       "d30": {
-        "spend": 35.35,
-        "imps": 8250,
-        "clicks": 58,
-        "conv": 5.43,
-        "value": 474.79,
+        "spend": 11.78,
+        "imps": 2750,
+        "clicks": 19,
+        "conv": 1.81,
+        "value": 158.26,
         "n_ads": 2,
-        "roas": 13.43
+        "roas": 13.43,
+        "max_variants": 3
       }
     }
   },
@@ -37482,31 +37588,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 10.19,
-        "imps": 4489,
-        "clicks": 27,
-        "conv": 0.03,
-        "value": 0.48,
+        "spend": 2.55,
+        "imps": 1122,
+        "clicks": 7,
+        "conv": 0.01,
+        "value": 0.12,
         "n_ads": 2,
-        "roas": 0.05
+        "roas": 0.05,
+        "max_variants": 4
       },
       "d7": {
-        "spend": 22.63,
-        "imps": 9527,
-        "clicks": 70,
-        "conv": 1.48,
-        "value": 108.79,
+        "spend": 5.66,
+        "imps": 2382,
+        "clicks": 18,
+        "conv": 0.37,
+        "value": 27.2,
         "n_ads": 2,
-        "roas": 4.81
+        "roas": 4.81,
+        "max_variants": 4
       },
       "d30": {
-        "spend": 50.87,
-        "imps": 12423,
-        "clicks": 98,
-        "conv": 6.76,
-        "value": 467.4,
+        "spend": 12.72,
+        "imps": 3106,
+        "clicks": 24,
+        "conv": 1.69,
+        "value": 116.85,
         "n_ads": 2,
-        "roas": 9.19
+        "roas": 9.19,
+        "max_variants": 4
       }
     }
   },
@@ -37524,31 +37633,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 9.11,
-        "imps": 3163,
-        "clicks": 14,
+        "spend": 3.04,
+        "imps": 1054,
+        "clicks": 5,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 3
       },
       "d7": {
-        "spend": 19.11,
-        "imps": 6117,
-        "clicks": 35,
-        "conv": 4.06,
-        "value": 339.28,
+        "spend": 6.37,
+        "imps": 2039,
+        "clicks": 12,
+        "conv": 1.35,
+        "value": 113.09,
         "n_ads": 2,
-        "roas": 17.75
+        "roas": 17.75,
+        "max_variants": 3
       },
       "d30": {
-        "spend": 35.35,
-        "imps": 8250,
-        "clicks": 58,
-        "conv": 5.43,
-        "value": 474.79,
+        "spend": 11.78,
+        "imps": 2750,
+        "clicks": 19,
+        "conv": 1.81,
+        "value": 158.26,
         "n_ads": 2,
-        "roas": 13.43
+        "roas": 13.43,
+        "max_variants": 3
       }
     }
   },
@@ -37566,31 +37678,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 9.11,
-        "imps": 3163,
-        "clicks": 14,
+        "spend": 3.04,
+        "imps": 1054,
+        "clicks": 5,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 3
       },
       "d7": {
-        "spend": 19.11,
-        "imps": 6117,
-        "clicks": 35,
-        "conv": 4.06,
-        "value": 339.28,
+        "spend": 6.37,
+        "imps": 2039,
+        "clicks": 12,
+        "conv": 1.35,
+        "value": 113.09,
         "n_ads": 2,
-        "roas": 17.75
+        "roas": 17.75,
+        "max_variants": 3
       },
       "d30": {
-        "spend": 35.35,
-        "imps": 8250,
-        "clicks": 58,
-        "conv": 5.43,
-        "value": 474.79,
+        "spend": 11.78,
+        "imps": 2750,
+        "clicks": 19,
+        "conv": 1.81,
+        "value": 158.26,
         "n_ads": 2,
-        "roas": 13.43
+        "roas": 13.43,
+        "max_variants": 3
       }
     }
   },
@@ -37623,31 +37738,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 10.19,
-        "imps": 4489,
-        "clicks": 27,
-        "conv": 0.03,
-        "value": 0.48,
+        "spend": 2.55,
+        "imps": 1122,
+        "clicks": 7,
+        "conv": 0.01,
+        "value": 0.12,
         "n_ads": 2,
-        "roas": 0.05
+        "roas": 0.05,
+        "max_variants": 4
       },
       "d7": {
-        "spend": 22.63,
-        "imps": 9527,
-        "clicks": 70,
-        "conv": 1.48,
-        "value": 108.79,
+        "spend": 5.66,
+        "imps": 2382,
+        "clicks": 18,
+        "conv": 0.37,
+        "value": 27.2,
         "n_ads": 2,
-        "roas": 4.81
+        "roas": 4.81,
+        "max_variants": 4
       },
       "d30": {
-        "spend": 50.87,
-        "imps": 12423,
-        "clicks": 98,
-        "conv": 6.76,
-        "value": 467.4,
+        "spend": 12.72,
+        "imps": 3106,
+        "clicks": 24,
+        "conv": 1.69,
+        "value": 116.85,
         "n_ads": 2,
-        "roas": 9.19
+        "roas": 9.19,
+        "max_variants": 4
       }
     }
   },
@@ -37666,31 +37784,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 10.19,
-        "imps": 4489,
-        "clicks": 27,
-        "conv": 0.03,
-        "value": 0.48,
+        "spend": 2.55,
+        "imps": 1122,
+        "clicks": 7,
+        "conv": 0.01,
+        "value": 0.12,
         "n_ads": 2,
-        "roas": 0.05
+        "roas": 0.05,
+        "max_variants": 4
       },
       "d7": {
-        "spend": 22.63,
-        "imps": 9527,
-        "clicks": 70,
-        "conv": 1.48,
-        "value": 108.79,
+        "spend": 5.66,
+        "imps": 2382,
+        "clicks": 18,
+        "conv": 0.37,
+        "value": 27.2,
         "n_ads": 2,
-        "roas": 4.81
+        "roas": 4.81,
+        "max_variants": 4
       },
       "d30": {
-        "spend": 50.87,
-        "imps": 12423,
-        "clicks": 98,
-        "conv": 6.76,
-        "value": 467.4,
+        "spend": 12.72,
+        "imps": 3106,
+        "clicks": 24,
+        "conv": 1.69,
+        "value": 116.85,
         "n_ads": 2,
-        "roas": 9.19
+        "roas": 9.19,
+        "max_variants": 4
       }
     }
   },
@@ -37709,31 +37830,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 10.19,
-        "imps": 4489,
-        "clicks": 27,
-        "conv": 0.03,
-        "value": 0.48,
+        "spend": 2.55,
+        "imps": 1122,
+        "clicks": 7,
+        "conv": 0.01,
+        "value": 0.12,
         "n_ads": 2,
-        "roas": 0.05
+        "roas": 0.05,
+        "max_variants": 4
       },
       "d7": {
-        "spend": 22.63,
-        "imps": 9527,
-        "clicks": 70,
-        "conv": 1.48,
-        "value": 108.79,
+        "spend": 5.66,
+        "imps": 2382,
+        "clicks": 18,
+        "conv": 0.37,
+        "value": 27.2,
         "n_ads": 2,
-        "roas": 4.81
+        "roas": 4.81,
+        "max_variants": 4
       },
       "d30": {
-        "spend": 50.87,
-        "imps": 12423,
-        "clicks": 98,
-        "conv": 6.76,
-        "value": 467.4,
+        "spend": 12.72,
+        "imps": 3106,
+        "clicks": 24,
+        "conv": 1.69,
+        "value": 116.85,
         "n_ads": 2,
-        "roas": 9.19
+        "roas": 9.19,
+        "max_variants": 4
       }
     }
   },
@@ -37770,7 +37894,8 @@
         "conv": 0.03,
         "value": 0.53,
         "n_ads": 2,
-        "roas": 0.03
+        "roas": 0.03,
+        "max_variants": 1
       },
       "d7": {
         "spend": 34.45,
@@ -37779,7 +37904,8 @@
         "conv": 1.92,
         "value": 76.4,
         "n_ads": 2,
-        "roas": 2.22
+        "roas": 2.22,
+        "max_variants": 1
       },
       "d30": {
         "spend": 34.69,
@@ -37788,7 +37914,8 @@
         "conv": 1.92,
         "value": 76.4,
         "n_ads": 2,
-        "roas": 2.2
+        "roas": 2.2,
+        "max_variants": 1
       }
     }
   },
@@ -37810,7 +37937,8 @@
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0
+        "roas": 0,
+        "max_variants": 1
       }
     }
   },
@@ -37828,31 +37956,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.86,
-        "imps": 2285,
-        "clicks": 23,
+        "spend": 0.43,
+        "imps": 1142,
+        "clicks": 12,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 4,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 2
       },
       "d7": {
-        "spend": 2.3,
-        "imps": 8812,
-        "clicks": 65,
+        "spend": 1.15,
+        "imps": 4406,
+        "clicks": 32,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 4,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 2
       },
       "d30": {
-        "spend": 2.3,
-        "imps": 8812,
-        "clicks": 65,
+        "spend": 1.15,
+        "imps": 4406,
+        "clicks": 32,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 4,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 2
       }
     }
   },
@@ -37870,31 +38001,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.86,
-        "imps": 2285,
-        "clicks": 23,
+        "spend": 0.43,
+        "imps": 1142,
+        "clicks": 12,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 4,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 2
       },
       "d7": {
-        "spend": 2.3,
-        "imps": 8812,
-        "clicks": 65,
+        "spend": 1.15,
+        "imps": 4406,
+        "clicks": 32,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 4,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 2
       },
       "d30": {
-        "spend": 2.3,
-        "imps": 8812,
-        "clicks": 65,
+        "spend": 1.15,
+        "imps": 4406,
+        "clicks": 32,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 4,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 2
       }
     }
   },
@@ -37913,31 +38047,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 8.14,
-        "imps": 9585,
-        "clicks": 30,
+        "spend": 4.07,
+        "imps": 4792,
+        "clicks": 15,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 2
       },
       "d7": {
-        "spend": 34.91,
-        "imps": 69107,
-        "clicks": 261,
+        "spend": 17.46,
+        "imps": 34554,
+        "clicks": 130,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 2
       },
       "d30": {
-        "spend": 34.91,
-        "imps": 69107,
-        "clicks": 261,
+        "spend": 17.46,
+        "imps": 34554,
+        "clicks": 130,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 2
       }
     }
   },
@@ -37956,31 +38093,34 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 8.14,
-        "imps": 9585,
-        "clicks": 30,
+        "spend": 4.07,
+        "imps": 4792,
+        "clicks": 15,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 2
       },
       "d7": {
-        "spend": 34.91,
-        "imps": 69107,
-        "clicks": 261,
+        "spend": 17.46,
+        "imps": 34554,
+        "clicks": 130,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 2
       },
       "d30": {
-        "spend": 34.91,
-        "imps": 69107,
-        "clicks": 261,
+        "spend": 17.46,
+        "imps": 34554,
+        "clicks": 130,
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 2
       }
     }
   },
@@ -38005,7 +38145,8 @@
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 1
       },
       "d7": {
         "spend": 2.26,
@@ -38014,7 +38155,8 @@
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 1
       },
       "d30": {
         "spend": 2.26,
@@ -38023,7 +38165,8 @@
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 1
       }
     }
   },
@@ -38048,7 +38191,8 @@
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 1
       },
       "d7": {
         "spend": 211.89,
@@ -38057,7 +38201,8 @@
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 1
       },
       "d30": {
         "spend": 211.89,
@@ -38066,7 +38211,8 @@
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 1
       }
     }
   },
@@ -38091,7 +38237,8 @@
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 1
       },
       "d7": {
         "spend": 5.1,
@@ -38100,7 +38247,8 @@
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 1
       },
       "d30": {
         "spend": 5.1,
@@ -38109,7 +38257,8 @@
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 1
       }
     }
   },
@@ -38131,7 +38280,8 @@
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 1,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 1
       },
       "d7": {
         "spend": 0.25,
@@ -38140,7 +38290,8 @@
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 1,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 1
       },
       "d30": {
         "spend": 0.25,
@@ -38149,7 +38300,8 @@
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 1
       }
     }
   },
@@ -38171,7 +38323,8 @@
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 1,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 1
       },
       "d7": {
         "spend": 0.4,
@@ -38180,7 +38333,8 @@
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 1,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 1
       },
       "d30": {
         "spend": 0.4,
@@ -38189,7 +38343,8 @@
         "conv": 0.0,
         "value": 0.0,
         "n_ads": 2,
-        "roas": 0.0
+        "roas": 0.0,
+        "max_variants": 1
       }
     }
   }

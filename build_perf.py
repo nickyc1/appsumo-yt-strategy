@@ -16,14 +16,29 @@ RANGES = {
 }
 
 def aggregate(rows):
+    """For each ad, divide its metrics equally among the N video variants
+    attached to that ad. DG Video Responsive Ads serve one variant per
+    impression based on placement (Shorts vs in-stream vs in-feed),
+    but the API doesn't expose per-variant serving, so equal split is
+    the most honest approximation."""
     per_video = {}
+    max_variants = {}  # asset_id -> max ad-variant count seen (for "1 of N" label)
     for ad in rows:
-        cost = int(ad.get("metrics.cost_micros", 0)) / 1_000_000
-        imps = int(ad.get("metrics.impressions", 0))
-        clicks = int(ad.get("metrics.clicks", 0))
-        conv = float(ad.get("metrics.conversions", 0))
-        val = float(ad.get("metrics.conversions_value", 0))
+        cost_total = int(ad.get("metrics.cost_micros", 0)) / 1_000_000
+        imps_total = int(ad.get("metrics.impressions", 0))
+        clicks_total = int(ad.get("metrics.clicks", 0))
+        conv_total = float(ad.get("metrics.conversions", 0))
+        val_total = float(ad.get("metrics.conversions_value", 0))
         videos = ad.get("ad_group_ad.ad.demand_gen_video_responsive_ad.videos", []) or []
+        n = len(videos)
+        if n == 0:
+            continue
+        # Distribute equally among variants
+        cost = cost_total / n
+        imps = imps_total / n
+        clicks = clicks_total / n
+        conv = conv_total / n
+        val = val_total / n
         for v in videos:
             asset_path = v.get("asset", "")
             aid = asset_path.split("/")[-1] if asset_path else ""
@@ -35,11 +50,15 @@ def aggregate(rows):
             p["conv"] += conv
             p["value"] += val
             p["n_ads"] += 1
-    for p in per_video.values():
+            max_variants[aid] = max(max_variants.get(aid, 1), n)
+    for aid, p in per_video.items():
         p["roas"] = round(p["value"] / p["spend"], 2) if p["spend"] > 0 else 0
         p["spend"] = round(p["spend"], 2)
         p["value"] = round(p["value"], 2)
         p["conv"] = round(p["conv"], 2)
+        p["imps"] = round(p["imps"])
+        p["clicks"] = round(p["clicks"])
+        p["max_variants"] = max_variants.get(aid, 1)
     return per_video
 
 all_perf = {}

@@ -1,0 +1,1962 @@
+[{
+  "results": [
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23461694789",
+        "id": "23461694789"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/193360700101~808486117894",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808486117894",
+          "id": "808486117894",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/359544066032",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": true,
+                    "inStreamPreference": true,
+                    "shortsPreference": false
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/359544066035",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23461694789",
+        "id": "23461694789"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/193360700101~808486117897",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808486117897",
+          "id": "808486117897",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/359544066047"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23461694789",
+        "id": "23461694789"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/193360700101~808486117900",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808486117900",
+          "id": "808486117900",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/359544066050"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23461694789",
+        "id": "23461694789"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/193360700101~808486117903",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808486117903",
+          "id": "808486117903",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/359544066038",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": true,
+                    "inStreamPreference": true,
+                    "shortsPreference": false
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/359544066041",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23461694789",
+        "id": "23461694789"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/193360700101~808486117906",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808486117906",
+          "id": "808486117906",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/359544066032",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": true,
+                    "inStreamPreference": true,
+                    "shortsPreference": false
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/359544066035",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23461694789",
+        "id": "23461694789"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/193360700101~808486117909",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808486117909",
+          "id": "808486117909",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/359544066044",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/196305784747~797308385732",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/797308385732",
+          "id": "797308385732",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/328434885295"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/196305784747~798353474861",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/798353474861",
+          "id": "798353474861",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/334764017080"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/196305784747~798898104388",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/798898104388",
+          "id": "798898104388",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/336368110343"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/196305784747~798929908033",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/798929908033",
+          "id": "798929908033",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/336614005851"
+              },
+              {
+                "asset": "customers/8540043636/assets/336614005854"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/196305784747~799212390168",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/799212390168",
+          "id": "799212390168",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/337537037731"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/196305784747~799212390171",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/799212390171",
+          "id": "799212390171",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/337537037734"
+              },
+              {
+                "asset": "customers/8540043636/assets/337537037737"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/196305784747~800571041715",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/800571041715",
+          "id": "800571041715",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/340522070199"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/196305784747~802199224253",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/802199224253",
+          "id": "802199224253",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/343028706806"
+              },
+              {
+                "asset": "customers/8540043636/assets/343028706809"
+              },
+              {
+                "asset": "customers/8540043636/assets/343028706812"
+              },
+              {
+                "asset": "customers/8540043636/assets/343028706815"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/196305784747~802237977251",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/802237977251",
+          "id": "802237977251",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/343141200539"
+              },
+              {
+                "asset": "customers/8540043636/assets/343141200542"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/196305784747~803264100239",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/803264100239",
+          "id": "803264100239",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/345202743574"
+              },
+              {
+                "asset": "customers/8540043636/assets/345202743577"
+              },
+              {
+                "asset": "customers/8540043636/assets/345202743580"
+              },
+              {
+                "asset": "customers/8540043636/assets/345202743583"
+              },
+              {
+                "asset": "customers/8540043636/assets/345202743586"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/196305784747~803273076163",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/803273076163",
+          "id": "803273076163",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/345188825336"
+              },
+              {
+                "asset": "customers/8540043636/assets/345188825339"
+              },
+              {
+                "asset": "customers/8540043636/assets/345188825342"
+              },
+              {
+                "asset": "customers/8540043636/assets/345188825345"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/196305784747~806375554743",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/806375554743",
+          "id": "806375554743",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/352376549964",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/196305784747~806441513211",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/806441513211",
+          "id": "806441513211",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/352467308935",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/352540975704",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/196305784747~806505914542",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/806505914542",
+          "id": "806505914542",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/352512831085",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/352586794509",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/352432757882",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": true,
+                    "inStreamPreference": true,
+                    "shortsPreference": false
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/352512825250",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": true,
+                    "inStreamPreference": true,
+                    "shortsPreference": false
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/196305784747~806557356443",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/806557356443",
+          "id": "806557356443",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/352393843901",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/352393832480",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": true,
+                    "inStreamPreference": true,
+                    "shortsPreference": false
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/352546538745",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/352546534977",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": true,
+                    "inStreamPreference": true,
+                    "shortsPreference": false
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/196305784747~807981086857",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/807981086857",
+          "id": "807981086857",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/358288503130"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/196305784747~808197141991",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808197141991",
+          "id": "808197141991",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/358970483755"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/201542696052~808344548151",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808344548151",
+          "id": "808344548151",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/359544066032",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": true,
+                    "inStreamPreference": true,
+                    "shortsPreference": false
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/359544066035",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/201542696052~808344548154",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808344548154",
+          "id": "808344548154",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/359544066038",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": true,
+                    "inStreamPreference": true,
+                    "shortsPreference": false
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/359544066041",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/201542696052~808344548157",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808344548157",
+          "id": "808344548157",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/359544066044",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/201542696052~808344548280",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808344548280",
+          "id": "808344548280",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/359544066047"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/201542696052~808344548283",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808344548283",
+          "id": "808344548283",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/359544066050"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/201542696052~808344548286",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808344548286",
+          "id": "808344548286",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/359544066032",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": true,
+                    "inStreamPreference": true,
+                    "shortsPreference": false
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/359544066035",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/196305784747~808465696749",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808465696749",
+          "id": "808465696749",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/359997379491"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/196305784747~808491809908",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808491809908",
+          "id": "808491809908",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/359976803520"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/196305784747~808746539236",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808746539236",
+          "id": "808746539236",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/360482129726"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/196305784747~808746539239",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808746539239",
+          "id": "808746539239",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/354863987316",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/354861892116",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": true,
+                    "inStreamPreference": true,
+                    "shortsPreference": false
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/354865358151",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": true,
+                    "inStreamPreference": true,
+                    "shortsPreference": false
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/354791622634",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/196305784747~808746539242",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808746539242",
+          "id": "808746539242",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/354698923688",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": true,
+                    "inStreamPreference": true,
+                    "shortsPreference": false
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/354853733172",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/354853731660",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": true,
+                    "inStreamPreference": true,
+                    "shortsPreference": false
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/196305784747~808746539245",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808746539245",
+          "id": "808746539245",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/360482129723"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/196305784747~808747314451",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808747314451",
+          "id": "808747314451",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/360595688923"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23554889940",
+        "id": "23554889940"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/196305784747~808747314454",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808747314454",
+          "id": "808747314454",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/360595688926"
+              },
+              {
+                "asset": "customers/8540043636/assets/360595688929"
+              },
+              {
+                "asset": "customers/8540043636/assets/360595688932"
+              },
+              {
+                "asset": "customers/8540043636/assets/360595688935"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/198758656532~798184234441",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/798184234441",
+          "id": "798184234441",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/328434885295"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/198758656532~798353474864",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/798353474864",
+          "id": "798353474864",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/334764017080"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/198758656532~798898104391",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/798898104391",
+          "id": "798898104391",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/328434885295"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/198758656532~798929908036",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/798929908036",
+          "id": "798929908036",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/336614005851"
+              },
+              {
+                "asset": "customers/8540043636/assets/336614005854"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/198758656532~799212390174",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/799212390174",
+          "id": "799212390174",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/337537037731"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/198758656532~799212390177",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/799212390177",
+          "id": "799212390177",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/337537037734"
+              },
+              {
+                "asset": "customers/8540043636/assets/337537037737"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/198758656532~800571041718",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/800571041718",
+          "id": "800571041718",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/340522070199"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/198758656532~802199224256",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/802199224256",
+          "id": "802199224256",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/343028706806"
+              },
+              {
+                "asset": "customers/8540043636/assets/343028706809"
+              },
+              {
+                "asset": "customers/8540043636/assets/343028706812"
+              },
+              {
+                "asset": "customers/8540043636/assets/343028706815"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/198758656532~802237977254",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/802237977254",
+          "id": "802237977254",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/343141200539"
+              },
+              {
+                "asset": "customers/8540043636/assets/343141200542"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/198758656532~803264100362",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/803264100362",
+          "id": "803264100362",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/345202743574"
+              },
+              {
+                "asset": "customers/8540043636/assets/345202743577"
+              },
+              {
+                "asset": "customers/8540043636/assets/345202743580"
+              },
+              {
+                "asset": "customers/8540043636/assets/345202743583"
+              },
+              {
+                "asset": "customers/8540043636/assets/345202743586"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/198758656532~803273076166",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/803273076166",
+          "id": "803273076166",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/345188825336"
+              },
+              {
+                "asset": "customers/8540043636/assets/345188825339"
+              },
+              {
+                "asset": "customers/8540043636/assets/345188825342"
+              },
+              {
+                "asset": "customers/8540043636/assets/345188825345"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/198758656532~806908128366",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/806908128366",
+          "id": "806908128366",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/354698923688",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": true,
+                    "inStreamPreference": true,
+                    "shortsPreference": false
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/354853733172",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/354853731660",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": true,
+                    "inStreamPreference": true,
+                    "shortsPreference": false
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/198758656532~806944760293",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/806944760293",
+          "id": "806944760293",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/354863987316",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/354861892116",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": true,
+                    "inStreamPreference": true,
+                    "shortsPreference": false
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/354865358151",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": true,
+                    "inStreamPreference": true,
+                    "shortsPreference": false
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/354791622634",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/198758656532~808063926629",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808063926629",
+          "id": "808063926629",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/358288503130"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/198758656532~808279686851",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808279686851",
+          "id": "808279686851",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/358970483755"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/198758656532~808704393480",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808704393480",
+          "id": "808704393480",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/360482129723"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/198758656532~808704393483",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808704393483",
+          "id": "808704393483",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/360482129726"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/195818749185~808715195757",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808715195757",
+          "id": "808715195757",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/359544066032",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": true,
+                    "inStreamPreference": true,
+                    "shortsPreference": false
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/359544066035",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/195818749185~808715195880",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808715195880",
+          "id": "808715195880",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/359544066047"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/195818749185~808715195883",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808715195883",
+          "id": "808715195883",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/359544066050"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/195818749185~808715195886",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808715195886",
+          "id": "808715195886",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/359544066038",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": true,
+                    "inStreamPreference": true,
+                    "shortsPreference": false
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/359544066041",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/195818749185~808715195889",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808715195889",
+          "id": "808715195889",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/359544066032",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": true,
+                    "inStreamPreference": true,
+                    "shortsPreference": false
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/359544066035",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/195818749185~808715195892",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808715195892",
+          "id": "808715195892",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/359544066044",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/198758656532~808715749671",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808715749671",
+          "id": "808715749671",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/352376549964",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/198758656532~808715749674",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808715749674",
+          "id": "808715749674",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/352467308935",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/352540975704",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/198758656532~808715749677",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808715749677",
+          "id": "808715749677",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/359997379491"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/198758656532~808715749800",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808715749800",
+          "id": "808715749800",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/359976803520"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/198758656532~808715749803",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808715749803",
+          "id": "808715749803",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/352393843901",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/352393832480",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": true,
+                    "inStreamPreference": true,
+                    "shortsPreference": false
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/352546538745",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/352546534977",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": true,
+                    "inStreamPreference": true,
+                    "shortsPreference": false
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/198758656532~808715749806",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808715749806",
+          "id": "808715749806",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/352512831085",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/352586794509",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": false,
+                    "inStreamPreference": false,
+                    "shortsPreference": true
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/352432757882",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": true,
+                    "inStreamPreference": true,
+                    "shortsPreference": false
+                  }
+                }
+              },
+              {
+                "asset": "customers/8540043636/assets/352512825250",
+                "adVideoAssetInfo": {
+                  "adVideoAssetInventoryPreferences": {
+                    "inFeedPreference": true,
+                    "inStreamPreference": true,
+                    "shortsPreference": false
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/198758656532~808747314457",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808747314457",
+          "id": "808747314457",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/360595688923"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resourceName": "customers/8540043636/campaigns/23594430656",
+        "id": "23594430656"
+      },
+      "adGroupAd": {
+        "resourceName": "customers/8540043636/adGroupAds/198758656532~808747314460",
+        "ad": {
+          "resourceName": "customers/8540043636/ads/808747314460",
+          "id": "808747314460",
+          "demandGenVideoResponsiveAd": {
+            "videos": [
+              {
+                "asset": "customers/8540043636/assets/360595688926"
+              },
+              {
+                "asset": "customers/8540043636/assets/360595688929"
+              },
+              {
+                "asset": "customers/8540043636/assets/360595688932"
+              },
+              {
+                "asset": "customers/8540043636/assets/360595688935"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "fieldMask": "adGroupAd.ad.id,adGroupAd.ad.demandGenVideoResponsiveAd.videos,campaign.id",
+  "requestId": "NUQN8LpNed1FGLSYaQigFQ",
+  "queryResourceConsumption": "2929"
+}
+]

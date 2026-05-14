@@ -1,0 +1,324 @@
+{
+  "total": 2805,
+  "by_bucket": {
+    "deal_specific": 2393,
+    "campaign_seasonal": 156,
+    "ugc_creator": 119,
+    "brand_evergreen": 82,
+    "dead_or_unknown": 40,
+    "deal_legacy_review": 15
+  },
+  "by_flag": {
+    "vertical_short": 504,
+    "horizontal": 474,
+    "square": 278,
+    "campaign_tied": 156,
+    "has_deal_hint": 140,
+    "no_title": 40,
+    "legacy_format": 15,
+    "noah_educational": 5,
+    "testimonial": 3
+  },
+  "samples": {
+    "brand_evergreen": [
+      {
+        "title": "About AppSumo & Why Entrepreneurs Love Us!",
+        "yt": "3KsJlPObnjI"
+      },
+      {
+        "title": "Building a 6 Figure Business with AppSumo",
+        "yt": "5sRFDBKbu0k"
+      },
+      {
+        "title": "AppSumo Success Story - Documentary Promo Video",
+        "yt": "aUkzRUW3W4k"
+      },
+      {
+        "title": "Keys to Success: Validating your Million Dollar Idea",
+        "yt": "w7IPIpKJEv0"
+      },
+      {
+        "title": "Grow Your Business With Noah Kagan",
+        "yt": "7H2kI8yiAqw"
+      },
+      {
+        "title": "AppSumo Plus Benefits",
+        "yt": "-DNOXZFOSuw"
+      },
+      {
+        "title": "How AppSumo started",
+        "yt": "V_9BpAc1Bcw"
+      },
+      {
+        "title": "How AppSumo Works",
+        "yt": "wt_Pek6Ko9E"
+      },
+      {
+        "title": "How AppSumo gets you insane deals on software",
+        "yt": "RWngOyF-KhE"
+      },
+      {
+        "title": "AppSumo stack codes for more discounts",
+        "yt": "5ix90Jef_Ow"
+      },
+      {
+        "title": "How To Create Digital Marketing Strategies That WORK!",
+        "yt": "c-PI9IblCFw"
+      },
+      {
+        "title": "Tim Ferriss' SECRETS TO SUCCESS for Starting a Business that You Can Try Today",
+        "yt": "09h_-TEbGDY"
+      }
+    ],
+    "deal_legacy_review": [
+      {
+        "title": "AudioHero Review on AppSumo",
+        "yt": "9H9Zg5Q0vms"
+      },
+      {
+        "title": "Droplr Review on AppSumo",
+        "yt": "QMCCpUTFwZ0"
+      },
+      {
+        "title": "Stencil Review on AppSumo",
+        "yt": "P4ec5C7MLn0"
+      },
+      {
+        "title": "Tubics Review on AppSumo",
+        "yt": "q34Ovef_hCc"
+      },
+      {
+        "title": "Reboo Review on AppSumo",
+        "yt": "0Yt5jmQc_VA"
+      },
+      {
+        "title": "Rocketbots Review on AppSumo",
+        "yt": "Z9NORJ8z-LA"
+      },
+      {
+        "title": "Missinglettr Review on AppSumo",
+        "yt": "1V_pyKq2vRw"
+      },
+      {
+        "title": "Clearout Review on AppSumo",
+        "yt": "4BFcUxiCyzo"
+      },
+      {
+        "title": "SocialBee Review on AppSumo",
+        "yt": "Fy_4edvjc-w"
+      },
+      {
+        "title": "RelayThat Review on AppSumo",
+        "yt": "b3tfCkp-aeA"
+      },
+      {
+        "title": "Essential Addons Review on AppSumo",
+        "yt": "dlapE3Yb374"
+      },
+      {
+        "title": "ShortPixel Review on AppSumo",
+        "yt": "fJzCIncEWIg"
+      }
+    ],
+    "dead_or_unknown": [
+      {
+        "title": "",
+        "yt": "gbSYsb4Y0y8"
+      },
+      {
+        "title": "",
+        "yt": "EUxnPBg-V94"
+      },
+      {
+        "title": "",
+        "yt": ""
+      },
+      {
+        "title": "",
+        "yt": ""
+      },
+      {
+        "title": "",
+        "yt": ""
+      },
+      {
+        "title": "",
+        "yt": ""
+      },
+      {
+        "title": "",
+        "yt": ""
+      },
+      {
+        "title": "",
+        "yt": ""
+      },
+      {
+        "title": "",
+        "yt": ""
+      },
+      {
+        "title": "",
+        "yt": ""
+      },
+      {
+        "title": "",
+        "yt": "y3cdFLytXus"
+      },
+      {
+        "title": "",
+        "yt": ""
+      }
+    ],
+    "deal_specific": [
+      {
+        "title": "Depositphotos How-To on AppSumo",
+        "yt": "gnI6NGh2yi8"
+      },
+      {
+        "title": "ResponseSuite How-To on AppSumo",
+        "yt": "1ONrHCDhA6o"
+      },
+      {
+        "title": "RWA Ad",
+        "yt": "4YT9tOKhp7w"
+      },
+      {
+        "title": "BetterDocs How-To AppSumo",
+        "yt": "8Fy23jUq-Z4"
+      },
+      {
+        "title": "How To Be A Successful Entrepreneur In 2020 | Sean Croxton",
+        "yt": "D5mlxrZw3DM"
+      },
+      {
+        "title": "How Nick Bare Makes $100,000+ per Month",
+        "yt": "DiiI1g6Rks8"
+      },
+      {
+        "title": "6 Second Ad for Ryan 1",
+        "yt": "EoW21MVxa9g"
+      },
+      {
+        "title": "Behind-The-Scenes: How Much Do I Make from My Airbnb?",
+        "yt": "Fo6uM37d8RY"
+      },
+      {
+        "title": "Starting a Business: How to Create a T-Shirt Apparel Business From Scratch",
+        "yt": "H_hpGD_GF1k"
+      },
+      {
+        "title": "How Charisma on Command Went Viral",
+        "yt": "HcMoed30q9g"
+      },
+      {
+        "title": "Sumo.com",
+        "yt": "KCoaGrh2FcE"
+      },
+      {
+        "title": "TexAu How-To on AppSumo",
+        "yt": "LCYq_rzAj7k"
+      }
+    ],
+    "ugc_creator": [
+      {
+        "title": "Stephanie Testimonial Ad",
+        "yt": "3rNZlo2r3v4"
+      },
+      {
+        "title": "Noah UGC (b) 16x9 V4",
+        "yt": "O1zbo7nGXmE"
+      },
+      {
+        "title": "v 9x16 AS Dadan UGC Influencer v2a",
+        "yt": "hzzKrQmGNPs"
+      },
+      {
+        "title": "v 9x16 AS Dadan UGC Influencer v1a",
+        "yt": "2a7EFTBngSk"
+      },
+      {
+        "title": "v 16x9 AS Dadan UGC Influencer v1a",
+        "yt": "uQydikKX0DI"
+      },
+      {
+        "title": "v 16x9 AS Dadan UGC Influencer v2a",
+        "yt": "efLEjTUTCUo"
+      },
+      {
+        "title": "v 1x1 AS Dadan UGC Influencer v1a",
+        "yt": "x8Cnl4QEPUw"
+      },
+      {
+        "title": "Shortened: v 9x16 AS Dadan UGC Influencer v1a",
+        "yt": "a-vTJ0skLZk"
+      },
+      {
+        "title": "Shortened: v 16x9 AS Dadan UGC Influencer v1a",
+        "yt": "MdtfUh_FnMw"
+      },
+      {
+        "title": "Shortened: v 1x1 AS Dadan UGC Influencer v1a",
+        "yt": "bNGRnJOOmGY"
+      },
+      {
+        "title": "Shortened: v 16x9 AS Dadan UGC Influencer v2a",
+        "yt": "wRIAlAGzUAc"
+      },
+      {
+        "title": "Shortened: v 9x16 AS Dadan UGC Influencer v2a",
+        "yt": "KApkGVJRHkE"
+      }
+    ],
+    "campaign_seasonal": [
+      {
+        "title": "Massive Airbnb Giveaway: $60K in Prizes!",
+        "yt": "1Ejb8xzgKnI"
+      },
+      {
+        "title": "Steal Noah's Tesla (and more!) | AppSumo Giveaway",
+        "yt": "A1qgrfeRZoc"
+      },
+      {
+        "title": "Depositphotos - AppSumo Black Friday 2019",
+        "yt": "Hg_OHZZlw_c"
+      },
+      {
+        "title": "Last Call Black Friday 2020 | Exclusively for AppSumo Plus and Briefcase Members",
+        "yt": "NInq3pVLoWs"
+      },
+      {
+        "title": "Last Call October 2020 | Exclusively for AppSumo Plus and Briefcase Members",
+        "yt": "PRmBVWo6bYU"
+      },
+      {
+        "title": "Black Friday 2020",
+        "yt": "T0xFV5JAppg"
+      },
+      {
+        "title": "Black Friday 2020 | AppSumo",
+        "yt": "UqKxv8CFYCs"
+      },
+      {
+        "title": "AppSumo Black Friday 2020",
+        "yt": "WlMa1h5_4t4"
+      },
+      {
+        "title": "AppSumo Steal Noah's Tesla (and more!) Giveaway (Ad)",
+        "yt": "fes4d4X0OY8"
+      },
+      {
+        "title": "Black Friday Deals 2020",
+        "yt": "j5j_A6K-4PE"
+      },
+      {
+        "title": "AppSumo October last call!",
+        "yt": "ss8rKAG577I"
+      },
+      {
+        "title": "Last Call April 2021 | Exclusively for AppSumo Plus Members",
+        "yt": "Lu6vIdk54W4"
+      }
+    ]
+  }
+}

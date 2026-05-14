@@ -34942,7 +34942,11 @@
         "value": 0.0,
         "n_ads": 3,
         "roas": 0.0,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 4.21,
@@ -34952,7 +34956,11 @@
         "value": 0.0,
         "n_ads": 3,
         "roas": 0.0,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 8.3,
@@ -34962,7 +34970,11 @@
         "value": 245.83,
         "n_ads": 3,
         "roas": 29.63,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -35219,7 +35231,11 @@
         "value": 16.24,
         "n_ads": 2,
         "roas": 5.83,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 9.88,
@@ -35229,7 +35245,11 @@
         "value": 36.63,
         "n_ads": 2,
         "roas": 3.71,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 14.13,
@@ -35239,7 +35259,11 @@
         "value": 152.9,
         "n_ads": 2,
         "roas": 10.82,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -35336,7 +35360,10 @@
         "value": 0.0,
         "n_ads": 1,
         "roas": 0.0,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ"
+        ]
       },
       "d7": {
         "spend": 5.21,
@@ -35346,7 +35373,10 @@
         "value": 0.0,
         "n_ads": 1,
         "roas": 0.0,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ"
+        ]
       },
       "d30": {
         "spend": 5.94,
@@ -35356,7 +35386,10 @@
         "value": 0.0,
         "n_ads": 1,
         "roas": 0.0,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ"
+        ]
       }
     }
   },
@@ -35469,7 +35502,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 248.46,
@@ -35479,7 +35516,11 @@
         "value": 58.34,
         "n_ads": 2,
         "roas": 0.23,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 344.23,
@@ -35489,7 +35530,11 @@
         "value": 323.63,
         "n_ads": 2,
         "roas": 0.94,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -35515,7 +35560,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 248.46,
@@ -35525,7 +35574,11 @@
         "value": 58.34,
         "n_ads": 2,
         "roas": 0.23,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 344.23,
@@ -35535,7 +35588,11 @@
         "value": 323.63,
         "n_ads": 2,
         "roas": 0.94,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -35636,7 +35693,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 8.84,
@@ -35646,7 +35707,11 @@
         "value": 11.8,
         "n_ads": 2,
         "roas": 1.33,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 15.81,
@@ -35656,7 +35721,11 @@
         "value": 227.0,
         "n_ads": 2,
         "roas": 14.35,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -35679,7 +35748,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 3.64,
@@ -35689,7 +35762,11 @@
         "value": 30.23,
         "n_ads": 2,
         "roas": 8.3,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 5.14,
@@ -35699,7 +35776,11 @@
         "value": 31.71,
         "n_ads": 2,
         "roas": 6.16,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -35722,7 +35803,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 3.64,
@@ -35732,7 +35817,11 @@
         "value": 30.23,
         "n_ads": 2,
         "roas": 8.3,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 5.14,
@@ -35742,7 +35831,11 @@
         "value": 31.71,
         "n_ads": 2,
         "roas": 6.16,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -35845,7 +35938,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 11.59,
@@ -35855,7 +35952,11 @@
         "value": 229.62,
         "n_ads": 2,
         "roas": 19.81,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 15.25,
@@ -35865,7 +35966,11 @@
         "value": 273.21,
         "n_ads": 2,
         "roas": 17.92,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -35976,7 +36081,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 17.41,
@@ -35986,7 +36095,11 @@
         "value": 164.92,
         "n_ads": 2,
         "roas": 9.47,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 28.43,
@@ -35996,7 +36109,11 @@
         "value": 335.07,
         "n_ads": 2,
         "roas": 11.79,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -36021,7 +36138,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 17.41,
@@ -36031,7 +36152,11 @@
         "value": 164.92,
         "n_ads": 2,
         "roas": 9.47,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 28.43,
@@ -36041,7 +36166,11 @@
         "value": 335.07,
         "n_ads": 2,
         "roas": 11.79,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -36066,7 +36195,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 17.41,
@@ -36076,7 +36209,11 @@
         "value": 164.92,
         "n_ads": 2,
         "roas": 9.47,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 28.43,
@@ -36086,7 +36223,11 @@
         "value": 335.07,
         "n_ads": 2,
         "roas": 11.79,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -36111,7 +36252,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 17.41,
@@ -36121,7 +36266,11 @@
         "value": 164.92,
         "n_ads": 2,
         "roas": 9.47,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 28.43,
@@ -36131,7 +36280,11 @@
         "value": 335.07,
         "n_ads": 2,
         "roas": 11.79,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -36154,7 +36307,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 17.1,
@@ -36164,7 +36321,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 20.43,
@@ -36174,7 +36335,11 @@
         "value": 51.09,
         "n_ads": 2,
         "roas": 2.5,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -36197,7 +36362,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 17.1,
@@ -36207,7 +36376,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 20.43,
@@ -36217,7 +36390,11 @@
         "value": 51.09,
         "n_ads": 2,
         "roas": 2.5,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -36242,7 +36419,11 @@
         "value": 11.25,
         "n_ads": 2,
         "roas": 2.11,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 10.18,
@@ -36252,7 +36433,11 @@
         "value": 77.35,
         "n_ads": 2,
         "roas": 7.6,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 20.1,
@@ -36262,7 +36447,11 @@
         "value": 119.83,
         "n_ads": 2,
         "roas": 5.96,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -36287,7 +36476,11 @@
         "value": 11.25,
         "n_ads": 2,
         "roas": 2.11,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 10.18,
@@ -36297,7 +36490,11 @@
         "value": 77.35,
         "n_ads": 2,
         "roas": 7.6,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 20.1,
@@ -36307,7 +36504,11 @@
         "value": 119.83,
         "n_ads": 2,
         "roas": 5.96,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -36332,7 +36533,11 @@
         "value": 11.25,
         "n_ads": 2,
         "roas": 2.11,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 10.18,
@@ -36342,7 +36547,11 @@
         "value": 77.35,
         "n_ads": 2,
         "roas": 7.6,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 20.1,
@@ -36352,7 +36561,11 @@
         "value": 119.83,
         "n_ads": 2,
         "roas": 5.96,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -36377,7 +36590,11 @@
         "value": 11.25,
         "n_ads": 2,
         "roas": 2.11,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 10.18,
@@ -36387,7 +36604,11 @@
         "value": 77.35,
         "n_ads": 2,
         "roas": 7.6,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 20.1,
@@ -36397,7 +36618,11 @@
         "value": 119.83,
         "n_ads": 2,
         "roas": 5.96,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -36422,7 +36647,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 5
+        "max_variants": 5,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 42.75,
@@ -36432,7 +36661,11 @@
         "value": 218.83,
         "n_ads": 2,
         "roas": 5.12,
-        "max_variants": 5
+        "max_variants": 5,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 52.4,
@@ -36442,7 +36675,11 @@
         "value": 427.23,
         "n_ads": 2,
         "roas": 8.15,
-        "max_variants": 5
+        "max_variants": 5,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -36467,7 +36704,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 5
+        "max_variants": 5,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 42.75,
@@ -36477,7 +36718,11 @@
         "value": 218.83,
         "n_ads": 2,
         "roas": 5.12,
-        "max_variants": 5
+        "max_variants": 5,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 52.4,
@@ -36487,7 +36732,11 @@
         "value": 427.23,
         "n_ads": 2,
         "roas": 8.15,
-        "max_variants": 5
+        "max_variants": 5,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -36512,7 +36761,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 5
+        "max_variants": 5,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 42.75,
@@ -36522,7 +36775,11 @@
         "value": 218.83,
         "n_ads": 2,
         "roas": 5.12,
-        "max_variants": 5
+        "max_variants": 5,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 52.4,
@@ -36532,7 +36789,11 @@
         "value": 427.23,
         "n_ads": 2,
         "roas": 8.15,
-        "max_variants": 5
+        "max_variants": 5,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -36557,7 +36818,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 5
+        "max_variants": 5,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 42.75,
@@ -36567,7 +36832,11 @@
         "value": 218.83,
         "n_ads": 2,
         "roas": 5.12,
-        "max_variants": 5
+        "max_variants": 5,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 52.4,
@@ -36577,7 +36846,11 @@
         "value": 427.23,
         "n_ads": 2,
         "roas": 8.15,
-        "max_variants": 5
+        "max_variants": 5,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -36602,7 +36875,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 5
+        "max_variants": 5,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 42.75,
@@ -36612,7 +36889,11 @@
         "value": 218.83,
         "n_ads": 2,
         "roas": 5.12,
-        "max_variants": 5
+        "max_variants": 5,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 52.4,
@@ -36622,7 +36903,11 @@
         "value": 427.23,
         "n_ads": 2,
         "roas": 8.15,
-        "max_variants": 5
+        "max_variants": 5,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -36895,7 +37180,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -36920,7 +37209,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 1.88,
@@ -36930,7 +37223,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 2.62,
@@ -36940,7 +37237,11 @@
         "value": 248.21,
         "n_ads": 2,
         "roas": 94.65,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -36965,7 +37266,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 1.88,
@@ -36975,7 +37280,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 2.62,
@@ -36985,7 +37294,11 @@
         "value": 248.21,
         "n_ads": 2,
         "roas": 94.65,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -37052,7 +37365,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 1.91,
@@ -37062,7 +37379,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 2.49,
@@ -37072,7 +37393,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -37095,7 +37420,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 0.69,
@@ -37105,7 +37434,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 0.86,
@@ -37115,7 +37448,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -37182,7 +37519,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 1.91,
@@ -37192,7 +37533,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 2.49,
@@ -37202,7 +37547,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -37227,7 +37576,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 1.91,
@@ -37237,7 +37590,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 2.49,
@@ -37247,7 +37604,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -37282,7 +37643,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 0.69,
@@ -37292,7 +37657,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 0.86,
@@ -37302,7 +37671,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -37327,7 +37700,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 1.88,
@@ -37337,7 +37714,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 2.62,
@@ -37347,7 +37728,11 @@
         "value": 248.21,
         "n_ads": 2,
         "roas": 94.65,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -37372,7 +37757,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 1.88,
@@ -37382,7 +37771,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 2.62,
@@ -37392,7 +37785,11 @@
         "value": 248.21,
         "n_ads": 2,
         "roas": 94.65,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -37459,7 +37856,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 1.91,
@@ -37469,7 +37870,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 2.49,
@@ -37479,7 +37884,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -37534,7 +37943,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 3
+        "max_variants": 3,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 6.37,
@@ -37544,7 +37957,11 @@
         "value": 113.09,
         "n_ads": 2,
         "roas": 17.75,
-        "max_variants": 3
+        "max_variants": 3,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 11.78,
@@ -37554,7 +37971,11 @@
         "value": 158.26,
         "n_ads": 2,
         "roas": 13.43,
-        "max_variants": 3
+        "max_variants": 3,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -37595,7 +38016,11 @@
         "value": 0.12,
         "n_ads": 2,
         "roas": 0.05,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 5.66,
@@ -37605,7 +38030,11 @@
         "value": 27.2,
         "n_ads": 2,
         "roas": 4.81,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 12.72,
@@ -37615,7 +38044,11 @@
         "value": 116.85,
         "n_ads": 2,
         "roas": 9.19,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -37640,7 +38073,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 3
+        "max_variants": 3,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 6.37,
@@ -37650,7 +38087,11 @@
         "value": 113.09,
         "n_ads": 2,
         "roas": 17.75,
-        "max_variants": 3
+        "max_variants": 3,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 11.78,
@@ -37660,7 +38101,11 @@
         "value": 158.26,
         "n_ads": 2,
         "roas": 13.43,
-        "max_variants": 3
+        "max_variants": 3,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -37685,7 +38130,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 3
+        "max_variants": 3,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 6.37,
@@ -37695,7 +38144,11 @@
         "value": 113.09,
         "n_ads": 2,
         "roas": 17.75,
-        "max_variants": 3
+        "max_variants": 3,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 11.78,
@@ -37705,7 +38158,11 @@
         "value": 158.26,
         "n_ads": 2,
         "roas": 13.43,
-        "max_variants": 3
+        "max_variants": 3,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -37745,7 +38202,11 @@
         "value": 0.12,
         "n_ads": 2,
         "roas": 0.05,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 5.66,
@@ -37755,7 +38216,11 @@
         "value": 27.2,
         "n_ads": 2,
         "roas": 4.81,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 12.72,
@@ -37765,7 +38230,11 @@
         "value": 116.85,
         "n_ads": 2,
         "roas": 9.19,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -37791,7 +38260,11 @@
         "value": 0.12,
         "n_ads": 2,
         "roas": 0.05,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 5.66,
@@ -37801,7 +38274,11 @@
         "value": 27.2,
         "n_ads": 2,
         "roas": 4.81,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 12.72,
@@ -37811,7 +38288,11 @@
         "value": 116.85,
         "n_ads": 2,
         "roas": 9.19,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -37837,7 +38318,11 @@
         "value": 0.12,
         "n_ads": 2,
         "roas": 0.05,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 5.66,
@@ -37847,7 +38332,11 @@
         "value": 27.2,
         "n_ads": 2,
         "roas": 4.81,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 12.72,
@@ -37857,7 +38346,11 @@
         "value": 116.85,
         "n_ads": 2,
         "roas": 9.19,
-        "max_variants": 4
+        "max_variants": 4,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -37895,7 +38388,11 @@
         "value": 0.53,
         "n_ads": 2,
         "roas": 0.03,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 34.45,
@@ -37905,7 +38402,11 @@
         "value": 76.4,
         "n_ads": 2,
         "roas": 2.22,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 34.69,
@@ -37915,7 +38416,11 @@
         "value": 76.4,
         "n_ads": 2,
         "roas": 2.2,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -37938,7 +38443,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -37963,7 +38472,11 @@
         "value": 0.0,
         "n_ads": 4,
         "roas": 0.0,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 1.15,
@@ -37973,7 +38486,11 @@
         "value": 0.0,
         "n_ads": 4,
         "roas": 0.0,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 1.15,
@@ -37983,7 +38500,11 @@
         "value": 0.0,
         "n_ads": 4,
         "roas": 0.0,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -38008,7 +38529,11 @@
         "value": 0.0,
         "n_ads": 4,
         "roas": 0.0,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 1.15,
@@ -38018,7 +38543,11 @@
         "value": 0.0,
         "n_ads": 4,
         "roas": 0.0,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 1.15,
@@ -38028,7 +38557,11 @@
         "value": 0.0,
         "n_ads": 4,
         "roas": 0.0,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -38054,7 +38587,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 17.46,
@@ -38064,7 +38601,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 17.46,
@@ -38074,7 +38615,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -38100,7 +38645,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 17.46,
@@ -38110,7 +38659,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 17.46,
@@ -38120,7 +38673,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 2
+        "max_variants": 2,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -38146,7 +38703,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 2.26,
@@ -38156,7 +38717,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 2.26,
@@ -38166,7 +38731,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -38192,7 +38761,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 211.89,
@@ -38202,7 +38775,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 211.89,
@@ -38212,7 +38789,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -38238,7 +38819,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d7": {
         "spend": 5.1,
@@ -38248,7 +38833,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       },
       "d30": {
         "spend": 5.1,
@@ -38258,7 +38847,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -38281,7 +38874,10 @@
         "value": 0.0,
         "n_ads": 1,
         "roas": 0.0,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ"
+        ]
       },
       "d7": {
         "spend": 0.25,
@@ -38291,7 +38887,10 @@
         "value": 0.0,
         "n_ads": 1,
         "roas": 0.0,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ"
+        ]
       },
       "d30": {
         "spend": 0.25,
@@ -38301,7 +38900,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   },
@@ -38324,7 +38927,10 @@
         "value": 0.0,
         "n_ads": 1,
         "roas": 0.0,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ"
+        ]
       },
       "d7": {
         "spend": 0.4,
@@ -38334,7 +38940,10 @@
         "value": 0.0,
         "n_ads": 1,
         "roas": 0.0,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ"
+        ]
       },
       "d30": {
         "spend": 0.4,
@@ -38344,7 +38953,11 @@
         "value": 0.0,
         "n_ads": 2,
         "roas": 0.0,
-        "max_variants": 1
+        "max_variants": 1,
+        "campaigns": [
+          "ACQ",
+          "RET"
+        ]
       }
     }
   }

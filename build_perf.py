@@ -15,6 +15,12 @@ RANGES = {
     "d30": "dg_ad_perf.json",
 }
 
+# Load ad → campaign map
+with open(ROOT / "ad_campaign_map.json") as f:
+    AD_MAP = json.load(f)
+CAMPAIGNS = AD_MAP["campaigns"]
+AD_TO_CAMP = AD_MAP["ad_to_campaign"]
+
 def aggregate(rows):
     """For each ad, divide its metrics equally among the N video variants
     attached to that ad. DG Video Responsive Ads serve one variant per
@@ -23,6 +29,7 @@ def aggregate(rows):
     the most honest approximation."""
     per_video = {}
     max_variants = {}  # asset_id -> max ad-variant count seen (for "1 of N" label)
+    campaigns_seen = {}  # asset_id -> set of campaign labels
     for ad in rows:
         cost_total = int(ad.get("metrics.cost_micros", 0)) / 1_000_000
         imps_total = int(ad.get("metrics.impressions", 0))
@@ -39,6 +46,9 @@ def aggregate(rows):
         clicks = clicks_total / n
         conv = conv_total / n
         val = val_total / n
+        ad_id = str(ad.get("ad_group_ad.ad.id", ""))
+        camp_id = AD_TO_CAMP.get(ad_id, "")
+        camp_label = CAMPAIGNS.get(camp_id, {}).get("label", "")
         for v in videos:
             asset_path = v.get("asset", "")
             aid = asset_path.split("/")[-1] if asset_path else ""
@@ -51,6 +61,8 @@ def aggregate(rows):
             p["value"] += val
             p["n_ads"] += 1
             max_variants[aid] = max(max_variants.get(aid, 1), n)
+            if camp_label:
+                campaigns_seen.setdefault(aid, set()).add(camp_label)
     for aid, p in per_video.items():
         p["roas"] = round(p["value"] / p["spend"], 2) if p["spend"] > 0 else 0
         p["spend"] = round(p["spend"], 2)
@@ -59,6 +71,7 @@ def aggregate(rows):
         p["imps"] = round(p["imps"])
         p["clicks"] = round(p["clicks"])
         p["max_variants"] = max_variants.get(aid, 1)
+        p["campaigns"] = sorted(campaigns_seen.get(aid, set()))
     return per_video
 
 all_perf = {}

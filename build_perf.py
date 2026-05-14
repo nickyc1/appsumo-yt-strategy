@@ -48,7 +48,8 @@ def aggregate(rows):
         val = val_total / n
         ad_id = str(ad.get("ad_group_ad.ad.id", ""))
         camp_id = AD_TO_CAMP.get(ad_id, "")
-        camp_label = CAMPAIGNS.get(camp_id, {}).get("label", "")
+        camp_info = CAMPAIGNS.get(camp_id, {})
+        camp_full = camp_info.get("full_name", "")
         for v in videos:
             asset_path = v.get("asset", "")
             aid = asset_path.split("/")[-1] if asset_path else ""
@@ -61,8 +62,8 @@ def aggregate(rows):
             p["value"] += val
             p["n_ads"] += 1
             max_variants[aid] = max(max_variants.get(aid, 1), n)
-            if camp_label:
-                campaigns_seen.setdefault(aid, set()).add(camp_label)
+            if camp_full:
+                campaigns_seen.setdefault(aid, set()).add(camp_full)
     for aid, p in per_video.items():
         p["roas"] = round(p["value"] / p["spend"], 2) if p["spend"] > 0 else 0
         p["spend"] = round(p["spend"], 2)

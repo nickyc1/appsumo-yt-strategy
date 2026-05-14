@@ -72,6 +72,21 @@
   details.legend dl { display: grid; grid-template-columns: max-content 1fr; gap: 6px 16px; margin: 12px 0 0; }
   details.legend dt { font-weight: 600; color: var(--fg); }
   details.legend dd { margin: 0; color: var(--muted); }
+
+  .chart-wrap { padding: 18px 32px 16px; background: var(--panel); border-bottom: 1px solid #232838; }
+  .chart-wrap h3 { margin: 0 0 4px; font-size: 14px; font-weight: 600; }
+  .chart-wrap .sub { color: var(--muted); font-size: 12px; margin-bottom: 12px; }
+  .chart { width: 100%; height: 220px; display: block; }
+  .chart .bar       { fill: var(--accent); opacity: 0.82; }
+  .chart .bar:hover { opacity: 1; }
+  .chart .roas-line { fill: none; stroke: var(--green); stroke-width: 2; }
+  .chart .roas-dot  { fill: var(--green); }
+  .chart .axis      { stroke: #2a3142; stroke-width: 1; }
+  .chart .axis-label{ fill: var(--muted); font-size: 10px; font-family: -apple-system, sans-serif; }
+  .chart-legend     { display: flex; gap: 18px; font-size: 11px; color: var(--muted); margin-top: 6px; }
+  .chart-legend span::before { content: ""; display: inline-block; width: 10px; height: 10px; margin-right: 6px; vertical-align: middle; border-radius: 2px; }
+  .chart-legend .l-spend::before { background: var(--accent); }
+  .chart-legend .l-roas::before  { background: var(--green); border-radius: 50%; }
 </style>
 </head>
 <body>
@@ -86,6 +101,16 @@
   <p>All YouTube video assets in the AppSumo Google Ads account (customer 8540043636), categorized and cross-referenced with currently-active Demand Gen and Performance Max campaigns. Generated <span id="gen-date"></span>.</p>
   <div class="header-stats" id="stats"></div>
 </header>
+
+<section class="chart-wrap">
+  <h3>Daily YT Demand Gen — spend vs ROAS (last 30 days, currently enabled ads)</h3>
+  <div class="sub">Aggregated across every enabled video responsive ad in the two active YouTube Demand Gen campaigns. Bars = spend (left axis), green line = ROAS (right axis).</div>
+  <svg class="chart" id="daily-chart" viewBox="0 0 1000 220" preserveAspectRatio="none"></svg>
+  <div class="chart-legend">
+    <span class="l-spend">Daily spend ($)</span>
+    <span class="l-roas">Daily ROAS (conv value / spend)</span>
+  </div>
+</section>
 
 <details class="legend">
   <summary>What the buckets and badges mean</summary>
@@ -147,6 +172,63 @@ const BUCKET_LABELS = {
 };
 
 document.getElementById("gen-date").textContent = new Date().toLocaleString("en-US", { dateStyle: "long", timeStyle: "short" });
+
+// Daily chart
+const DAILY = [{"date": "2026-04-14", "spend": 24.52, "imps": 73292, "clicks": 354, "conv": 1.45, "value": 112.33, "roas": 4.58}, {"date": "2026-04-15", "spend": 23.17, "imps": 71408, "clicks": 295, "conv": 0.43, "value": 65.63, "roas": 2.83}, {"date": "2026-04-16", "spend": 20.29, "imps": 58186, "clicks": 212, "conv": 1.1, "value": 166.75, "roas": 8.22}, {"date": "2026-04-17", "spend": 5.82, "imps": 1529, "clicks": 12, "conv": 2.51, "value": 431.43, "roas": 74.07}, {"date": "2026-04-18", "spend": 6.6, "imps": 4500, "clicks": 28, "conv": 1.89, "value": 79.08, "roas": 11.97}, {"date": "2026-04-19", "spend": 17.22, "imps": 14055, "clicks": 78, "conv": 3.78, "value": 301.43, "roas": 17.5}, {"date": "2026-04-20", "spend": 18.84, "imps": 6565, "clicks": 39, "conv": 1.44, "value": 81.31, "roas": 4.32}, {"date": "2026-04-21", "spend": 21.96, "imps": 19052, "clicks": 105, "conv": 0.96, "value": 98.28, "roas": 4.48}, {"date": "2026-04-22", "spend": 29.56, "imps": 59117, "clicks": 393, "conv": 0.17, "value": 8.96, "roas": 0.3}, {"date": "2026-04-23", "spend": 22.17, "imps": 38890, "clicks": 196, "conv": 0.22, "value": 13.2, "roas": 0.6}, {"date": "2026-04-24", "spend": 27.35, "imps": 48871, "clicks": 266, "conv": 0.28, "value": 24.74, "roas": 0.9}, {"date": "2026-04-25", "spend": 26.5, "imps": 55077, "clicks": 306, "conv": 0.06, "value": 10.04, "roas": 0.38}, {"date": "2026-04-26", "spend": 20.19, "imps": 30123, "clicks": 152, "conv": 7.36, "value": 740.36, "roas": 36.67}, {"date": "2026-04-27", "spend": 16.16, "imps": 21859, "clicks": 120, "conv": 3.61, "value": 1089.63, "roas": 67.43}, {"date": "2026-04-28", "spend": 14.28, "imps": 3389, "clicks": 26, "conv": 2.05, "value": 255.11, "roas": 17.86}, {"date": "2026-04-29", "spend": 10.96, "imps": 2007, "clicks": 22, "conv": 1.37, "value": 77.65, "roas": 7.09}, {"date": "2026-04-30", "spend": 12.83, "imps": 1524, "clicks": 11, "conv": 1.49, "value": 198.71, "roas": 15.49}, {"date": "2026-05-01", "spend": 11.33, "imps": 1018, "clicks": 5, "conv": 0.21, "value": 61.33, "roas": 5.41}, {"date": "2026-05-02", "spend": 13.24, "imps": 1463, "clicks": 12, "conv": 1.15, "value": 3.52, "roas": 0.27}, {"date": "2026-05-03", "spend": 16.34, "imps": 2325, "clicks": 19, "conv": 0.18, "value": 24.16, "roas": 1.48}, {"date": "2026-05-04", "spend": 15.55, "imps": 1846, "clicks": 17, "conv": 3.07, "value": 201.55, "roas": 12.96}, {"date": "2026-05-05", "spend": 15.02, "imps": 1910, "clicks": 15, "conv": 2.61, "value": 374.72, "roas": 24.94}, {"date": "2026-05-06", "spend": 13.38, "imps": 1375, "clicks": 14, "conv": 2.48, "value": 216.19, "roas": 16.16}, {"date": "2026-05-07", "spend": 17.34, "imps": 8377, "clicks": 49, "conv": 3.97, "value": 296.32, "roas": 17.09}, {"date": "2026-05-08", "spend": 24.88, "imps": 44305, "clicks": 211, "conv": 3.22, "value": 439.19, "roas": 17.65}, {"date": "2026-05-09", "spend": 48.27, "imps": 138411, "clicks": 792, "conv": 0.13, "value": 7.8, "roas": 0.16}, {"date": "2026-05-10", "spend": 76.61, "imps": 213311, "clicks": 1170, "conv": 4.76, "value": 357.73, "roas": 4.67}, {"date": "2026-05-11", "spend": 362.36, "imps": 869318, "clicks": 4487, "conv": 4.93, "value": 1057.52, "roas": 2.92}, {"date": "2026-05-12", "spend": 317.68, "imps": 488620, "clicks": 2925, "conv": 11.4, "value": 822.07, "roas": 2.59}, {"date": "2026-05-13", "spend": 404.93, "imps": 313079, "clicks": 1679, "conv": 1.18, "value": 62.24, "roas": 0.15}];
+(function renderChart() {
+  const svg = document.getElementById("daily-chart");
+  if (!svg || !DAILY.length) return;
+  const W = 1000, H = 220;
+  const pad = { t: 16, r: 56, b: 28, l: 50 };
+  const innerW = W - pad.l - pad.r;
+  const innerH = H - pad.t - pad.b;
+  const n = DAILY.length;
+  const barW = Math.max(2, innerW / n - 3);
+
+  const maxSpend = Math.max(...DAILY.map(d => d.spend), 1);
+  // Cap ROAS axis at a reasonable ceiling (95th percentile-ish) so outlier spikes don't flatten everything
+  const roasVals = DAILY.map(d => d.roas).sort((a,b) => a-b);
+  const maxRoas = Math.max(20, Math.ceil(roasVals[Math.floor(roasVals.length * 0.95)] || 20));
+
+  const x = i => pad.l + i * (innerW / n) + (innerW / n - barW) / 2;
+  const ySpend = v => pad.t + innerH - (v / maxSpend) * innerH;
+  const yRoas  = v => pad.t + innerH - (Math.min(v, maxRoas) / maxRoas) * innerH;
+
+  let svgInner = "";
+  // Y-axis grid (left for spend)
+  for (let i = 0; i <= 4; i++) {
+    const yv = (maxSpend * i / 4);
+    const yp = ySpend(yv);
+    svgInner += `<line class="axis" x1="${pad.l}" y1="${yp}" x2="${W - pad.r}" y2="${yp}" opacity="0.4"/>`;
+    svgInner += `<text class="axis-label" x="${pad.l - 6}" y="${yp + 3}" text-anchor="end">$${Math.round(yv)}</text>`;
+  }
+  // Right axis labels (ROAS)
+  for (let i = 0; i <= 4; i++) {
+    const rv = (maxRoas * i / 4);
+    const yp = yRoas(rv);
+    svgInner += `<text class="axis-label" x="${W - pad.r + 6}" y="${yp + 3}" text-anchor="start" fill="var(--green)">${rv.toFixed(0)}x</text>`;
+  }
+  // Bars
+  DAILY.forEach((d, i) => {
+    const bx = x(i);
+    const by = ySpend(d.spend);
+    const bh = pad.t + innerH - by;
+    svgInner += `<rect class="bar" x="${bx}" y="${by}" width="${barW}" height="${bh}"><title>${d.date}: $${d.spend.toFixed(2)} spend · $${d.value.toFixed(2)} value · ${d.roas.toFixed(2)}x ROAS · ${d.imps.toLocaleString()} imp</title></rect>`;
+  });
+  // ROAS line
+  const linePts = DAILY.map((d,i) => `${x(i) + barW/2},${yRoas(d.roas)}`).join(" ");
+  svgInner += `<polyline class="roas-line" points="${linePts}"/>`;
+  DAILY.forEach((d,i) => {
+    svgInner += `<circle class="roas-dot" cx="${x(i) + barW/2}" cy="${yRoas(d.roas)}" r="2.5"><title>${d.date}: ${d.roas.toFixed(2)}x ROAS</title></circle>`;
+  });
+  // X-axis labels — show every 5th
+  DAILY.forEach((d,i) => {
+    if (i % 5 !== 0 && i !== n - 1) return;
+    const label = d.date.slice(5); // MM-DD
+    svgInner += `<text class="axis-label" x="${x(i) + barW/2}" y="${H - pad.b + 14}" text-anchor="middle">${label}</text>`;
+  });
+  svg.innerHTML = svgInner;
+})();
 
 // Stats header
 const stats = (() => {

@@ -35125,9 +35125,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 2.11,
-        "imps": 526,
-        "clicks": 3,
+        "spend": 1.7,
+        "imps": 430,
+        "clicks": 2,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -35141,12 +35141,12 @@
         ]
       },
       "d7": {
-        "spend": 4.21,
-        "imps": 1465,
-        "clicks": 10,
-        "conv": 0.0,
-        "value": 0.0,
-        "roas": 0.0,
+        "spend": 5.63,
+        "imps": 1862,
+        "clicks": 12,
+        "conv": 0.02,
+        "value": 0.8,
+        "roas": 0.14,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -35157,12 +35157,12 @@
         ]
       },
       "d30": {
-        "spend": 8.3,
-        "imps": 1959,
-        "clicks": 14,
-        "conv": 1.43,
-        "value": 245.83,
-        "roas": 29.63,
+        "spend": 9.91,
+        "imps": 2361,
+        "clicks": 16,
+        "conv": 1.35,
+        "value": 236.17,
+        "roas": 23.84,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -35202,12 +35202,12 @@
         ]
       },
       "d7": {
-        "spend": 0.02,
-        "imps": 9,
+        "spend": 0.0,
+        "imps": 0,
         "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
-        "roas": 0.0,
+        "roas": 0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -35218,12 +35218,12 @@
         ]
       },
       "d30": {
-        "spend": 4.85,
-        "imps": 1526,
-        "clicks": 7,
+        "spend": 4.79,
+        "imps": 1347,
+        "clicks": 5,
         "conv": 1.62,
         "value": 131.89,
-        "roas": 27.19,
+        "roas": 27.52,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -35263,12 +35263,12 @@
         ]
       },
       "d7": {
-        "spend": 0.11,
-        "imps": 7,
+        "spend": 0.0,
+        "imps": 0,
         "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
-        "roas": 0.0,
+        "roas": 0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -35279,8 +35279,8 @@
         ]
       },
       "d30": {
-        "spend": 2.12,
-        "imps": 427,
+        "spend": 2.1,
+        "imps": 397,
         "clicks": 2,
         "conv": 0.0,
         "value": 0.0,
@@ -35324,12 +35324,12 @@
         ]
       },
       "d7": {
-        "spend": 0.03,
-        "imps": 3,
+        "spend": 0.0,
+        "imps": 0,
         "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
-        "roas": 0.0,
+        "roas": 0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -35340,12 +35340,12 @@
         ]
       },
       "d30": {
-        "spend": 41.79,
-        "imps": 14508,
+        "spend": 41.66,
+        "imps": 14041,
         "clicks": 48,
         "conv": 0.49,
         "value": 83.99,
-        "roas": 2.01,
+        "roas": 2.02,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -35387,12 +35387,12 @@
         ]
       },
       "d7": {
-        "spend": 0.06,
-        "imps": 11,
+        "spend": 0.0,
+        "imps": 0,
         "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
-        "roas": 0.0,
+        "roas": 0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -35403,12 +35403,12 @@
         ]
       },
       "d30": {
-        "spend": 67.09,
-        "imps": 39390,
-        "clicks": 105,
+        "spend": 65.06,
+        "imps": 31097,
+        "clicks": 81,
         "conv": 1.05,
         "value": 140.61,
-        "roas": 2.1,
+        "roas": 2.16,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -35570,12 +35570,12 @@
         ]
       },
       "d7": {
-        "spend": 0.14,
-        "imps": 22,
+        "spend": 0.0,
+        "imps": 0,
         "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
-        "roas": 0.0,
+        "roas": 0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -35586,12 +35586,12 @@
         ]
       },
       "d30": {
-        "spend": 10.77,
-        "imps": 29992,
-        "clicks": 114,
+        "spend": 8.15,
+        "imps": 15530,
+        "clicks": 64,
         "conv": 0.17,
         "value": 8.96,
-        "roas": 0.83,
+        "roas": 1.1,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -35631,12 +35631,12 @@
         ]
       },
       "d7": {
-        "spend": 0.19,
-        "imps": 20,
-        "clicks": 1,
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
-        "roas": 0.0,
+        "roas": 0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -35647,9 +35647,9 @@
         ]
       },
       "d30": {
-        "spend": 18.76,
-        "imps": 7399,
-        "clicks": 21,
+        "spend": 18.62,
+        "imps": 6618,
+        "clicks": 18,
         "conv": 0.02,
         "value": 0.11,
         "roas": 0.01,
@@ -35692,12 +35692,12 @@
         ]
       },
       "d7": {
-        "spend": 0.15,
-        "imps": 13,
-        "clicks": 1,
-        "conv": 0.99,
-        "value": 70.3,
-        "roas": 473.3,
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -35708,12 +35708,12 @@
         ]
       },
       "d30": {
-        "spend": 2.87,
-        "imps": 404,
+        "spend": 2.85,
+        "imps": 388,
         "clicks": 4,
         "conv": 0.99,
         "value": 70.3,
-        "roas": 24.46,
+        "roas": 24.69,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -35753,12 +35753,12 @@
         ]
       },
       "d7": {
-        "spend": 0.23,
-        "imps": 15,
+        "spend": 0.0,
+        "imps": 0,
         "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
-        "roas": 0.0,
+        "roas": 0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -35770,7 +35770,7 @@
       },
       "d30": {
         "spend": 1.55,
-        "imps": 301,
+        "imps": 285,
         "clicks": 7,
         "conv": 0.0,
         "value": 0.0,
@@ -35938,12 +35938,12 @@
         ]
       },
       "d7": {
-        "spend": 0.06,
-        "imps": 26,
+        "spend": 0.0,
+        "imps": 0,
         "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
-        "roas": 0.0,
+        "roas": 0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -35954,12 +35954,12 @@
         ]
       },
       "d30": {
-        "spend": 3.25,
-        "imps": 2496,
-        "clicks": 17,
+        "spend": 3.07,
+        "imps": 1766,
+        "clicks": 14,
         "conv": 1.86,
         "value": 174.29,
-        "roas": 53.61,
+        "roas": 56.72,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -36001,12 +36001,12 @@
         ]
       },
       "d7": {
-        "spend": 0.02,
-        "imps": 7,
+        "spend": 0.0,
+        "imps": 0,
         "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
-        "roas": 0.0,
+        "roas": 0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -36017,8 +36017,8 @@
         ]
       },
       "d30": {
-        "spend": 3.94,
-        "imps": 1437,
+        "spend": 3.9,
+        "imps": 1298,
         "clicks": 4,
         "conv": 0.0,
         "value": 0.0,
@@ -36106,12 +36106,12 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 2.79,
-        "imps": 3996,
-        "clicks": 28,
-        "conv": 0.28,
-        "value": 16.24,
-        "roas": 5.83,
+        "spend": 2.65,
+        "imps": 5032,
+        "clicks": 22,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -36122,12 +36122,12 @@
         ]
       },
       "d7": {
-        "spend": 9.88,
-        "imps": 17835,
-        "clicks": 90,
+        "spend": 12.27,
+        "imps": 22824,
+        "clicks": 112,
         "conv": 0.42,
         "value": 36.63,
-        "roas": 3.71,
+        "roas": 2.99,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -36138,12 +36138,12 @@
         ]
       },
       "d30": {
-        "spend": 14.13,
-        "imps": 20576,
-        "clicks": 110,
+        "spend": 16.62,
+        "imps": 24911,
+        "clicks": 129,
         "conv": 3.37,
         "value": 152.9,
-        "roas": 10.82,
+        "roas": 9.2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -36246,12 +36246,12 @@
         ]
       },
       "d7": {
-        "spend": 1.15,
-        "imps": 117,
-        "clicks": 2,
-        "conv": 1.08,
-        "value": 149.35,
-        "roas": 130.43,
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -36262,12 +36262,12 @@
         ]
       },
       "d30": {
-        "spend": 34.07,
-        "imps": 4485,
+        "spend": 32.71,
+        "imps": 4109,
         "clicks": 43,
-        "conv": 6.88,
-        "value": 618.65,
-        "roas": 18.16,
+        "conv": 6.32,
+        "value": 597.07,
+        "roas": 18.26,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -36490,12 +36490,12 @@
         ]
       },
       "d7": {
-        "spend": 0.33,
-        "imps": 40,
+        "spend": 0.0,
+        "imps": 0,
         "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
-        "roas": 0.0,
+        "roas": 0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -36506,12 +36506,12 @@
         ]
       },
       "d30": {
-        "spend": 5.67,
-        "imps": 1133,
+        "spend": 5.63,
+        "imps": 1026,
         "clicks": 8,
         "conv": 0.64,
         "value": 97.6,
-        "roas": 17.21,
+        "roas": 17.32,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -36535,9 +36535,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.84,
-        "imps": 2125,
-        "clicks": 12,
+        "spend": 1.17,
+        "imps": 2472,
+        "clicks": 15,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -36549,9 +36549,9 @@
         ]
       },
       "d7": {
-        "spend": 5.21,
-        "imps": 13724,
-        "clicks": 86,
+        "spend": 6.39,
+        "imps": 16196,
+        "clicks": 101,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -36563,9 +36563,9 @@
         ]
       },
       "d30": {
-        "spend": 5.94,
-        "imps": 14002,
-        "clicks": 88,
+        "spend": 7.11,
+        "imps": 16472,
+        "clicks": 103,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -36645,12 +36645,12 @@
         ]
       },
       "d7": {
-        "spend": 0.08,
-        "imps": 16,
+        "spend": 0.0,
+        "imps": 0,
         "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
-        "roas": 0.0,
+        "roas": 0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -36661,9 +36661,9 @@
         ]
       },
       "d30": {
-        "spend": 1.28,
-        "imps": 306,
-        "clicks": 4,
+        "spend": 1.23,
+        "imps": 299,
+        "clicks": 3,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -36706,12 +36706,12 @@
         ]
       },
       "d7": {
-        "spend": 0.08,
-        "imps": 14,
+        "spend": 0.0,
+        "imps": 0,
         "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
-        "roas": 0.0,
+        "roas": 0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -36722,8 +36722,8 @@
         ]
       },
       "d30": {
-        "spend": 4.55,
-        "imps": 906,
+        "spend": 4.53,
+        "imps": 853,
         "clicks": 4,
         "conv": 0.0,
         "value": 0.0,
@@ -36767,12 +36767,12 @@
         ]
       },
       "d7": {
-        "spend": 0.14,
-        "imps": 18,
+        "spend": 0.0,
+        "imps": 0,
         "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
-        "roas": 0.0,
+        "roas": 0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -36783,12 +36783,12 @@
         ]
       },
       "d30": {
-        "spend": 3.41,
-        "imps": 5624,
-        "clicks": 24,
+        "spend": 3.02,
+        "imps": 3798,
+        "clicks": 16,
         "conv": 0.15,
         "value": 50.23,
-        "roas": 14.71,
+        "roas": 16.65,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -36828,12 +36828,12 @@
         ]
       },
       "d7": {
-        "spend": 0.04,
-        "imps": 9,
+        "spend": 0.0,
+        "imps": 0,
         "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
-        "roas": 0.0,
+        "roas": 0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -36844,12 +36844,12 @@
         ]
       },
       "d30": {
-        "spend": 2.87,
-        "imps": 883,
+        "spend": 2.84,
+        "imps": 779,
         "clicks": 5,
         "conv": 0.91,
         "value": 162.04,
-        "roas": 56.41,
+        "roas": 57.08,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -36876,9 +36876,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 3.35,
-        "imps": 2577,
-        "clicks": 9,
+        "spend": 7.13,
+        "imps": 4841,
+        "clicks": 12,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -36892,9 +36892,9 @@
         ]
       },
       "d7": {
-        "spend": 11.11,
-        "imps": 8989,
-        "clicks": 26,
+        "spend": 17.88,
+        "imps": 13810,
+        "clicks": 38,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -36908,12 +36908,12 @@
         ]
       },
       "d30": {
-        "spend": 14.51,
-        "imps": 9863,
-        "clicks": 31,
+        "spend": 21.44,
+        "imps": 14604,
+        "clicks": 43,
         "conv": 0.49,
         "value": 24.41,
-        "roas": 1.68,
+        "roas": 1.14,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -36940,9 +36940,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 114.98,
-        "imps": 83847,
-        "clicks": 448,
+        "spend": 162.67,
+        "imps": 136794,
+        "clicks": 747,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -36956,12 +36956,12 @@
         ]
       },
       "d7": {
-        "spend": 485.82,
-        "imps": 996039,
-        "clicks": 5381,
-        "conv": 2.15,
-        "value": 116.68,
-        "roas": 0.24,
+        "spend": 644.39,
+        "imps": 1126198,
+        "clicks": 6098,
+        "conv": 2.05,
+        "value": 112.09,
+        "roas": 0.17,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -36972,12 +36972,12 @@
         ]
       },
       "d30": {
-        "spend": 673.95,
-        "imps": 1409953,
-        "clicks": 7649,
+        "spend": 820.93,
+        "imps": 1493633,
+        "clicks": 8100,
         "conv": 5.25,
         "value": 622.84,
-        "roas": 0.92,
+        "roas": 0.76,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -37017,12 +37017,12 @@
         ]
       },
       "d7": {
-        "spend": 4.39,
-        "imps": 2341,
-        "clicks": 14,
-        "conv": 0.48,
-        "value": 51.51,
-        "roas": 11.73,
+        "spend": 3.68,
+        "imps": 2270,
+        "clicks": 13,
+        "conv": 0.16,
+        "value": 8.28,
+        "roas": 2.25,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -37033,12 +37033,12 @@
         ]
       },
       "d30": {
-        "spend": 20.91,
-        "imps": 4059,
+        "spend": 20.47,
+        "imps": 3984,
         "clicks": 27,
         "conv": 2.87,
         "value": 325.46,
-        "roas": 15.57,
+        "roas": 15.9,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -37078,12 +37078,12 @@
         ]
       },
       "d7": {
-        "spend": 19.31,
-        "imps": 31351,
+        "spend": 18.77,
+        "imps": 31245,
         "clicks": 159,
-        "conv": 0.8,
-        "value": 121.82,
-        "roas": 6.31,
+        "conv": 0.52,
+        "value": 55.26,
+        "roas": 2.94,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -37094,12 +37094,12 @@
         ]
       },
       "d30": {
-        "spend": 38.53,
-        "imps": 34854,
+        "spend": 38.06,
+        "imps": 34549,
         "clicks": 178,
         "conv": 1.43,
         "value": 226.19,
-        "roas": 5.87,
+        "roas": 5.94,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -37141,8 +37141,8 @@
         ]
       },
       "d7": {
-        "spend": 2.61,
-        "imps": 2703,
+        "spend": 2.48,
+        "imps": 2693,
         "clicks": 8,
         "conv": 0.0,
         "value": 0.0,
@@ -37157,9 +37157,9 @@
         ]
       },
       "d30": {
-        "spend": 4.09,
-        "imps": 3389,
-        "clicks": 12,
+        "spend": 4.02,
+        "imps": 3183,
+        "clicks": 11,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -37204,8 +37204,8 @@
         ]
       },
       "d7": {
-        "spend": 2.72,
-        "imps": 2974,
+        "spend": 2.66,
+        "imps": 2971,
         "clicks": 7,
         "conv": 0.0,
         "value": 0.0,
@@ -37221,7 +37221,7 @@
       },
       "d30": {
         "spend": 3.39,
-        "imps": 3157,
+        "imps": 3150,
         "clicks": 8,
         "conv": 0.0,
         "value": 0.0,
@@ -37265,12 +37265,12 @@
         ]
       },
       "d7": {
-        "spend": 1.84,
-        "imps": 203,
-        "clicks": 3,
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
-        "roas": 0.0,
+        "roas": 0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -37281,12 +37281,12 @@
         ]
       },
       "d30": {
-        "spend": 61.87,
-        "imps": 7261,
-        "clicks": 79,
-        "conv": 9.26,
-        "value": 1642.7,
-        "roas": 26.55,
+        "spend": 60.97,
+        "imps": 6861,
+        "clicks": 74,
+        "conv": 5.99,
+        "value": 939.87,
+        "roas": 15.42,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -37328,9 +37328,9 @@
         ]
       },
       "d7": {
-        "spend": 1.04,
-        "imps": 571,
-        "clicks": 6,
+        "spend": 0.99,
+        "imps": 568,
+        "clicks": 5,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -37344,8 +37344,8 @@
         ]
       },
       "d30": {
-        "spend": 2.43,
-        "imps": 741,
+        "spend": 2.41,
+        "imps": 736,
         "clicks": 6,
         "conv": 0.0,
         "value": 0.0,
@@ -37373,12 +37373,12 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 3.08,
-        "imps": 2670,
-        "clicks": 17,
-        "conv": 0.0,
-        "value": 0.0,
-        "roas": 0.0,
+        "spend": 2.81,
+        "imps": 2627,
+        "clicks": 8,
+        "conv": 0.4,
+        "value": 7.34,
+        "roas": 2.62,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -37389,12 +37389,12 @@
         ]
       },
       "d7": {
-        "spend": 8.84,
-        "imps": 10071,
-        "clicks": 45,
-        "conv": 1.12,
-        "value": 11.8,
-        "roas": 1.33,
+        "spend": 10.69,
+        "imps": 12627,
+        "clicks": 52,
+        "conv": 0.4,
+        "value": 7.34,
+        "roas": 0.69,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -37405,12 +37405,12 @@
         ]
       },
       "d30": {
-        "spend": 15.81,
-        "imps": 11989,
-        "clicks": 64,
-        "conv": 5.3,
-        "value": 227.0,
-        "roas": 14.35,
+        "spend": 18.44,
+        "imps": 14454,
+        "clicks": 72,
+        "conv": 5.7,
+        "value": 234.34,
+        "roas": 12.71,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -37434,9 +37434,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 1.88,
-        "imps": 897,
-        "clicks": 3,
+        "spend": 1.58,
+        "imps": 1133,
+        "clicks": 5,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -37450,12 +37450,12 @@
         ]
       },
       "d7": {
-        "spend": 5.81,
-        "imps": 4435,
-        "clicks": 14,
+        "spend": 7.24,
+        "imps": 5553,
+        "clicks": 19,
         "conv": 0.57,
         "value": 60.46,
-        "roas": 10.41,
+        "roas": 8.36,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -37466,12 +37466,12 @@
         ]
       },
       "d30": {
-        "spend": 8.35,
-        "imps": 4808,
-        "clicks": 16,
+        "spend": 9.91,
+        "imps": 5927,
+        "clicks": 21,
         "conv": 0.65,
         "value": 63.43,
-        "roas": 7.6,
+        "roas": 6.4,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -37495,9 +37495,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.27,
-        "imps": 287,
-        "clicks": 0,
+        "spend": 0.14,
+        "imps": 142,
+        "clicks": 1,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -37511,9 +37511,9 @@
         ]
       },
       "d7": {
-        "spend": 1.47,
-        "imps": 1687,
-        "clicks": 4,
+        "spend": 1.55,
+        "imps": 1821,
+        "clicks": 5,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -37527,9 +37527,9 @@
         ]
       },
       "d30": {
-        "spend": 1.94,
-        "imps": 1790,
-        "clicks": 4,
+        "spend": 2.08,
+        "imps": 1928,
+        "clicks": 5,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -37574,12 +37574,12 @@
         ]
       },
       "d7": {
-        "spend": 0.07,
-        "imps": 13,
+        "spend": 0.0,
+        "imps": 0,
         "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
-        "roas": 0.0,
+        "roas": 0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -37590,8 +37590,8 @@
         ]
       },
       "d30": {
-        "spend": 2.48,
-        "imps": 509,
+        "spend": 2.44,
+        "imps": 469,
         "clicks": 4,
         "conv": 0.0,
         "value": 0.0,
@@ -37637,12 +37637,12 @@
         ]
       },
       "d7": {
-        "spend": 0.08,
-        "imps": 17,
+        "spend": 0.0,
+        "imps": 0,
         "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
-        "roas": 0.0,
+        "roas": 0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -37653,8 +37653,8 @@
         ]
       },
       "d30": {
-        "spend": 2.34,
-        "imps": 849,
+        "spend": 2.31,
+        "imps": 779,
         "clicks": 5,
         "conv": 0.0,
         "value": 0.0,
@@ -37700,12 +37700,12 @@
         ]
       },
       "d7": {
-        "spend": 0.03,
-        "imps": 2,
+        "spend": 0.0,
+        "imps": 0,
         "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
-        "roas": 0.0,
+        "roas": 0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -37716,8 +37716,8 @@
         ]
       },
       "d30": {
-        "spend": 1.41,
-        "imps": 305,
+        "spend": 1.4,
+        "imps": 278,
         "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
@@ -37763,12 +37763,12 @@
         ]
       },
       "d7": {
-        "spend": 0.14,
-        "imps": 24,
-        "clicks": 1,
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
-        "roas": 0.0,
+        "roas": 0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -37779,12 +37779,12 @@
         ]
       },
       "d30": {
-        "spend": 2.05,
-        "imps": 679,
-        "clicks": 6,
+        "spend": 1.98,
+        "imps": 554,
+        "clicks": 4,
         "conv": 0.0,
-        "value": 0.0,
-        "roas": 0.0,
+        "value": 0.1,
+        "roas": 0.05,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -37824,12 +37824,12 @@
         ]
       },
       "d7": {
-        "spend": 0.15,
-        "imps": 21,
-        "clicks": 2,
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
-        "roas": 0.0,
+        "roas": 0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -37840,12 +37840,12 @@
         ]
       },
       "d30": {
-        "spend": 3.45,
-        "imps": 559,
+        "spend": 3.42,
+        "imps": 532,
         "clicks": 9,
         "conv": 0.45,
         "value": 11.25,
-        "roas": 3.26,
+        "roas": 3.29,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -37881,9 +37881,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 3.08,
-        "imps": 2832,
-        "clicks": 9,
+        "spend": 2.51,
+        "imps": 2356,
+        "clicks": 12,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -37897,12 +37897,12 @@
         ]
       },
       "d7": {
-        "spend": 11.59,
-        "imps": 9748,
-        "clicks": 41,
-        "conv": 1.7,
-        "value": 229.62,
-        "roas": 19.81,
+        "spend": 13.93,
+        "imps": 12073,
+        "clicks": 52,
+        "conv": 1.72,
+        "value": 231.15,
+        "roas": 16.6,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -37913,12 +37913,12 @@
         ]
       },
       "d30": {
-        "spend": 15.25,
-        "imps": 10707,
-        "clicks": 45,
-        "conv": 1.88,
-        "value": 273.21,
-        "roas": 17.92,
+        "spend": 17.7,
+        "imps": 12965,
+        "clicks": 57,
+        "conv": 1.89,
+        "value": 274.74,
+        "roas": 15.52,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -37958,12 +37958,12 @@
         ]
       },
       "d7": {
-        "spend": 1.73,
-        "imps": 3746,
+        "spend": 1.67,
+        "imps": 3732,
         "clicks": 24,
         "conv": 1.37,
         "value": 80.71,
-        "roas": 46.6,
+        "roas": 48.22,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -37974,12 +37974,12 @@
         ]
       },
       "d30": {
-        "spend": 3.66,
-        "imps": 4385,
-        "clicks": 30,
-        "conv": 1.73,
-        "value": 151.92,
-        "roas": 41.48,
+        "spend": 3.62,
+        "imps": 4278,
+        "clicks": 28,
+        "conv": 1.37,
+        "value": 80.71,
+        "roas": 22.29,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -38019,8 +38019,8 @@
         ]
       },
       "d7": {
-        "spend": 2.28,
-        "imps": 3731,
+        "spend": 2.23,
+        "imps": 3724,
         "clicks": 19,
         "conv": 0.0,
         "value": 0.0,
@@ -38035,8 +38035,8 @@
         ]
       },
       "d30": {
-        "spend": 3.21,
-        "imps": 4043,
+        "spend": 3.19,
+        "imps": 4015,
         "clicks": 19,
         "conv": 0.02,
         "value": 1.29,
@@ -38080,8 +38080,8 @@
         ]
       },
       "d7": {
-        "spend": 3.33,
-        "imps": 2164,
+        "spend": 3.15,
+        "imps": 2150,
         "clicks": 9,
         "conv": 0.0,
         "value": 0.0,
@@ -38096,8 +38096,8 @@
         ]
       },
       "d30": {
-        "spend": 6.02,
-        "imps": 2641,
+        "spend": 6.0,
+        "imps": 2592,
         "clicks": 13,
         "conv": 0.0,
         "value": 0.0,
@@ -38141,12 +38141,12 @@
         ]
       },
       "d7": {
-        "spend": 2.11,
-        "imps": 176,
+        "spend": 0.0,
+        "imps": 0,
         "clicks": 0,
-        "conv": 0.12,
-        "value": 12.01,
-        "roas": 5.7,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -38157,12 +38157,12 @@
         ]
       },
       "d30": {
-        "spend": 48.49,
-        "imps": 4355,
-        "clicks": 28,
+        "spend": 47.51,
+        "imps": 4073,
+        "clicks": 27,
         "conv": 9.7,
         "value": 670.9,
-        "roas": 13.84,
+        "roas": 14.12,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -38202,12 +38202,12 @@
         ]
       },
       "d7": {
-        "spend": 0.26,
-        "imps": 37,
+        "spend": 0.0,
+        "imps": 0,
         "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
-        "roas": 0.0,
+        "roas": 0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -38218,9 +38218,9 @@
         ]
       },
       "d30": {
-        "spend": 4.01,
-        "imps": 1249,
-        "clicks": 5,
+        "spend": 3.88,
+        "imps": 1012,
+        "clicks": 4,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -38277,12 +38277,12 @@
         ]
       },
       "d7": {
-        "spend": 0.46,
-        "imps": 33,
-        "clicks": 1,
-        "conv": 0.75,
-        "value": 70.2,
-        "roas": 151.41,
+        "spend": 0.0,
+        "imps": 0,
+        "clicks": 0,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -38293,12 +38293,12 @@
         ]
       },
       "d30": {
-        "spend": 6.32,
-        "imps": 1004,
-        "clicks": 5,
-        "conv": 4.92,
-        "value": 413.52,
-        "roas": 65.39,
+        "spend": 6.26,
+        "imps": 942,
+        "clicks": 3,
+        "conv": 3.53,
+        "value": 259.0,
+        "roas": 41.39,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -38324,8 +38324,8 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.36,
-        "imps": 556,
+        "spend": 0.55,
+        "imps": 610,
         "clicks": 4,
         "conv": 0.0,
         "value": 0.0,
@@ -38340,9 +38340,9 @@
         ]
       },
       "d7": {
-        "spend": 1.73,
-        "imps": 2762,
-        "clicks": 22,
+        "spend": 2.19,
+        "imps": 3362,
+        "clicks": 26,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -38356,9 +38356,9 @@
         ]
       },
       "d30": {
-        "spend": 2.9,
-        "imps": 2995,
-        "clicks": 27,
+        "spend": 3.44,
+        "imps": 3574,
+        "clicks": 31,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -38387,9 +38387,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 9.22,
-        "imps": 6656,
-        "clicks": 22,
+        "spend": 8.34,
+        "imps": 5900,
+        "clicks": 25,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -38403,12 +38403,12 @@
         ]
       },
       "d7": {
-        "spend": 23.32,
-        "imps": 22568,
-        "clicks": 112,
-        "conv": 0.32,
-        "value": 37.5,
-        "roas": 1.61,
+        "spend": 31.24,
+        "imps": 28359,
+        "clicks": 137,
+        "conv": 1.23,
+        "value": 73.65,
+        "roas": 2.36,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -38419,12 +38419,12 @@
         ]
       },
       "d30": {
-        "spend": 41.11,
-        "imps": 36708,
-        "clicks": 155,
-        "conv": 4.34,
-        "value": 396.17,
-        "roas": 9.64,
+        "spend": 47.46,
+        "imps": 37892,
+        "clicks": 171,
+        "conv": 5.9,
+        "value": 449.52,
+        "roas": 9.47,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -38450,9 +38450,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 23.3,
-        "imps": 20543,
-        "clicks": 100,
+        "spend": 35.32,
+        "imps": 32772,
+        "clicks": 182,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -38466,12 +38466,12 @@
         ]
       },
       "d7": {
-        "spend": 40.55,
-        "imps": 39983,
-        "clicks": 200,
-        "conv": 3.52,
-        "value": 622.17,
-        "roas": 15.34,
+        "spend": 75.33,
+        "imps": 72672,
+        "clicks": 382,
+        "conv": 3.54,
+        "value": 624.42,
+        "roas": 8.29,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -38482,12 +38482,12 @@
         ]
       },
       "d30": {
-        "spend": 64.85,
-        "imps": 59253,
-        "clicks": 263,
-        "conv": 7.56,
-        "value": 944.12,
-        "roas": 14.56,
+        "spend": 98.5,
+        "imps": 87147,
+        "clicks": 426,
+        "conv": 6.86,
+        "value": 953.04,
+        "roas": 9.68,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -38513,9 +38513,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 1.3,
-        "imps": 2280,
-        "clicks": 9,
+        "spend": 0.96,
+        "imps": 1302,
+        "clicks": 5,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -38529,9 +38529,9 @@
         ]
       },
       "d7": {
-        "spend": 4.03,
-        "imps": 10133,
-        "clicks": 46,
+        "spend": 4.96,
+        "imps": 11428,
+        "clicks": 51,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -38545,9 +38545,9 @@
         ]
       },
       "d30": {
-        "spend": 4.83,
-        "imps": 10571,
-        "clicks": 48,
+        "spend": 5.78,
+        "imps": 11808,
+        "clicks": 53,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -38574,9 +38574,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 3.34,
-        "imps": 2867,
-        "clicks": 9,
+        "spend": 9.11,
+        "imps": 7183,
+        "clicks": 19,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -38590,9 +38590,9 @@
         ]
       },
       "d7": {
-        "spend": 10.72,
-        "imps": 10746,
-        "clicks": 35,
+        "spend": 19.72,
+        "imps": 17915,
+        "clicks": 54,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -38606,9 +38606,9 @@
         ]
       },
       "d30": {
-        "spend": 13.01,
-        "imps": 11657,
-        "clicks": 38,
+        "spend": 22.1,
+        "imps": 18690,
+        "clicks": 57,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -38635,9 +38635,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 6.55,
-        "imps": 5896,
-        "clicks": 15,
+        "spend": 7.64,
+        "imps": 7708,
+        "clicks": 21,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -38651,9 +38651,9 @@
         ]
       },
       "d7": {
-        "spend": 23.47,
-        "imps": 25302,
-        "clicks": 83,
+        "spend": 30.81,
+        "imps": 32970,
+        "clicks": 104,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -38667,12 +38667,12 @@
         ]
       },
       "d30": {
-        "spend": 27.85,
-        "imps": 27548,
-        "clicks": 91,
+        "spend": 35.39,
+        "imps": 34834,
+        "clicks": 112,
         "conv": 0.89,
         "value": 102.19,
-        "roas": 3.67,
+        "roas": 2.89,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -38698,9 +38698,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 7.63,
-        "imps": 10542,
-        "clicks": 45,
+        "spend": 2.75,
+        "imps": 4270,
+        "clicks": 15,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -38714,9 +38714,9 @@
         ]
       },
       "d7": {
-        "spend": 13.27,
-        "imps": 23208,
-        "clicks": 115,
+        "spend": 15.83,
+        "imps": 27452,
+        "clicks": 130,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -38730,9 +38730,9 @@
         ]
       },
       "d30": {
-        "spend": 16.13,
-        "imps": 25344,
-        "clicks": 121,
+        "spend": 18.78,
+        "imps": 29203,
+        "clicks": 136,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -38761,12 +38761,12 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 4.97,
-        "imps": 1273,
-        "clicks": 5,
-        "conv": 0.85,
-        "value": 44.99,
-        "roas": 9.05,
+        "spend": 2.38,
+        "imps": 595,
+        "clicks": 7,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -38777,12 +38777,12 @@
         ]
       },
       "d7": {
-        "spend": 10.12,
-        "imps": 3983,
-        "clicks": 20,
-        "conv": 2.85,
-        "value": 276.94,
-        "roas": 27.36,
+        "spend": 11.48,
+        "imps": 4499,
+        "clicks": 27,
+        "conv": 1.85,
+        "value": 187.94,
+        "roas": 16.37,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -38793,12 +38793,12 @@
         ]
       },
       "d30": {
-        "spend": 28.52,
-        "imps": 6180,
-        "clicks": 41,
+        "spend": 30.56,
+        "imps": 6663,
+        "clicks": 44,
         "conv": 2.93,
         "value": 284.03,
-        "roas": 9.96,
+        "roas": 9.29,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -38824,9 +38824,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 1.68,
-        "imps": 2407,
-        "clicks": 18,
+        "spend": 0.82,
+        "imps": 1188,
+        "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -38840,9 +38840,9 @@
         ]
       },
       "d7": {
-        "spend": 3.2,
-        "imps": 5591,
-        "clicks": 30,
+        "spend": 4.01,
+        "imps": 6772,
+        "clicks": 29,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -38856,12 +38856,12 @@
         ]
       },
       "d30": {
-        "spend": 4.33,
-        "imps": 6147,
+        "spend": 5.09,
+        "imps": 7183,
         "clicks": 32,
         "conv": 1.04,
         "value": 72.09,
-        "roas": 16.66,
+        "roas": 14.18,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -38887,9 +38887,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 7.06,
-        "imps": 4650,
-        "clicks": 10,
+        "spend": 5.83,
+        "imps": 2939,
+        "clicks": 12,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -38903,12 +38903,12 @@
         ]
       },
       "d7": {
-        "spend": 14.12,
-        "imps": 9435,
-        "clicks": 39,
+        "spend": 19.45,
+        "imps": 12307,
+        "clicks": 49,
         "conv": 0.33,
         "value": 32.46,
-        "roas": 2.3,
+        "roas": 1.67,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -38919,12 +38919,12 @@
         ]
       },
       "d30": {
-        "spend": 31.43,
-        "imps": 13161,
-        "clicks": 59,
-        "conv": 1.12,
-        "value": 123.21,
-        "roas": 3.92,
+        "spend": 36.28,
+        "imps": 15507,
+        "clicks": 70,
+        "conv": 1.01,
+        "value": 112.06,
+        "roas": 3.09,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -38950,9 +38950,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 45.76,
-        "imps": 26216,
-        "clicks": 134,
+        "spend": 15.11,
+        "imps": 10085,
+        "clicks": 62,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -38966,12 +38966,12 @@
         ]
       },
       "d7": {
-        "spend": 62.17,
-        "imps": 53382,
-        "clicks": 299,
-        "conv": 5.95,
-        "value": 909.78,
-        "roas": 14.63,
+        "spend": 76.27,
+        "imps": 63295,
+        "clicks": 360,
+        "conv": 5.68,
+        "value": 890.76,
+        "roas": 11.68,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -38982,12 +38982,12 @@
         ]
       },
       "d30": {
-        "spend": 82.73,
-        "imps": 70563,
-        "clicks": 362,
+        "spend": 96.9,
+        "imps": 78102,
+        "clicks": 414,
         "conv": 11.0,
         "value": 1456.49,
-        "roas": 17.61,
+        "roas": 15.03,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -39013,9 +39013,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 4.49,
-        "imps": 4021,
-        "clicks": 8,
+        "spend": 7.63,
+        "imps": 5078,
+        "clicks": 13,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -39029,12 +39029,12 @@
         ]
       },
       "d7": {
-        "spend": 10.54,
-        "imps": 7552,
-        "clicks": 26,
+        "spend": 18.06,
+        "imps": 12617,
+        "clicks": 39,
         "conv": 0.04,
         "value": 4.32,
-        "roas": 0.41,
+        "roas": 0.24,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -39045,12 +39045,12 @@
         ]
       },
       "d30": {
-        "spend": 11.97,
-        "imps": 7952,
-        "clicks": 28,
+        "spend": 19.58,
+        "imps": 12971,
+        "clicks": 41,
         "conv": 0.2,
         "value": 18.08,
-        "roas": 1.51,
+        "roas": 0.92,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -39076,8 +39076,8 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 1.28,
-        "imps": 1150,
+        "spend": 1.39,
+        "imps": 1060,
         "clicks": 5,
         "conv": 0.0,
         "value": 0.0,
@@ -39092,9 +39092,9 @@
         ]
       },
       "d7": {
-        "spend": 3.12,
-        "imps": 3363,
-        "clicks": 18,
+        "spend": 4.43,
+        "imps": 4419,
+        "clicks": 23,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -39108,12 +39108,12 @@
         ]
       },
       "d30": {
-        "spend": 4.86,
-        "imps": 3725,
-        "clicks": 21,
+        "spend": 6.23,
+        "imps": 4722,
+        "clicks": 26,
         "conv": 0.08,
         "value": 24.44,
-        "roas": 5.03,
+        "roas": 3.92,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -39139,12 +39139,12 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 1.38,
-        "imps": 1148,
-        "clicks": 2,
-        "conv": 0.0,
-        "value": 0.0,
-        "roas": 0.0,
+        "spend": 1.85,
+        "imps": 1303,
+        "clicks": 7,
+        "conv": 0.16,
+        "value": 16.11,
+        "roas": 8.72,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -39155,12 +39155,12 @@
         ]
       },
       "d7": {
-        "spend": 4.09,
-        "imps": 5161,
-        "clicks": 26,
-        "conv": 0.0,
-        "value": 0.0,
-        "roas": 0.0,
+        "spend": 5.91,
+        "imps": 6462,
+        "clicks": 33,
+        "conv": 0.18,
+        "value": 16.9,
+        "roas": 2.86,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -39171,12 +39171,12 @@
         ]
       },
       "d30": {
-        "spend": 5.16,
-        "imps": 5931,
-        "clicks": 28,
-        "conv": 0.0,
-        "value": 0.0,
-        "roas": 0.0,
+        "spend": 6.97,
+        "imps": 7037,
+        "clicks": 35,
+        "conv": 0.18,
+        "value": 16.9,
+        "roas": 2.43,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -39202,9 +39202,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 73.42,
-        "imps": 43515,
-        "clicks": 209,
+        "spend": 105.4,
+        "imps": 61819,
+        "clicks": 397,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -39218,12 +39218,12 @@
         ]
       },
       "d7": {
-        "spend": 133.83,
-        "imps": 75812,
-        "clicks": 375,
+        "spend": 238.3,
+        "imps": 137533,
+        "clicks": 772,
         "conv": 3.16,
         "value": 180.04,
-        "roas": 1.35,
+        "roas": 0.76,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -39234,12 +39234,12 @@
         ]
       },
       "d30": {
-        "spend": 157.28,
-        "imps": 103319,
-        "clicks": 448,
+        "spend": 260.88,
+        "imps": 160460,
+        "clicks": 833,
         "conv": 5.78,
         "value": 637.12,
-        "roas": 4.05,
+        "roas": 2.44,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -39815,9 +39815,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.71,
-        "imps": 95,
-        "clicks": 0,
+        "spend": 4.84,
+        "imps": 929,
+        "clicks": 8,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -39831,9 +39831,9 @@
         ]
       },
       "d7": {
-        "spend": 0.95,
-        "imps": 306,
-        "clicks": 2,
+        "spend": 5.79,
+        "imps": 1234,
+        "clicks": 10,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -39847,12 +39847,12 @@
         ]
       },
       "d30": {
-        "spend": 2.62,
-        "imps": 446,
-        "clicks": 3,
+        "spend": 7.46,
+        "imps": 1375,
+        "clicks": 11,
         "conv": 1.0,
         "value": 899.1,
-        "roas": 343.44,
+        "roas": 120.52,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -39878,8 +39878,8 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.31,
-        "imps": 641,
+        "spend": 0.68,
+        "imps": 942,
         "clicks": 7,
         "conv": 0.0,
         "value": 0.0,
@@ -39894,9 +39894,9 @@
         ]
       },
       "d7": {
-        "spend": 0.94,
-        "imps": 2746,
-        "clicks": 16,
+        "spend": 1.62,
+        "imps": 3687,
+        "clicks": 23,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -39910,12 +39910,12 @@
         ]
       },
       "d30": {
-        "spend": 1.31,
-        "imps": 2776,
-        "clicks": 18,
+        "spend": 2.0,
+        "imps": 3717,
+        "clicks": 25,
         "conv": 0.15,
         "value": 13.63,
-        "roas": 10.38,
+        "roas": 6.83,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -40112,9 +40112,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.77,
-        "imps": 304,
-        "clicks": 4,
+        "spend": 2.97,
+        "imps": 628,
+        "clicks": 5,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -40128,9 +40128,9 @@
         ]
       },
       "d7": {
-        "spend": 1.26,
-        "imps": 1587,
-        "clicks": 12,
+        "spend": 4.23,
+        "imps": 2215,
+        "clicks": 17,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -40144,9 +40144,9 @@
         ]
       },
       "d30": {
-        "spend": 1.77,
-        "imps": 1649,
-        "clicks": 12,
+        "spend": 4.73,
+        "imps": 2277,
+        "clicks": 17,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -40173,9 +40173,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.13,
-        "imps": 166,
-        "clicks": 1,
+        "spend": 0.36,
+        "imps": 248,
+        "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -40189,8 +40189,8 @@
         ]
       },
       "d7": {
-        "spend": 0.55,
-        "imps": 676,
+        "spend": 0.91,
+        "imps": 923,
         "clicks": 2,
         "conv": 0.0,
         "value": 0.0,
@@ -40205,8 +40205,8 @@
         ]
       },
       "d30": {
-        "spend": 0.75,
-        "imps": 688,
+        "spend": 1.1,
+        "imps": 936,
         "clicks": 2,
         "conv": 0.0,
         "value": 0.0,
@@ -40250,8 +40250,8 @@
         ]
       },
       "d7": {
-        "spend": 1.4,
-        "imps": 907,
+        "spend": 1.38,
+        "imps": 901,
         "clicks": 1,
         "conv": 0.0,
         "value": 0.0,
@@ -40307,8 +40307,8 @@
         ]
       },
       "d7": {
-        "spend": 0.54,
-        "imps": 1742,
+        "spend": 0.48,
+        "imps": 1741,
         "clicks": 7,
         "conv": 0.0,
         "value": 0.0,
@@ -40364,8 +40364,8 @@
         ]
       },
       "d7": {
-        "spend": 1.69,
-        "imps": 3730,
+        "spend": 1.64,
+        "imps": 3728,
         "clicks": 25,
         "conv": 0.0,
         "value": 0.0,
@@ -40407,12 +40407,12 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.81,
-        "imps": 349,
-        "clicks": 1,
+        "spend": 3.11,
+        "imps": 1196,
+        "clicks": 7,
         "conv": 0.0,
-        "value": 0.0,
-        "roas": 0.0,
+        "value": 0.85,
+        "roas": 0.27,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -40423,12 +40423,12 @@
         ]
       },
       "d7": {
-        "spend": 2.6,
-        "imps": 1790,
-        "clicks": 9,
+        "spend": 5.71,
+        "imps": 2986,
+        "clicks": 16,
         "conv": 0.0,
-        "value": 0.0,
-        "roas": 0.0,
+        "value": 0.85,
+        "roas": 0.15,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -40439,12 +40439,12 @@
         ]
       },
       "d30": {
-        "spend": 3.78,
-        "imps": 1908,
-        "clicks": 9,
+        "spend": 6.89,
+        "imps": 3104,
+        "clicks": 16,
         "conv": 0.0,
-        "value": 0.0,
-        "roas": 0.0,
+        "value": 0.85,
+        "roas": 0.12,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -40470,8 +40470,8 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.06,
-        "imps": 154,
+        "spend": 0.4,
+        "imps": 485,
         "clicks": 2,
         "conv": 0.0,
         "value": 0.0,
@@ -40486,9 +40486,9 @@
         ]
       },
       "d7": {
-        "spend": 0.5,
-        "imps": 1816,
-        "clicks": 16,
+        "spend": 0.9,
+        "imps": 2301,
+        "clicks": 18,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -40502,9 +40502,9 @@
         ]
       },
       "d30": {
-        "spend": 0.9,
-        "imps": 1858,
-        "clicks": 17,
+        "spend": 1.29,
+        "imps": 2343,
+        "clicks": 19,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -40543,12 +40543,12 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.19,
-        "imps": 277,
-        "clicks": 1,
-        "conv": 0.0,
-        "value": 0.0,
-        "roas": 0.0,
+        "spend": 0.91,
+        "imps": 981,
+        "clicks": 6,
+        "conv": 0.35,
+        "value": 35.11,
+        "roas": 38.61,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -40559,12 +40559,12 @@
         ]
       },
       "d7": {
-        "spend": 0.83,
-        "imps": 1499,
-        "clicks": 10,
-        "conv": 0.0,
-        "value": 0.0,
-        "roas": 0.0,
+        "spend": 1.74,
+        "imps": 2480,
+        "clicks": 16,
+        "conv": 0.35,
+        "value": 35.11,
+        "roas": 20.2,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -40575,12 +40575,12 @@
         ]
       },
       "d30": {
-        "spend": 0.97,
-        "imps": 1527,
-        "clicks": 11,
-        "conv": 0.0,
-        "value": 0.0,
-        "roas": 0.0,
+        "spend": 1.88,
+        "imps": 2508,
+        "clicks": 17,
+        "conv": 0.35,
+        "value": 35.11,
+        "roas": 18.63,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -40606,9 +40606,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.68,
-        "imps": 345,
-        "clicks": 3,
+        "spend": 4.66,
+        "imps": 1776,
+        "clicks": 10,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -40622,9 +40622,9 @@
         ]
       },
       "d7": {
-        "spend": 2.67,
-        "imps": 2829,
-        "clicks": 12,
+        "spend": 7.3,
+        "imps": 4603,
+        "clicks": 22,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -40638,12 +40638,12 @@
         ]
       },
       "d30": {
-        "spend": 3.55,
-        "imps": 2946,
-        "clicks": 13,
-        "conv": 0.03,
-        "value": 6.94,
-        "roas": 1.95,
+        "spend": 8.21,
+        "imps": 4722,
+        "clicks": 23,
+        "conv": 0.5,
+        "value": 13.96,
+        "roas": 1.7,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -40669,9 +40669,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.49,
-        "imps": 427,
-        "clicks": 2,
+        "spend": 0.83,
+        "imps": 748,
+        "clicks": 3,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -40685,9 +40685,9 @@
         ]
       },
       "d7": {
-        "spend": 2.95,
-        "imps": 4358,
-        "clicks": 31,
+        "spend": 3.77,
+        "imps": 5106,
+        "clicks": 34,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -40701,12 +40701,12 @@
         ]
       },
       "d30": {
-        "spend": 3.01,
-        "imps": 4373,
-        "clicks": 31,
+        "spend": 3.84,
+        "imps": 5121,
+        "clicks": 34,
         "conv": 0.82,
         "value": 73.17,
-        "roas": 24.33,
+        "roas": 19.07,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -40746,8 +40746,8 @@
         ]
       },
       "d7": {
-        "spend": 0.31,
-        "imps": 459,
+        "spend": 0.3,
+        "imps": 458,
         "clicks": 3,
         "conv": 0.0,
         "value": 0.0,
@@ -40804,7 +40804,7 @@
       },
       "d7": {
         "spend": 0.21,
-        "imps": 510,
+        "imps": 509,
         "clicks": 3,
         "conv": 0.0,
         "value": 0.0,
@@ -40860,8 +40860,8 @@
         ]
       },
       "d7": {
-        "spend": 0.42,
-        "imps": 153,
+        "spend": 0.41,
+        "imps": 152,
         "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
@@ -40903,9 +40903,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.83,
-        "imps": 1589,
-        "clicks": 10,
+        "spend": 0.89,
+        "imps": 2167,
+        "clicks": 13,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -40919,9 +40919,9 @@
         ]
       },
       "d7": {
-        "spend": 2.74,
-        "imps": 8803,
-        "clicks": 43,
+        "spend": 3.63,
+        "imps": 10970,
+        "clicks": 56,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -40935,9 +40935,9 @@
         ]
       },
       "d30": {
-        "spend": 2.99,
-        "imps": 8840,
-        "clicks": 43,
+        "spend": 3.88,
+        "imps": 11007,
+        "clicks": 56,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -41025,9 +41025,9 @@
     "in_dg_active": false,
     "perf": {
       "d1": {
-        "spend": 0.05,
-        "imps": 31,
-        "clicks": 0,
+        "spend": 0.65,
+        "imps": 174,
+        "clicks": 2,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -41041,9 +41041,9 @@
         ]
       },
       "d7": {
-        "spend": 0.54,
-        "imps": 412,
-        "clicks": 2,
+        "spend": 1.18,
+        "imps": 586,
+        "clicks": 4,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -41057,9 +41057,9 @@
         ]
       },
       "d30": {
-        "spend": 0.54,
-        "imps": 415,
-        "clicks": 2,
+        "spend": 1.19,
+        "imps": 589,
+        "clicks": 4,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -41088,9 +41088,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 3.67,
-        "imps": 1440,
-        "clicks": 4,
+        "spend": 3.77,
+        "imps": 1811,
+        "clicks": 7,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -41104,12 +41104,12 @@
         ]
       },
       "d7": {
-        "spend": 7.37,
-        "imps": 2313,
-        "clicks": 9,
-        "conv": 3.28,
-        "value": 275.99,
-        "roas": 37.47,
+        "spend": 10.54,
+        "imps": 4038,
+        "clicks": 15,
+        "conv": 2.28,
+        "value": 150.77,
+        "roas": 14.31,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -41120,12 +41120,12 @@
         ]
       },
       "d30": {
-        "spend": 14.77,
-        "imps": 3270,
-        "clicks": 22,
+        "spend": 18.54,
+        "imps": 5080,
+        "clicks": 29,
         "conv": 3.79,
         "value": 278.55,
-        "roas": 18.86,
+        "roas": 15.03,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -41167,9 +41167,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.43,
-        "imps": 466,
-        "clicks": 5,
+        "spend": 0.84,
+        "imps": 1138,
+        "clicks": 6,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -41183,9 +41183,9 @@
         ]
       },
       "d7": {
-        "spend": 0.79,
-        "imps": 899,
-        "clicks": 6,
+        "spend": 1.58,
+        "imps": 2030,
+        "clicks": 12,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -41199,9 +41199,9 @@
         ]
       },
       "d30": {
-        "spend": 1.02,
-        "imps": 940,
-        "clicks": 6,
+        "spend": 1.86,
+        "imps": 2078,
+        "clicks": 12,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -41230,9 +41230,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 4.56,
-        "imps": 1133,
-        "clicks": 7,
+        "spend": 2.72,
+        "imps": 1732,
+        "clicks": 5,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -41246,12 +41246,12 @@
         ]
       },
       "d7": {
-        "spend": 9.84,
-        "imps": 2760,
-        "clicks": 19,
-        "conv": 0.78,
-        "value": 63.29,
-        "roas": 6.43,
+        "spend": 11.97,
+        "imps": 4429,
+        "clicks": 23,
+        "conv": 1.52,
+        "value": 121.33,
+        "roas": 10.13,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -41262,12 +41262,12 @@
         ]
       },
       "d30": {
-        "spend": 17.76,
-        "imps": 3808,
-        "clicks": 28,
-        "conv": 1.64,
-        "value": 196.24,
-        "roas": 11.05,
+        "spend": 20.47,
+        "imps": 5539,
+        "clicks": 33,
+        "conv": 2.38,
+        "value": 254.28,
+        "roas": 12.42,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -41293,9 +41293,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.87,
-        "imps": 590,
-        "clicks": 3,
+        "spend": 0.92,
+        "imps": 868,
+        "clicks": 0,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -41309,8 +41309,8 @@
         ]
       },
       "d7": {
-        "spend": 1.9,
-        "imps": 1044,
+        "spend": 2.6,
+        "imps": 1889,
         "clicks": 7,
         "conv": 0.0,
         "value": 0.0,
@@ -41325,8 +41325,8 @@
         ]
       },
       "d30": {
-        "spend": 2.82,
-        "imps": 1172,
+        "spend": 3.74,
+        "imps": 2040,
         "clicks": 8,
         "conv": 0.0,
         "value": 0.0,
@@ -41371,12 +41371,12 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 3.83,
-        "imps": 790,
-        "clicks": 4,
-        "conv": 0.03,
-        "value": 0.48,
-        "roas": 0.12,
+        "spend": 4.6,
+        "imps": 1310,
+        "clicks": 7,
+        "conv": 0.17,
+        "value": 20.05,
+        "roas": 4.36,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -41387,12 +41387,12 @@
         ]
       },
       "d7": {
-        "spend": 7.73,
-        "imps": 1678,
-        "clicks": 12,
-        "conv": 0.07,
-        "value": 1.32,
-        "roas": 0.17,
+        "spend": 11.65,
+        "imps": 2908,
+        "clicks": 17,
+        "conv": 0.24,
+        "value": 21.37,
+        "roas": 1.83,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -41403,12 +41403,12 @@
         ]
       },
       "d30": {
-        "spend": 20.16,
-        "imps": 2872,
-        "clicks": 25,
-        "conv": 3.38,
-        "value": 302.88,
-        "roas": 15.02,
+        "spend": 24.76,
+        "imps": 4182,
+        "clicks": 32,
+        "conv": 3.54,
+        "value": 322.93,
+        "roas": 13.04,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -41435,9 +41435,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.45,
-        "imps": 664,
-        "clicks": 4,
+        "spend": 0.53,
+        "imps": 1239,
+        "clicks": 9,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -41451,9 +41451,9 @@
         ]
       },
       "d7": {
-        "spend": 1.28,
-        "imps": 1374,
-        "clicks": 6,
+        "spend": 1.76,
+        "imps": 2600,
+        "clicks": 15,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -41467,9 +41467,9 @@
         ]
       },
       "d30": {
-        "spend": 1.95,
-        "imps": 1452,
-        "clicks": 6,
+        "spend": 2.49,
+        "imps": 2691,
+        "clicks": 15,
         "conv": 1.12,
         "value": 0.0,
         "roas": 0.0,
@@ -41499,9 +41499,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 5.47,
-        "imps": 2569,
-        "clicks": 14,
+        "spend": 10.02,
+        "imps": 6162,
+        "clicks": 30,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -41515,12 +41515,12 @@
         ]
       },
       "d7": {
-        "spend": 12.83,
-        "imps": 5576,
-        "clicks": 46,
-        "conv": 1.4,
-        "value": 107.47,
-        "roas": 8.37,
+        "spend": 21.59,
+        "imps": 11628,
+        "clicks": 74,
+        "conv": 1.02,
+        "value": 69.87,
+        "roas": 3.24,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -41531,12 +41531,12 @@
         ]
       },
       "d30": {
-        "spend": 27.74,
-        "imps": 7159,
-        "clicks": 61,
+        "spend": 37.75,
+        "imps": 13321,
+        "clicks": 91,
         "conv": 2.26,
         "value": 164.52,
-        "roas": 5.93,
+        "roas": 4.36,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -41575,12 +41575,12 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 17.42,
-        "imps": 6783,
-        "clicks": 50,
-        "conv": 0.03,
-        "value": 0.53,
-        "roas": 0.03,
+        "spend": 7.03,
+        "imps": 2972,
+        "clicks": 29,
+        "conv": 0.0,
+        "value": 0.0,
+        "roas": 0.0,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -41591,12 +41591,12 @@
         ]
       },
       "d7": {
-        "spend": 34.45,
-        "imps": 19846,
-        "clicks": 147,
-        "conv": 1.92,
-        "value": 76.4,
-        "roas": 2.22,
+        "spend": 39.34,
+        "imps": 22412,
+        "clicks": 169,
+        "conv": 2.75,
+        "value": 72.82,
+        "roas": 1.85,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -41607,12 +41607,12 @@
         ]
       },
       "d30": {
-        "spend": 34.69,
-        "imps": 19867,
-        "clicks": 147,
-        "conv": 1.92,
-        "value": 76.4,
-        "roas": 2.2,
+        "spend": 41.72,
+        "imps": 22839,
+        "clicks": 176,
+        "conv": 2.84,
+        "value": 81.9,
+        "roas": 1.96,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -41699,9 +41699,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.21,
-        "imps": 212,
-        "clicks": 2,
+        "spend": 0.33,
+        "imps": 456,
+        "clicks": 5,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -41714,9 +41714,9 @@
         ]
       },
       "d7": {
-        "spend": 0.8,
-        "imps": 2570,
-        "clicks": 23,
+        "spend": 1.12,
+        "imps": 3026,
+        "clicks": 28,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -41729,9 +41729,9 @@
         ]
       },
       "d30": {
-        "spend": 0.8,
-        "imps": 2570,
-        "clicks": 23,
+        "spend": 1.12,
+        "imps": 3026,
+        "clicks": 28,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -41759,9 +41759,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.65,
-        "imps": 2073,
-        "clicks": 21,
+        "spend": 1.76,
+        "imps": 4293,
+        "clicks": 35,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -41774,9 +41774,9 @@
         ]
       },
       "d7": {
-        "spend": 1.5,
-        "imps": 6242,
-        "clicks": 42,
+        "spend": 3.27,
+        "imps": 10535,
+        "clicks": 77,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -41789,9 +41789,9 @@
         ]
       },
       "d30": {
-        "spend": 1.5,
-        "imps": 6242,
-        "clicks": 42,
+        "spend": 3.27,
+        "imps": 10535,
+        "clicks": 77,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -41820,9 +41820,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 7.58,
-        "imps": 8255,
-        "clicks": 20,
+        "spend": 17.09,
+        "imps": 16793,
+        "clicks": 50,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -41835,12 +41835,12 @@
         ]
       },
       "d7": {
-        "spend": 33.78,
-        "imps": 66560,
-        "clicks": 247,
-        "conv": 0.0,
-        "value": 0.0,
-        "roas": 0.0,
+        "spend": 50.87,
+        "imps": 83352,
+        "clicks": 297,
+        "conv": 0.06,
+        "value": 2.67,
+        "roas": 0.05,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -41850,12 +41850,12 @@
         ]
       },
       "d30": {
-        "spend": 33.78,
-        "imps": 66560,
-        "clicks": 247,
-        "conv": 0.0,
-        "value": 0.0,
-        "roas": 0.0,
+        "spend": 50.87,
+        "imps": 83352,
+        "clicks": 297,
+        "conv": 0.06,
+        "value": 2.67,
+        "roas": 0.05,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -41881,8 +41881,8 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.56,
-        "imps": 1331,
+        "spend": 2.85,
+        "imps": 3323,
         "clicks": 10,
         "conv": 0.0,
         "value": 0.0,
@@ -41896,9 +41896,9 @@
         ]
       },
       "d7": {
-        "spend": 1.13,
-        "imps": 2548,
-        "clicks": 14,
+        "spend": 3.98,
+        "imps": 5870,
+        "clicks": 24,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -41911,9 +41911,9 @@
         ]
       },
       "d30": {
-        "spend": 1.13,
-        "imps": 2548,
-        "clicks": 14,
+        "spend": 3.98,
+        "imps": 5870,
+        "clicks": 24,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -41942,12 +41942,12 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 1.34,
-        "imps": 3280,
-        "clicks": 27,
-        "conv": 0.0,
-        "value": 0.0,
-        "roas": 0.0,
+        "spend": 1.58,
+        "imps": 4250,
+        "clicks": 30,
+        "conv": 0.08,
+        "value": 9.09,
+        "roas": 5.77,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -41957,12 +41957,12 @@
         ]
       },
       "d7": {
-        "spend": 2.26,
-        "imps": 7013,
-        "clicks": 47,
-        "conv": 0.0,
-        "value": 0.0,
-        "roas": 0.0,
+        "spend": 3.84,
+        "imps": 11263,
+        "clicks": 77,
+        "conv": 0.08,
+        "value": 9.09,
+        "roas": 2.37,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -41972,12 +41972,12 @@
         ]
       },
       "d30": {
-        "spend": 2.26,
-        "imps": 7013,
-        "clicks": 47,
-        "conv": 0.0,
-        "value": 0.0,
-        "roas": 0.0,
+        "spend": 3.84,
+        "imps": 11263,
+        "clicks": 77,
+        "conv": 0.08,
+        "value": 9.09,
+        "roas": 2.37,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -42003,9 +42003,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 23.87,
-        "imps": 36595,
-        "clicks": 301,
+        "spend": 14.71,
+        "imps": 16328,
+        "clicks": 100,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -42018,12 +42018,12 @@
         ]
       },
       "d7": {
-        "spend": 211.89,
-        "imps": 553007,
-        "clicks": 3318,
-        "conv": 0.0,
-        "value": 0.0,
-        "roas": 0.0,
+        "spend": 226.61,
+        "imps": 569334,
+        "clicks": 3418,
+        "conv": 0.07,
+        "value": 6.61,
+        "roas": 0.03,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -42033,12 +42033,12 @@
         ]
       },
       "d30": {
-        "spend": 211.89,
-        "imps": 553007,
-        "clicks": 3318,
-        "conv": 0.0,
-        "value": 0.0,
-        "roas": 0.0,
+        "spend": 226.61,
+        "imps": 569334,
+        "clicks": 3418,
+        "conv": 0.07,
+        "value": 6.61,
+        "roas": 0.03,
         "campaigns": [
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenACQUGCCombined",
           "GD-Buy-CrossSell-Evergreen-Mix-Manual-WorldWide-2ndPurchase-YTDemandGenRETShortsUGCCombined"
@@ -42064,9 +42064,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 4.2,
-        "imps": 7484,
-        "clicks": 46,
+        "spend": 8.51,
+        "imps": 14375,
+        "clicks": 116,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -42079,9 +42079,9 @@
         ]
       },
       "d7": {
-        "spend": 5.1,
-        "imps": 10636,
-        "clicks": 66,
+        "spend": 13.61,
+        "imps": 25011,
+        "clicks": 182,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -42094,9 +42094,9 @@
         ]
       },
       "d30": {
-        "spend": 5.1,
-        "imps": 10636,
-        "clicks": 66,
+        "spend": 13.61,
+        "imps": 25011,
+        "clicks": 182,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -42122,9 +42122,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.25,
-        "imps": 584,
-        "clicks": 3,
+        "spend": 0.4,
+        "imps": 602,
+        "clicks": 2,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -42138,9 +42138,9 @@
         ]
       },
       "d7": {
-        "spend": 0.25,
-        "imps": 584,
-        "clicks": 3,
+        "spend": 0.65,
+        "imps": 1186,
+        "clicks": 5,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -42154,9 +42154,9 @@
         ]
       },
       "d30": {
-        "spend": 0.25,
-        "imps": 584,
-        "clicks": 3,
+        "spend": 0.65,
+        "imps": 1186,
+        "clicks": 5,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -42183,9 +42183,9 @@
     "in_dg_active": true,
     "perf": {
       "d1": {
-        "spend": 0.4,
-        "imps": 976,
-        "clicks": 3,
+        "spend": 0.32,
+        "imps": 602,
+        "clicks": 4,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -42199,9 +42199,9 @@
         ]
       },
       "d7": {
-        "spend": 0.4,
-        "imps": 976,
-        "clicks": 3,
+        "spend": 0.72,
+        "imps": 1578,
+        "clicks": 7,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,
@@ -42215,9 +42215,9 @@
         ]
       },
       "d30": {
-        "spend": 0.4,
-        "imps": 976,
-        "clicks": 3,
+        "spend": 0.72,
+        "imps": 1578,
+        "clicks": 7,
         "conv": 0.0,
         "value": 0.0,
         "roas": 0.0,

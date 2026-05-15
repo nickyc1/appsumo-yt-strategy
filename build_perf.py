@@ -58,7 +58,8 @@ def aggregate(rows):
 all_perf = {}
 for label, fname in RANGES.items():
     with open(ROOT / fname) as f:
-        data = json.load(f)["data"]
+        raw = json.load(f)
+        data = raw.get("result") or raw.get("data") or []
     all_perf[label] = aggregate(data)
     total_spend = sum(p["spend"] for p in all_perf[label].values())
     print(f"{label}: {len(all_perf[label])} videos, total spend ${total_spend:,.2f}")

@@ -1,0 +1,53 @@
+name: Refresh AppSumo YT Catalog
+
+on:
+  # Mon + Thu at 9am Central Time (14:00 UTC during DST / 15:00 UTC during ST).
+  # 14:00 UTC = 9am CDT (March-Nov), 8am CST (Nov-March). Acceptable drift.
+  schedule:
+    - cron: '0 14 * * 1,4'
+  # Allow manual runs from the Actions tab for ad-hoc refreshes.
+  workflow_dispatch:
+
+permissions:
+  contents: write  # so the action can commit + push the refreshed JSON/HTML
+
+concurrency:
+  group: refresh-catalog
+  cancel-in-progress: false  # let in-flight runs finish; queue new ones
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run refresh script
+        env:
+          GOOGLE_ADS_CLIENT_ID:        ${{ secrets.GOOGLE_ADS_CLIENT_ID }}
+          GOOGLE_ADS_CLIENT_SECRET:    ${{ secrets.GOOGLE_ADS_CLIENT_SECRET }}
+          GOOGLE_ADS_REFRESH_TOKEN:    ${{ secrets.GOOGLE_ADS_REFRESH_TOKEN }}
+          GOOGLE_ADS_DEVELOPER_TOKEN:  ${{ secrets.GOOGLE_ADS_DEVELOPER_TOKEN }}
+          GOOGLE_ADS_LOGIN_CUSTOMER_ID: ${{ secrets.GOOGLE_ADS_LOGIN_CUSTOMER_ID }}
+        run: python3 scripts/refresh.py
+
+      - name: Commit & push if there are changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add all_videos.json daily_perf.json summary.json index.html \
+                    asset_perf_yesterday.json asset_perf_7d.json asset_perf_30d.json \
+                    daily_raw_30d.json perf_by_video.json 2>/dev/null || true
+            git commit -m "chore: weekly catalog refresh ($(date -u +%Y-%m-%d))"
+            git push
+            echo "::notice::Pushed refreshed catalog data."
+          else
+            echo "::notice::No changes to commit."
+          fi

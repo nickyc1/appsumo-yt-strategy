@@ -7,7 +7,7 @@ old approach of dividing ad metrics equally across video variants).
 """
 import json
 from pathlib import Path
-ROOT = Path("/Users/nickchristensen/appsumo-yt-strategy")
+ROOT = Path(__file__).resolve().parent
 
 RANGES = {
     "d1":  "asset_perf_yesterday.json",

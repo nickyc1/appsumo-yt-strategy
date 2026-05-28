@@ -1,10 +1,14 @@
 name: Refresh AppSumo YT Catalog
 
 on:
-  # Mon + Thu at 9am Central Time (14:00 UTC during DST / 15:00 UTC during ST).
-  # 14:00 UTC = 9am CDT (March-Nov), 8am CST (Nov-March). Acceptable drift.
+  # Mon + Thu at 7am Central Time (12:00 UTC during DST / 13:00 UTC during ST).
+  # GitHub Actions scheduled workflows can be silently delayed or dropped
+  # during platform load — common on free tier. We run a backup cron 2 hours
+  # later as redundancy. If the primary fires successfully, the backup
+  # detects "no changes to commit" and exits cleanly (idempotent).
   schedule:
-    - cron: '0 14 * * 1,4'
+    - cron: '0 12 * * 1,4'  # primary:  7am CDT (12:00 UTC), Mon + Thu
+    - cron: '0 14 * * 1,4'  # backup:   9am CDT (14:00 UTC), Mon + Thu
   # Allow manual runs from the Actions tab for ad-hoc refreshes.
   workflow_dispatch:
 

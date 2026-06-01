@@ -1,41 +1,5 @@
 [
   {
-    "date": "2026-04-28",
-    "spend": 13.03,
-    "imps": 3109,
-    "clicks": 24,
-    "conv": 2.51,
-    "value": 281.8,
-    "roas": 21.63
-  },
-  {
-    "date": "2026-04-29",
-    "spend": 9.22,
-    "imps": 1727,
-    "clicks": 17,
-    "conv": 1.44,
-    "value": 78.26,
-    "roas": 8.49
-  },
-  {
-    "date": "2026-04-30",
-    "spend": 11.26,
-    "imps": 1358,
-    "clicks": 11,
-    "conv": 1.49,
-    "value": 198.71,
-    "roas": 17.65
-  },
-  {
-    "date": "2026-05-01",
-    "spend": 9.65,
-    "imps": 903,
-    "clicks": 5,
-    "conv": 0.89,
-    "value": 88.44,
-    "roas": 9.16
-  },
-  {
     "date": "2026-05-02",
     "spend": 11.4,
     "imps": 1287,
@@ -136,137 +100,173 @@
   },
   {
     "date": "2026-05-13",
-    "spend": 380.41,
-    "imps": 291358,
-    "clicks": 1592,
+    "spend": 380.16,
+    "imps": 290774,
+    "clicks": 1589,
     "conv": 6.4,
     "value": 721.98,
     "roas": 1.9
   },
   {
     "date": "2026-05-14",
-    "spend": 471.07,
-    "imps": 376882,
-    "clicks": 2063,
+    "spend": 470.67,
+    "imps": 376280,
+    "clicks": 2061,
     "conv": 5.35,
     "value": 750.17,
     "roas": 1.59
   },
   {
     "date": "2026-05-15",
-    "spend": 278.08,
-    "imps": 254214,
-    "clicks": 1337,
-    "conv": 6.82,
-    "value": 766.7,
-    "roas": 2.76
+    "spend": 277.99,
+    "imps": 254077,
+    "clicks": 1336,
+    "conv": 7.82,
+    "value": 934.7,
+    "roas": 3.36
   },
   {
     "date": "2026-05-16",
-    "spend": 146.35,
-    "imps": 222912,
+    "spend": 146.3,
+    "imps": 222866,
     "clicks": 986,
-    "conv": 4.12,
-    "value": 291.8,
-    "roas": 1.99
+    "conv": 4.67,
+    "value": 385.51,
+    "roas": 2.64
   },
   {
     "date": "2026-05-17",
-    "spend": 137.74,
-    "imps": 214243,
+    "spend": 137.58,
+    "imps": 214232,
     "clicks": 363,
     "conv": 1.85,
     "value": 293.87,
-    "roas": 2.13
+    "roas": 2.14
   },
   {
     "date": "2026-05-18",
-    "spend": 48.45,
-    "imps": 27837,
+    "spend": 48.42,
+    "imps": 27825,
     "clicks": 83,
     "conv": 6.27,
     "value": 994.18,
-    "roas": 20.52
+    "roas": 20.53
   },
   {
     "date": "2026-05-19",
-    "spend": 46.64,
-    "imps": 9764,
+    "spend": 46.59,
+    "imps": 9734,
     "clicks": 69,
     "conv": 4.67,
     "value": 756.8,
-    "roas": 16.23
+    "roas": 16.24
   },
   {
     "date": "2026-05-20",
-    "spend": 119.48,
-    "imps": 120779,
-    "clicks": 599,
-    "conv": 2.88,
-    "value": 781.62,
-    "roas": 6.54
+    "spend": 119.45,
+    "imps": 120771,
+    "clicks": 598,
+    "conv": 3.44,
+    "value": 792.36,
+    "roas": 6.63
   },
   {
     "date": "2026-05-21",
-    "spend": 72.87,
-    "imps": 25116,
+    "spend": 72.84,
+    "imps": 25104,
     "clicks": 77,
     "conv": 9.53,
     "value": 1525.04,
-    "roas": 20.93
+    "roas": 20.94
   },
   {
     "date": "2026-05-22",
-    "spend": 48.14,
-    "imps": 6725,
+    "spend": 48.09,
+    "imps": 6716,
     "clicks": 46,
     "conv": 4.97,
     "value": 693.41,
-    "roas": 14.4
+    "roas": 14.42
   },
   {
     "date": "2026-05-23",
-    "spend": 35.86,
-    "imps": 9846,
+    "spend": 35.85,
+    "imps": 9843,
     "clicks": 27,
     "conv": 4.96,
     "value": 766.37,
-    "roas": 21.37
+    "roas": 21.38
   },
   {
     "date": "2026-05-24",
-    "spend": 42.07,
-    "imps": 10959,
+    "spend": 41.69,
+    "imps": 10950,
     "clicks": 41,
     "conv": 2.03,
     "value": 536.39,
-    "roas": 12.75
+    "roas": 12.87
   },
   {
     "date": "2026-05-25",
-    "spend": 49.62,
-    "imps": 20052,
-    "clicks": 88,
+    "spend": 49.16,
+    "imps": 19855,
+    "clicks": 85,
     "conv": 8.32,
     "value": 592.16,
-    "roas": 11.93
+    "roas": 12.05
   },
   {
     "date": "2026-05-26",
-    "spend": 75.27,
-    "imps": 116931,
-    "clicks": 528,
-    "conv": 2.39,
+    "spend": 73.99,
+    "imps": 114939,
+    "clicks": 525,
+    "conv": 3.21,
     "value": 125.72,
-    "roas": 1.67
+    "roas": 1.7
   },
   {
     "date": "2026-05-27",
-    "spend": 153.86,
-    "imps": 324008,
-    "clicks": 1641,
+    "spend": 150.73,
+    "imps": 319066,
+    "clicks": 1618,
     "conv": 0.0,
     "value": 0.0,
     "roas": 0.0
+  },
+  {
+    "date": "2026-05-28",
+    "spend": 224.91,
+    "imps": 491678,
+    "clicks": 2276,
+    "conv": 0.0,
+    "value": 0.0,
+    "roas": 0.0
+  },
+  {
+    "date": "2026-05-29",
+    "spend": 235.6,
+    "imps": 411300,
+    "clicks": 1887,
+    "conv": 2.83,
+    "value": 298.43,
+    "roas": 1.27
+  },
+  {
+    "date": "2026-05-30",
+    "spend": 67.81,
+    "imps": 4485,
+    "clicks": 48,
+    "conv": 0.86,
+    "value": 108.8,
+    "roas": 1.6
+  },
+  {
+    "date": "2026-05-31",
+    "spend": 47.89,
+    "imps": 3961,
+    "clicks": 45,
+    "conv": 0.27,
+    "value": 58.96,
+    "roas": 1.23
   }
 ]
